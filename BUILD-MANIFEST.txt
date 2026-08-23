@@ -1,0 +1,5 @@
+Generated mapper types: 2774
+Map-referenced types: 769
+Mapper properties retained: 6234
+Custom map variables declared: 51
+Referenced icon resources not found: 0

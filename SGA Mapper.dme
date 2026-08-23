@@ -1,0 +1,45 @@
+// BEGIN_INTERNALS
+// END_INTERNALS
+// BEGIN_FILE_DIR
+#define FILE_DIR .
+#define FILE_DIR "Icons"
+#define FILE_DIR "Icons/ver1.11 stuff"
+#define FILE_DIR "Icons/ver1.11 stuff/icons"
+#define FILE_DIR "Icons/ver1.11 stuff/icons/seths stuff"
+#define FILE_DIR "Icons/Alteran"
+#define FILE_DIR "Icons/altgate"
+#define FILE_DIR "Icons/bar"
+#define FILE_DIR "Icons/Buildings"
+#define FILE_DIR "Icons/DHD"
+#define FILE_DIR "Icons/DHD/Glyph's"
+#define FILE_DIR "Icons/DHD/Glyph's/milkyway"
+#define FILE_DIR "Icons/Doors"
+#define FILE_DIR "Icons/firis"
+#define FILE_DIR "Icons/gate"
+#define FILE_DIR "Icons/gate_atlantis"
+#define FILE_DIR "Icons/gate_universe"
+#define FILE_DIR "Icons/Halloween"
+#define FILE_DIR "Icons/HUD"
+#define FILE_DIR "Icons/iris"
+#define FILE_DIR "Icons/Mobs"
+#define FILE_DIR "Icons/Mobs/main"
+#define FILE_DIR "Icons/Mobs/TauriOutfits"
+#define FILE_DIR "Icons/OutfitIcons"
+#define FILE_DIR "Icons/OutfitIcons/Capes"
+#define FILE_DIR "Icons/Outfits"
+#define FILE_DIR "Icons/Outfits/Capes"
+#define FILE_DIR "Icons/Outfits/Face"
+#define FILE_DIR "Icons/Outfits/SystemLords"
+#define FILE_DIR "Icons/Outfits/tokra"
+#define FILE_DIR "Icons/pdasymbols"
+#define FILE_DIR "Icons/SGC"
+#define FILE_DIR "Icons/Turfs"
+#define FILE_DIR "PNG"
+// END_FILE_DIR
+// BEGIN_PREFERENCES
+#define DEBUG
+// END_PREFERENCES
+// BEGIN_INCLUDE
+#include "Code\MapperDefinitions.dm"
+#include "Maps\Blank.dmm"
+// END_INCLUDE
