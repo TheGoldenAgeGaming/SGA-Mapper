@@ -34,6 +34,7 @@
 #define FILE_DIR "Icons/pdasymbols"
 #define FILE_DIR "Icons/SGC"
 #define FILE_DIR "Icons/Turfs"
+#define FILE_DIR "Icons/Turfs/Nicks-night-turfs"
 #define FILE_DIR "PNG"
 // END_FILE_DIR
 // BEGIN_PREFERENCES

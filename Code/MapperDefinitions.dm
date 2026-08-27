@@ -12357,3 +12357,742 @@
 	density = 0
 	opacity = 0
 	icon = null
+
+// Night-art variants retain the behavior and mapping properties of their daytime parents.
+
+/obj/ATMOb/night
+	parent_type = /obj/ATMOb
+	icon = 'Icons/Turfs/Nicks-night-turfs/Ruins_Night.dmi'
+
+/obj/ATMOb/Top/night
+	parent_type = /obj/ATMOb/Top
+	icon = 'Icons/Turfs/Nicks-night-turfs/Ruins_Night.dmi'
+
+/obj/generated_exploration/poi_prop/fire_pit/night
+	parent_type = /obj/generated_exploration/poi_prop/fire_pit
+	icon = 'Icons/Turfs/Nicks-night-turfs/otherturfs_Night.dmi'
+
+/obj/Statues2/night
+	parent_type = /obj/Statues2
+	icon = 'Icons/Turfs/Nicks-night-turfs/Heaven_Night.dmi'
+
+/obj/Trees/night
+	parent_type = /obj/Trees
+	icon = 'Icons/Turfs/Nicks-night-turfs/New-Trees_Night.dmi'
+
+/obj/Trees/generated_exploration/night
+	parent_type = /obj/Trees/generated_exploration
+	icon = 'Icons/Turfs/Nicks-night-turfs/New-Trees_Night.dmi'
+
+/obj/Trees/generated_exploration_boundary/night
+	parent_type = /obj/Trees/generated_exploration_boundary
+	icon = 'Icons/Turfs/Nicks-night-turfs/New-Trees_Night.dmi'
+
+/turf/Cave/NewCave/night
+	parent_type = /turf/Cave/NewCave
+	icon = 'Icons/Turfs/Nicks-night-turfs/NewTurfs_Night.dmi'
+	icon_state = "1"
+
+/turf/Cave/NewCave/cave/night
+	parent_type = /turf/Cave/NewCave/cave
+	icon = 'Icons/Turfs/Nicks-night-turfs/NewTurfs_Night.dmi'
+
+/turf/Cave/NewCave/cave1/night
+	parent_type = /turf/Cave/NewCave/cave1
+	icon = 'Icons/Turfs/Nicks-night-turfs/NewTurfs_Night.dmi'
+
+/turf/Cave/NewCave/cave10/night
+	parent_type = /turf/Cave/NewCave/cave10
+	icon = 'Icons/Turfs/Nicks-night-turfs/NewTurfs_Night.dmi'
+
+/turf/Cave/NewCave/cave11/night
+	parent_type = /turf/Cave/NewCave/cave11
+	icon = 'Icons/Turfs/Nicks-night-turfs/NewTurfs_Night.dmi'
+
+/turf/Cave/NewCave/cave12/night
+	parent_type = /turf/Cave/NewCave/cave12
+	icon = 'Icons/Turfs/Nicks-night-turfs/NewTurfs_Night.dmi'
+
+/turf/Cave/NewCave/cave13/night
+	parent_type = /turf/Cave/NewCave/cave13
+	icon = 'Icons/Turfs/Nicks-night-turfs/NewTurfs_Night.dmi'
+
+/turf/Cave/NewCave/cave14/night
+	parent_type = /turf/Cave/NewCave/cave14
+	icon = 'Icons/Turfs/Nicks-night-turfs/NewTurfs_Night.dmi'
+
+/turf/Cave/NewCave/cave15/night
+	parent_type = /turf/Cave/NewCave/cave15
+	icon = 'Icons/Turfs/Nicks-night-turfs/NewTurfs_Night.dmi'
+
+/turf/Cave/NewCave/cave16/night
+	parent_type = /turf/Cave/NewCave/cave16
+	icon = 'Icons/Turfs/Nicks-night-turfs/NewTurfs_Night.dmi'
+
+/turf/Cave/NewCave/cave17/night
+	parent_type = /turf/Cave/NewCave/cave17
+	icon = 'Icons/Turfs/Nicks-night-turfs/NewTurfs_Night.dmi'
+
+/turf/Cave/NewCave/cave18/night
+	parent_type = /turf/Cave/NewCave/cave18
+	icon = 'Icons/Turfs/Nicks-night-turfs/NewTurfs_Night.dmi'
+
+/turf/Cave/NewCave/cave19/night
+	parent_type = /turf/Cave/NewCave/cave19
+	icon = 'Icons/Turfs/Nicks-night-turfs/NewTurfs_Night.dmi'
+
+/turf/Cave/NewCave/cave2/night
+	parent_type = /turf/Cave/NewCave/cave2
+	icon = 'Icons/Turfs/Nicks-night-turfs/NewTurfs_Night.dmi'
+
+/turf/Cave/NewCave/cave20/night
+	parent_type = /turf/Cave/NewCave/cave20
+	icon = 'Icons/Turfs/Nicks-night-turfs/NewTurfs_Night.dmi'
+
+/turf/Cave/NewCave/cave21/night
+	parent_type = /turf/Cave/NewCave/cave21
+	icon = 'Icons/Turfs/Nicks-night-turfs/NewTurfs_Night.dmi'
+
+/turf/Cave/NewCave/cave22/night
+	parent_type = /turf/Cave/NewCave/cave22
+	icon = 'Icons/Turfs/Nicks-night-turfs/NewTurfs_Night.dmi'
+
+/turf/Cave/NewCave/cave23/night
+	parent_type = /turf/Cave/NewCave/cave23
+	icon = 'Icons/Turfs/Nicks-night-turfs/NewTurfs_Night.dmi'
+
+/turf/Cave/NewCave/cave24/night
+	parent_type = /turf/Cave/NewCave/cave24
+	icon = 'Icons/Turfs/Nicks-night-turfs/NewTurfs_Night.dmi'
+
+/turf/Cave/NewCave/cave25/night
+	parent_type = /turf/Cave/NewCave/cave25
+	icon = 'Icons/Turfs/Nicks-night-turfs/NewTurfs_Night.dmi'
+
+/turf/Cave/NewCave/cave26/night
+	parent_type = /turf/Cave/NewCave/cave26
+	icon = 'Icons/Turfs/Nicks-night-turfs/NewTurfs_Night.dmi'
+
+/turf/Cave/NewCave/cave27/night
+	parent_type = /turf/Cave/NewCave/cave27
+	icon = 'Icons/Turfs/Nicks-night-turfs/NewTurfs_Night.dmi'
+
+/turf/Cave/NewCave/cave28/night
+	parent_type = /turf/Cave/NewCave/cave28
+	icon = 'Icons/Turfs/Nicks-night-turfs/NewTurfs_Night.dmi'
+
+/turf/Cave/NewCave/cave29/night
+	parent_type = /turf/Cave/NewCave/cave29
+	icon = 'Icons/Turfs/Nicks-night-turfs/NewTurfs_Night.dmi'
+
+/turf/Cave/NewCave/cave3/night
+	parent_type = /turf/Cave/NewCave/cave3
+	icon = 'Icons/Turfs/Nicks-night-turfs/NewTurfs_Night.dmi'
+
+/turf/Cave/NewCave/cave30/night
+	parent_type = /turf/Cave/NewCave/cave30
+	icon = 'Icons/Turfs/Nicks-night-turfs/NewTurfs_Night.dmi'
+
+/turf/Cave/NewCave/cave31/night
+	parent_type = /turf/Cave/NewCave/cave31
+	icon = 'Icons/Turfs/Nicks-night-turfs/NewTurfs_Night.dmi'
+
+/turf/Cave/NewCave/cave32/night
+	parent_type = /turf/Cave/NewCave/cave32
+	icon = 'Icons/Turfs/Nicks-night-turfs/NewTurfs_Night.dmi'
+
+/turf/Cave/NewCave/cave33/night
+	parent_type = /turf/Cave/NewCave/cave33
+	icon = 'Icons/Turfs/Nicks-night-turfs/NewTurfs_Night.dmi'
+
+/turf/Cave/NewCave/cave34/night
+	parent_type = /turf/Cave/NewCave/cave34
+	icon = 'Icons/Turfs/Nicks-night-turfs/NewTurfs_Night.dmi'
+
+/turf/Cave/NewCave/cave35/night
+	parent_type = /turf/Cave/NewCave/cave35
+	icon = 'Icons/Turfs/Nicks-night-turfs/NewTurfs_Night.dmi'
+
+/turf/Cave/NewCave/cave4/night
+	parent_type = /turf/Cave/NewCave/cave4
+	icon = 'Icons/Turfs/Nicks-night-turfs/NewTurfs_Night.dmi'
+
+/turf/Cave/NewCave/cave5/night
+	parent_type = /turf/Cave/NewCave/cave5
+	icon = 'Icons/Turfs/Nicks-night-turfs/NewTurfs_Night.dmi'
+
+/turf/Cave/NewCave/cave6/night
+	parent_type = /turf/Cave/NewCave/cave6
+	icon = 'Icons/Turfs/Nicks-night-turfs/NewTurfs_Night.dmi'
+
+/turf/Cave/NewCave/cave7/night
+	parent_type = /turf/Cave/NewCave/cave7
+	icon = 'Icons/Turfs/Nicks-night-turfs/NewTurfs_Night.dmi'
+
+/turf/Cave/NewCave/cave8/night
+	parent_type = /turf/Cave/NewCave/cave8
+	icon = 'Icons/Turfs/Nicks-night-turfs/NewTurfs_Night.dmi'
+
+/turf/Cave/NewCave/cave9/night
+	parent_type = /turf/Cave/NewCave/cave9
+	icon = 'Icons/Turfs/Nicks-night-turfs/NewTurfs_Night.dmi'
+
+/turf/event/map/night
+	parent_type = /turf/event/map
+	icon = 'Icons/Turfs/Nicks-night-turfs/Event_Turfs_Night.dmi'
+
+/turf/event/map/dirt/night
+	parent_type = /turf/event/map/dirt
+	icon = 'Icons/Turfs/Nicks-night-turfs/Event_Turfs_Night.dmi'
+
+/turf/event/map/waterfall/night
+	parent_type = /turf/event/map/waterfall
+	icon = 'Icons/Turfs/Nicks-night-turfs/Event_Turfs_Night.dmi'
+
+/turf/Final_addins/other_turfs/dirt/night
+	parent_type = /turf/Final_addins/other_turfs/dirt
+	icon = 'Icons/Turfs/Nicks-night-turfs/otherturfs_Night.dmi'
+
+/turf/Final_addins/other_turfs/pebble/night
+	parent_type = /turf/Final_addins/other_turfs/pebble
+	icon = 'Icons/Turfs/Nicks-night-turfs/otherturfs_Night.dmi'
+
+/turf/Final_addins/other_turfs/rock/night
+	parent_type = /turf/Final_addins/other_turfs/rock
+	icon = 'Icons/Turfs/Nicks-night-turfs/otherturfs_Night.dmi'
+
+/turf/Final_addins/other_turfs/rock2/night
+	parent_type = /turf/Final_addins/other_turfs/rock2
+	icon = 'Icons/Turfs/Nicks-night-turfs/otherturfs_Night.dmi'
+
+/turf/Final_addins/other_turfs/rocks/night
+	parent_type = /turf/Final_addins/other_turfs/rocks
+	icon = 'Icons/Turfs/Nicks-night-turfs/otherturfs_Night.dmi'
+
+/turf/Final_addins/other_turfs/turf1/night
+	parent_type = /turf/Final_addins/other_turfs/turf1
+	icon = 'Icons/Turfs/Nicks-night-turfs/otherturfs_Night.dmi'
+
+/turf/Final_addins/other_turfs/turf10/night
+	parent_type = /turf/Final_addins/other_turfs/turf10
+	icon = 'Icons/Turfs/Nicks-night-turfs/otherturfs_Night.dmi'
+
+/turf/Final_addins/other_turfs/turf11/night
+	parent_type = /turf/Final_addins/other_turfs/turf11
+	icon = 'Icons/Turfs/Nicks-night-turfs/otherturfs_Night.dmi'
+
+/turf/Final_addins/other_turfs/turf12/night
+	parent_type = /turf/Final_addins/other_turfs/turf12
+	icon = 'Icons/Turfs/Nicks-night-turfs/otherturfs_Night.dmi'
+
+/turf/Final_addins/other_turfs/turf13/night
+	parent_type = /turf/Final_addins/other_turfs/turf13
+	icon = 'Icons/Turfs/Nicks-night-turfs/otherturfs_Night.dmi'
+
+/turf/Final_addins/other_turfs/turf14/night
+	parent_type = /turf/Final_addins/other_turfs/turf14
+	icon = 'Icons/Turfs/Nicks-night-turfs/otherturfs_Night.dmi'
+
+/turf/Final_addins/other_turfs/turf15/night
+	parent_type = /turf/Final_addins/other_turfs/turf15
+	icon = 'Icons/Turfs/Nicks-night-turfs/otherturfs_Night.dmi'
+
+/turf/Final_addins/other_turfs/turf16/night
+	parent_type = /turf/Final_addins/other_turfs/turf16
+	icon = 'Icons/Turfs/Nicks-night-turfs/otherturfs_Night.dmi'
+
+/turf/Final_addins/other_turfs/turf17/night
+	parent_type = /turf/Final_addins/other_turfs/turf17
+	icon = 'Icons/Turfs/Nicks-night-turfs/otherturfs_Night.dmi'
+
+/turf/Final_addins/other_turfs/turf18/night
+	parent_type = /turf/Final_addins/other_turfs/turf18
+	icon = 'Icons/Turfs/Nicks-night-turfs/otherturfs_Night.dmi'
+
+/turf/Final_addins/other_turfs/turf19/night
+	parent_type = /turf/Final_addins/other_turfs/turf19
+	icon = 'Icons/Turfs/Nicks-night-turfs/otherturfs_Night.dmi'
+
+/turf/Final_addins/other_turfs/turf2/night
+	parent_type = /turf/Final_addins/other_turfs/turf2
+	icon = 'Icons/Turfs/Nicks-night-turfs/otherturfs_Night.dmi'
+
+/turf/Final_addins/other_turfs/turf20/night
+	parent_type = /turf/Final_addins/other_turfs/turf20
+	icon = 'Icons/Turfs/Nicks-night-turfs/otherturfs_Night.dmi'
+
+/turf/Final_addins/other_turfs/turf21/night
+	parent_type = /turf/Final_addins/other_turfs/turf21
+	icon = 'Icons/Turfs/Nicks-night-turfs/otherturfs_Night.dmi'
+
+/turf/Final_addins/other_turfs/turf22/night
+	parent_type = /turf/Final_addins/other_turfs/turf22
+	icon = 'Icons/Turfs/Nicks-night-turfs/otherturfs_Night.dmi'
+
+/turf/Final_addins/other_turfs/turf23/night
+	parent_type = /turf/Final_addins/other_turfs/turf23
+	icon = 'Icons/Turfs/Nicks-night-turfs/otherturfs_Night.dmi'
+
+/turf/Final_addins/other_turfs/turf24/night
+	parent_type = /turf/Final_addins/other_turfs/turf24
+	icon = 'Icons/Turfs/Nicks-night-turfs/otherturfs_Night.dmi'
+
+/turf/Final_addins/other_turfs/turf25/night
+	parent_type = /turf/Final_addins/other_turfs/turf25
+	icon = 'Icons/Turfs/Nicks-night-turfs/otherturfs_Night.dmi'
+
+/turf/Final_addins/other_turfs/turf26/night
+	parent_type = /turf/Final_addins/other_turfs/turf26
+	icon = 'Icons/Turfs/Nicks-night-turfs/otherturfs_Night.dmi'
+
+/turf/Final_addins/other_turfs/turf27/night
+	parent_type = /turf/Final_addins/other_turfs/turf27
+	icon = 'Icons/Turfs/Nicks-night-turfs/otherturfs_Night.dmi'
+
+/turf/Final_addins/other_turfs/turf3/night
+	parent_type = /turf/Final_addins/other_turfs/turf3
+	icon = 'Icons/Turfs/Nicks-night-turfs/otherturfs_Night.dmi'
+
+/turf/Final_addins/other_turfs/turf4/night
+	parent_type = /turf/Final_addins/other_turfs/turf4
+	icon = 'Icons/Turfs/Nicks-night-turfs/otherturfs_Night.dmi'
+
+/turf/Final_addins/other_turfs/turf5/night
+	parent_type = /turf/Final_addins/other_turfs/turf5
+	icon = 'Icons/Turfs/Nicks-night-turfs/otherturfs_Night.dmi'
+
+/turf/Final_addins/other_turfs/turf6/night
+	parent_type = /turf/Final_addins/other_turfs/turf6
+	icon = 'Icons/Turfs/Nicks-night-turfs/otherturfs_Night.dmi'
+
+/turf/Final_addins/other_turfs/turf7/night
+	parent_type = /turf/Final_addins/other_turfs/turf7
+	icon = 'Icons/Turfs/Nicks-night-turfs/otherturfs_Night.dmi'
+
+/turf/Final_addins/other_turfs/turf8/night
+	parent_type = /turf/Final_addins/other_turfs/turf8
+	icon = 'Icons/Turfs/Nicks-night-turfs/otherturfs_Night.dmi'
+
+/turf/Final_addins/other_turfs/turf9/night
+	parent_type = /turf/Final_addins/other_turfs/turf9
+	icon = 'Icons/Turfs/Nicks-night-turfs/otherturfs_Night.dmi'
+
+/turf/Final_addins/other_turfs/water/night
+	parent_type = /turf/Final_addins/other_turfs/water
+	icon = 'Icons/Turfs/Nicks-night-turfs/otherturfs_Night.dmi'
+
+/turf/Final_addins/other_turfs/water1/night
+	parent_type = /turf/Final_addins/other_turfs/water1
+	icon = 'Icons/Turfs/Nicks-night-turfs/otherturfs_Night.dmi'
+
+/turf/Final_addins/other_turfs/water10/night
+	parent_type = /turf/Final_addins/other_turfs/water10
+	icon = 'Icons/Turfs/Nicks-night-turfs/otherturfs_Night.dmi'
+
+/turf/Final_addins/other_turfs/water11/night
+	parent_type = /turf/Final_addins/other_turfs/water11
+	icon = 'Icons/Turfs/Nicks-night-turfs/otherturfs_Night.dmi'
+
+/turf/Final_addins/other_turfs/water12/night
+	parent_type = /turf/Final_addins/other_turfs/water12
+	icon = 'Icons/Turfs/Nicks-night-turfs/otherturfs_Night.dmi'
+
+/turf/Final_addins/other_turfs/water13/night
+	parent_type = /turf/Final_addins/other_turfs/water13
+	icon = 'Icons/Turfs/Nicks-night-turfs/otherturfs_Night.dmi'
+
+/turf/Final_addins/other_turfs/water2/night
+	parent_type = /turf/Final_addins/other_turfs/water2
+	icon = 'Icons/Turfs/Nicks-night-turfs/otherturfs_Night.dmi'
+
+/turf/Final_addins/other_turfs/water3/night
+	parent_type = /turf/Final_addins/other_turfs/water3
+	icon = 'Icons/Turfs/Nicks-night-turfs/otherturfs_Night.dmi'
+
+/turf/Final_addins/other_turfs/water4/night
+	parent_type = /turf/Final_addins/other_turfs/water4
+	icon = 'Icons/Turfs/Nicks-night-turfs/otherturfs_Night.dmi'
+
+/turf/Final_addins/other_turfs/water5/night
+	parent_type = /turf/Final_addins/other_turfs/water5
+	icon = 'Icons/Turfs/Nicks-night-turfs/otherturfs_Night.dmi'
+
+/turf/Final_addins/other_turfs/water6/night
+	parent_type = /turf/Final_addins/other_turfs/water6
+	icon = 'Icons/Turfs/Nicks-night-turfs/otherturfs_Night.dmi'
+
+/turf/Final_addins/other_turfs/water7/night
+	parent_type = /turf/Final_addins/other_turfs/water7
+	icon = 'Icons/Turfs/Nicks-night-turfs/otherturfs_Night.dmi'
+
+/turf/Final_addins/other_turfs/water8/night
+	parent_type = /turf/Final_addins/other_turfs/water8
+	icon = 'Icons/Turfs/Nicks-night-turfs/otherturfs_Night.dmi'
+
+/turf/Final_addins/other_turfs/water9/night
+	parent_type = /turf/Final_addins/other_turfs/water9
+	icon = 'Icons/Turfs/Nicks-night-turfs/otherturfs_Night.dmi'
+
+/turf/Final_addins/other_turfs/weed/night
+	parent_type = /turf/Final_addins/other_turfs/weed
+	icon = 'Icons/Turfs/Nicks-night-turfs/otherturfs_Night.dmi'
+
+/turf/Gardenturfs/border/night
+	parent_type = /turf/Gardenturfs/border
+	icon = 'Icons/Turfs/Nicks-night-turfs/garden_Night.dmi'
+
+/turf/Gardenturfs/border2/night
+	parent_type = /turf/Gardenturfs/border2
+	icon = 'Icons/Turfs/Nicks-night-turfs/garden_Night.dmi'
+
+/turf/Gardenturfs/border3/night
+	parent_type = /turf/Gardenturfs/border3
+	icon = 'Icons/Turfs/Nicks-night-turfs/garden_Night.dmi'
+
+/turf/Gardenturfs/bush/night
+	parent_type = /turf/Gardenturfs/bush
+	icon = 'Icons/Turfs/Nicks-night-turfs/garden_Night.dmi'
+
+/turf/Gardenturfs/door/night
+	parent_type = /turf/Gardenturfs/door
+	icon = 'Icons/Turfs/Nicks-night-turfs/garden_Night.dmi'
+
+/turf/Gardenturfs/door2/night
+	parent_type = /turf/Gardenturfs/door2
+	icon = 'Icons/Turfs/Nicks-night-turfs/garden_Night.dmi'
+
+/turf/Gardenturfs/door3/night
+	parent_type = /turf/Gardenturfs/door3
+	icon = 'Icons/Turfs/Nicks-night-turfs/garden_Night.dmi'
+
+/turf/Gardenturfs/door4/night
+	parent_type = /turf/Gardenturfs/door4
+	icon = 'Icons/Turfs/Nicks-night-turfs/garden_Night.dmi'
+
+/turf/Gardenturfs/door5/night
+	parent_type = /turf/Gardenturfs/door5
+	icon = 'Icons/Turfs/Nicks-night-turfs/garden_Night.dmi'
+
+/turf/Gardenturfs/flower/night
+	parent_type = /turf/Gardenturfs/flower
+	icon = 'Icons/Turfs/Nicks-night-turfs/garden_Night.dmi'
+
+/turf/Gardenturfs/flower2/night
+	parent_type = /turf/Gardenturfs/flower2
+	icon = 'Icons/Turfs/Nicks-night-turfs/garden_Night.dmi'
+
+/turf/Gardenturfs/grass/night
+	parent_type = /turf/Gardenturfs/grass
+	icon = 'Icons/Turfs/Nicks-night-turfs/garden_Night.dmi'
+
+/turf/Gardenturfs/pillar/night
+	parent_type = /turf/Gardenturfs/pillar
+	icon = 'Icons/Turfs/Nicks-night-turfs/garden_Night.dmi'
+
+/turf/Gardenturfs/pillar2/night
+	parent_type = /turf/Gardenturfs/pillar2
+	icon = 'Icons/Turfs/Nicks-night-turfs/garden_Night.dmi'
+
+/turf/Gardenturfs/rbush/night
+	parent_type = /turf/Gardenturfs/rbush
+	icon = 'Icons/Turfs/Nicks-night-turfs/garden_Night.dmi'
+
+/turf/Gardenturfs/roof/night
+	parent_type = /turf/Gardenturfs/roof
+	icon = 'Icons/Turfs/Nicks-night-turfs/garden_Night.dmi'
+
+/turf/Gardenturfs/statue1/night
+	parent_type = /turf/Gardenturfs/statue1
+	icon = 'Icons/Turfs/Nicks-night-turfs/garden_Night.dmi'
+
+/turf/Gardenturfs/statue2/night
+	parent_type = /turf/Gardenturfs/statue2
+	icon = 'Icons/Turfs/Nicks-night-turfs/garden_Night.dmi'
+
+/turf/Gardenturfs/statue3/night
+	parent_type = /turf/Gardenturfs/statue3
+	icon = 'Icons/Turfs/Nicks-night-turfs/garden_Night.dmi'
+
+/turf/Gardenturfs/statue4/night
+	parent_type = /turf/Gardenturfs/statue4
+	icon = 'Icons/Turfs/Nicks-night-turfs/garden_Night.dmi'
+
+/turf/Gardenturfs/statue5/night
+	parent_type = /turf/Gardenturfs/statue5
+	icon = 'Icons/Turfs/Nicks-night-turfs/garden_Night.dmi'
+
+/turf/Gardenturfs/stone/night
+	parent_type = /turf/Gardenturfs/stone
+	icon = 'Icons/Turfs/Nicks-night-turfs/garden_Night.dmi'
+
+/turf/Gardenturfs/tree1/night
+	parent_type = /turf/Gardenturfs/tree1
+	icon = 'Icons/Turfs/Nicks-night-turfs/garden_Night.dmi'
+
+/turf/Gardenturfs/tree2/night
+	parent_type = /turf/Gardenturfs/tree2
+	icon = 'Icons/Turfs/Nicks-night-turfs/garden_Night.dmi'
+
+/turf/Gardenturfs/tree3/night
+	parent_type = /turf/Gardenturfs/tree3
+	icon = 'Icons/Turfs/Nicks-night-turfs/garden_Night.dmi'
+
+/turf/Gardenturfs/tree4/night
+	parent_type = /turf/Gardenturfs/tree4
+	icon = 'Icons/Turfs/Nicks-night-turfs/garden_Night.dmi'
+
+/turf/Gardenturfs/tree5/night
+	parent_type = /turf/Gardenturfs/tree5
+	icon = 'Icons/Turfs/Nicks-night-turfs/garden_Night.dmi'
+
+/turf/Gardenturfs/tree6/night
+	parent_type = /turf/Gardenturfs/tree6
+	icon = 'Icons/Turfs/Nicks-night-turfs/garden_Night.dmi'
+
+/turf/Gardenturfs/wall3/night
+	parent_type = /turf/Gardenturfs/wall3
+	icon = 'Icons/Turfs/Nicks-night-turfs/garden_Night.dmi'
+
+/turf/generated_exploration/boulder/night
+	parent_type = /turf/generated_exploration/boulder
+	icon = 'Icons/Turfs/Nicks-night-turfs/otherturfs_Night.dmi'
+
+/turf/generated_exploration/boundary/night
+	parent_type = /turf/generated_exploration/boundary
+	icon = 'Icons/Turfs/Nicks-night-turfs/New-Turfs_Night.dmi'
+
+/turf/generated_exploration/clearing/night
+	parent_type = /turf/generated_exploration/clearing
+	icon = 'Icons/Turfs/Nicks-night-turfs/New-Turfs_Night.dmi'
+
+/turf/generated_exploration/desert/night
+	parent_type = /turf/generated_exploration/desert
+	icon = 'Icons/Turfs/Nicks-night-turfs/otherturfs_Night.dmi'
+
+/turf/generated_exploration/desert_variant/night
+	parent_type = /turf/generated_exploration/desert_variant
+	icon = 'Icons/Turfs/Nicks-night-turfs/otherturfs_Night.dmi'
+
+/turf/generated_exploration/forest/night
+	parent_type = /turf/generated_exploration/forest
+	icon = 'Icons/Turfs/Nicks-night-turfs/New-Turfs_Night.dmi'
+
+/turf/generated_exploration/forest_variant/night
+	parent_type = /turf/generated_exploration/forest_variant
+	icon = 'Icons/Turfs/Nicks-night-turfs/otherturfs_Night.dmi'
+
+/turf/generated_exploration/ice_rock/night
+	parent_type = /turf/generated_exploration/ice_rock
+	icon = 'Icons/Turfs/Nicks-night-turfs/otherturfs_Night.dmi'
+
+/turf/generated_exploration/path/night
+	parent_type = /turf/generated_exploration/path
+	icon = 'Icons/Turfs/Nicks-night-turfs/New-Turfs_Night.dmi'
+
+/turf/generated_exploration/tundra/night
+	parent_type = /turf/generated_exploration/tundra
+	icon = 'Icons/Turfs/Nicks-night-turfs/New-Turfs-Snow_Night.dmi'
+
+/turf/generated_exploration/tundra_variant/night
+	parent_type = /turf/generated_exploration/tundra_variant
+	icon = 'Icons/Turfs/Nicks-night-turfs/New-Turfs-Snow_Night.dmi'
+
+/turf/generated_exploration/water/night
+	parent_type = /turf/generated_exploration/water
+	icon = 'Icons/Turfs/Nicks-night-turfs/New-Turfs_Night.dmi'
+
+/turf/heaven/night
+	parent_type = /turf/heaven
+	icon = 'Icons/Turfs/Nicks-night-turfs/Heaven_Night.dmi'
+	icon_state = "floor_1"
+
+/turf/heaven/Buildings/night
+	parent_type = /turf/heaven/Buildings
+	icon = 'Icons/Turfs/Nicks-night-turfs/Heaven_Night.dmi'
+	icon_state = "wall"
+
+/turf/heaven/floor/night
+	parent_type = /turf/heaven/floor
+	icon = 'Icons/Turfs/Nicks-night-turfs/Heaven_Night.dmi'
+	icon_state = "floor_1"
+
+/turf/heaven/Statues/night
+	parent_type = /turf/heaven/Statues
+	icon = 'Icons/Turfs/Nicks-night-turfs/Heaven_Night.dmi'
+
+/turf/hell/hell/night
+	parent_type = /turf/hell/hell
+	icon = 'Icons/Turfs/Nicks-night-turfs/Heaven_Night.dmi'
+	icon_state = "floor_1"
+
+/turf/Newst/Planets/night
+	parent_type = /turf/Newst/Planets
+	icon = 'Icons/Turfs/Nicks-night-turfs/New-Turfs_Night.dmi'
+
+/turf/Newst/Planets/ChulakTurfs/night
+	parent_type = /turf/Newst/Planets/ChulakTurfs
+	icon = 'Icons/Turfs/Nicks-night-turfs/New-Turfs_Night.dmi'
+
+/turf/Newst/Planets/ChulakTurfs/grass/night
+	parent_type = /turf/Newst/Planets/ChulakTurfs/grass
+	icon = 'Icons/Turfs/Nicks-night-turfs/New-Turfs_Night.dmi'
+
+/turf/Newst/Planets/ChulakTurfs/path/night
+	parent_type = /turf/Newst/Planets/ChulakTurfs/path
+	icon = 'Icons/Turfs/Nicks-night-turfs/New-Turfs_Night.dmi'
+
+/turf/Newst/Planets/ChulakTurfs/snow/night
+	parent_type = /turf/Newst/Planets/ChulakTurfs/snow
+	icon = 'Icons/Turfs/Nicks-night-turfs/New-Turfs-Snow_Night.dmi'
+
+/turf/Newst/Planets/ChulakTurfs/water/night
+	parent_type = /turf/Newst/Planets/ChulakTurfs/water
+	icon = 'Icons/Turfs/Nicks-night-turfs/New-Turfs_Night.dmi'
+
+/turf/Newst/Trees/night
+	parent_type = /turf/Newst/Trees
+	icon = 'Icons/Turfs/Nicks-night-turfs/New-Trees_Night.dmi'
+
+/turf/Newst/Trees/tall/night
+	parent_type = /turf/Newst/Trees/tall
+	icon = 'Icons/Turfs/Nicks-night-turfs/New-Trees_Night.dmi'
+
+/turf/SGATurfs/SGFNewStatueSpecial/night
+	parent_type = /turf/SGATurfs/SGFNewStatueSpecial
+	icon = 'Icons/Turfs/Nicks-night-turfs/Statue 4_Night.dmi'
+
+/turf/SGATurfs/SGFNewStatueSpecial1/night
+	parent_type = /turf/SGATurfs/SGFNewStatueSpecial1
+	icon = 'Icons/Turfs/Nicks-night-turfs/Statue 4_Night.dmi'
+
+/turf/SGATurfs/SGFNewStatueSpecial10/night
+	parent_type = /turf/SGATurfs/SGFNewStatueSpecial10
+	icon = 'Icons/Turfs/Nicks-night-turfs/Statue 4_Night.dmi'
+
+/turf/SGATurfs/SGFNewStatueSpecial11/night
+	parent_type = /turf/SGATurfs/SGFNewStatueSpecial11
+	icon = 'Icons/Turfs/Nicks-night-turfs/Statue 4_Night.dmi'
+
+/turf/SGATurfs/SGFNewStatueSpecial2/night
+	parent_type = /turf/SGATurfs/SGFNewStatueSpecial2
+	icon = 'Icons/Turfs/Nicks-night-turfs/Statue 4_Night.dmi'
+
+/turf/SGATurfs/SGFNewStatueSpecial3/night
+	parent_type = /turf/SGATurfs/SGFNewStatueSpecial3
+	icon = 'Icons/Turfs/Nicks-night-turfs/Statue 4_Night.dmi'
+
+/turf/SGATurfs/SGFNewStatueSpecial5/night
+	parent_type = /turf/SGATurfs/SGFNewStatueSpecial5
+	icon = 'Icons/Turfs/Nicks-night-turfs/Statue 4_Night.dmi'
+
+/turf/SGATurfs/SGFNewStatueSpecial6/night
+	parent_type = /turf/SGATurfs/SGFNewStatueSpecial6
+	icon = 'Icons/Turfs/Nicks-night-turfs/Statue 4_Night.dmi'
+
+/turf/SGATurfs/SGFNewStatueSpecial7/night
+	parent_type = /turf/SGATurfs/SGFNewStatueSpecial7
+	icon = 'Icons/Turfs/Nicks-night-turfs/Statue 4_Night.dmi'
+
+/turf/SGATurfs/SGFNewStatueSpecial8/night
+	parent_type = /turf/SGATurfs/SGFNewStatueSpecial8
+	icon = 'Icons/Turfs/Nicks-night-turfs/Statue 4_Night.dmi'
+
+/turf/SGATurfs/SGFNewStatueSpecial9/night
+	parent_type = /turf/SGATurfs/SGFNewStatueSpecial9
+	icon = 'Icons/Turfs/Nicks-night-turfs/Statue 4_Night.dmi'
+
+/turf/SGATurfs/SGFNNewStatueSpecial4/night
+	parent_type = /turf/SGATurfs/SGFNNewStatueSpecial4
+	icon = 'Icons/Turfs/Nicks-night-turfs/Statue 4_Night.dmi'
+
+/turf/SGATurfs/SGFThickStatueBottem/night
+	parent_type = /turf/SGATurfs/SGFThickStatueBottem
+	icon = 'Icons/Turfs/Nicks-night-turfs/Statue2_Night.dmi'
+
+/turf/SGATurfs/SGFThickstatueMiddle/night
+	parent_type = /turf/SGATurfs/SGFThickstatueMiddle
+	icon = 'Icons/Turfs/Nicks-night-turfs/Statue2_Night.dmi'
+
+/turf/SGATurfs/SGFThickStatueTop/night
+	parent_type = /turf/SGATurfs/SGFThickStatueTop
+	icon = 'Icons/Turfs/Nicks-night-turfs/Statue2_Night.dmi'
+
+/turf/SGATurfs/SGFThinStatue/night
+	parent_type = /turf/SGATurfs/SGFThinStatue
+	icon = 'Icons/Turfs/Nicks-night-turfs/Statue3_Night.dmi'
+
+/turf/SGATurfs/SGFThinStatueTop/night
+	parent_type = /turf/SGATurfs/SGFThinStatueTop
+	icon = 'Icons/Turfs/Nicks-night-turfs/Statue3_Night.dmi'
+
+/turf/TreesNew/night
+	parent_type = /turf/TreesNew
+	icon = 'Icons/Turfs/Nicks-night-turfs/New-Trees_Night.dmi'
+
+// Mapper-placeable, non-functional ship hulls.
+
+/obj/ship_props
+	name = "Ship Prop"
+	density = 1
+	layer = 999
+
+/obj/ship_props/small
+	name = "Small Ship Prop"
+
+/obj/ship_props/small/glider
+	name = "Glider (Prop)"
+	icon = 'Icons/glider.dmi'
+	icon_state = ""
+
+/obj/ship_props/small/f302
+	name = "Tau'ri F-302 (Prop)"
+	icon = 'Icons/f302.dmi'
+	icon_state = ""
+
+/obj/ship_props/small/dart
+	name = "Wraith Dart (Prop)"
+	icon = 'Icons/dart.dmi'
+	icon_state = ""
+
+/obj/ship_props/small/jumper
+	name = "Ancient Jumper (Prop)"
+	icon = 'Icons/jumper.dmi'
+	icon_state = ""
+
+/obj/ship_props/small/asgard
+	name = "Asgard Ship (Prop)"
+	icon = 'Icons/asgardship.dmi'
+	icon_state = ""
+
+/obj/ship_props/small/satedan
+	name = "Satedan Ship (Prop)"
+	icon = 'Icons/Satedan.dmi'
+	icon_state = ""
+
+/obj/ship_props/medium
+	name = "Medium Ship Prop"
+
+/obj/ship_props/medium/puddle_jumper
+	name = "Puddle Jumper (Prop)"
+	icon = 'Icons/Puddle Jumper.dmi'
+	icon_state = ""
+
+/obj/ship_props/medium/teltak
+	name = "Tel'tak (Prop)"
+	icon = 'Icons/teltak.dmi'
+	icon_state = ""
+	transform = matrix(2, 0, 0, 0, 2, 0)
+	pixel_x = 48
+	pixel_y = 48
+	bound_width = 192
+	bound_height = 192
+
+/obj/ship_props/medium/tauri_utility_shuttle
+	name = "Tau'ri Utility Shuttle (Prop)"
+	icon = 'Icons/tauri_shuttle.dmi'
+	icon_state = ""
+	transform = matrix(2, 0, 0, 0, 2, 0)
+	pixel_x = 48
+	pixel_y = 48
+	bound_width = 192
+	bound_height = 192
