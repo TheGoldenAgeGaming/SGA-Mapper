@@ -14,6 +14,7 @@
 #define FILE_DIR "Icons/DHD/Glyph's"
 #define FILE_DIR "Icons/DHD/Glyph's/milkyway"
 #define FILE_DIR "Icons/Doors"
+#define FILE_DIR "Icons/Effects"
 #define FILE_DIR "Icons/firis"
 #define FILE_DIR "Icons/gate"
 #define FILE_DIR "Icons/gate_atlantis"

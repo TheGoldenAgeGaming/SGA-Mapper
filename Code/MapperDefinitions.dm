@@ -23,6 +23,8 @@
 		coordinates
 		creator
 		crystallock
+		day_night_blocks_light
+		day_night_light_radius
 		dest_location
 		dest_x
 		dest_y
@@ -66,6 +68,10 @@
 		water
 
 /area
+	var
+		day_night_interior_color
+		day_night_receives_sky_light
+		day_night_sky_bleed_radius
 
 /mob
 
@@ -77,6 +83,7 @@
 	icon = 'Icons/Turfs.dmi'
 	icon_state = "vase"
 	name = "grass"
+	var/day_night_wall_stack_height
 
 /area/DayNight
 
@@ -13096,3 +13103,93 @@
 	pixel_y = 48
 	bound_width = 192
 	bound_height = 192
+
+// Mapper-facing day/night lighting additions from SGA.
+
+/area/day_night_interior
+	name = "Interior (day/night)"
+	day_night_receives_sky_light = 0
+	day_night_interior_color = "#10131c"
+	day_night_sky_bleed_radius = 4
+
+/obj/effect/day_night_light
+	name = ""
+	icon = 'Icons/Effects/day_night_light.dmi'
+	plane = 1
+	layer = 2
+	blend_mode = BLEND_ADD
+	mouse_opacity = 0
+	density = 0
+	opacity = 0
+	day_night_light_radius = 3
+
+/obj/day_night_lamp
+	name = "floor lamp"
+	desc = "A sturdy electric lamp casting a warm pool of light."
+	icon = 'Icons/Turfs2.dmi'
+	icon_state = "LampLight2"
+	layer = 99
+	density = 1
+	opacity = 0
+	day_night_light_radius = 3.5
+	var
+		light_on = 1
+		lockdown_controlled = 0
+		lockdown_disabled = 0
+
+/obj/day_night_lamp/ceiling
+	name = "ceiling light (horizontal)"
+	desc = "A translucent overhead fixture casting a cool white point light."
+	icon = 'Icons/Effects/ceiling_light_horizontal_left.png'
+	icon_state = ""
+	layer = 99
+	alpha = 85
+	density = 0
+	opacity = 0
+	day_night_blocks_light = -1
+	day_night_light_radius = 12
+	lockdown_controlled = 1
+	var
+		ceiling_light_color = "#f2f7ff"
+		light_center_pixel_x = 48
+		light_center_pixel_y = 0
+		extension_icon = 'Icons/Effects/ceiling_light_horizontal_right.png'
+		extension_pixel_x = 96
+		extension_pixel_y = 0
+
+/obj/day_night_lamp/ceiling/vertical
+	name = "ceiling light (vertical)"
+	icon = 'Icons/Effects/ceiling_light_vertical_bottom.png'
+	icon_state = ""
+	light_center_pixel_x = 0
+	light_center_pixel_y = 48
+	extension_icon = 'Icons/Effects/ceiling_light_vertical_top.png'
+	extension_pixel_x = 0
+	extension_pixel_y = 96
+
+/obj/day_night_lamp/sgc
+	name = "SGC Light"
+	icon = 'Icons/SGCdecor.dmi'
+	icon_state = "1"
+	day_night_light_radius = 10
+	lockdown_controlled = 1
+	var
+		wall_light_direction = SOUTH
+		wall_light_anchor_distance = 1
+		room_fill_strength = 0.9
+
+/obj/items/Flashlight
+	name = "flashlight"
+	desc = "A compact hand light. Use Toggle Flashlight while carrying it."
+	icon = 'Icons/Items.dmi'
+	icon_state = "torch"
+	suffix = "Off"
+	day_night_light_radius = 2.5
+
+/obj/outfits/Face/NightVisionGoggles
+	name = "night-vision goggles"
+	desc = "Powered goggles that replace environmental darkness with an amplified green-tinted view."
+	icon = 'Icons/WraithGoggles.dmi'
+	icon_state = "Still"
+	layer = MOB_LAYER+2
+	suffix = "(Not Wearing)"
