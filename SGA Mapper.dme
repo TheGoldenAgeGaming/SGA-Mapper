@@ -45,5 +45,6 @@
 // END_PREFERENCES
 // BEGIN_INCLUDE
 #include "Code\MapperDefinitions.dm"
+#include "Code\New SGA Icon Packs.dm"
 #include "Maps\Blank.dmm"
 // END_INCLUDE
