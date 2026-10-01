@@ -10965,3 +10965,6503 @@
 	name = "tollan_plaza_ruined"
 	icon = 'Icons/Turfs/New-SGA-Icons/TollanEnigmaTerrain.dmi'
 	icon_state = "tollan_plaza_ruined"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_2x_12x8
+	name = "SGA Abydos Pyramid Entrance 2x 12x8"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_2x_12x8.dmi'
+	icon_state = "abydos_pyramid_entrance_2x_r1c1"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_2x_12x8/state_abydos_pyramid_entrance_2x_r1c1
+	name = "abydos_pyramid_entrance_2x_r1c1"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_2x_12x8.dmi'
+	icon_state = "abydos_pyramid_entrance_2x_r1c1"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_2x_12x8/state_abydos_pyramid_entrance_2x_r1c2
+	name = "abydos_pyramid_entrance_2x_r1c2"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_2x_12x8.dmi'
+	icon_state = "abydos_pyramid_entrance_2x_r1c2"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_2x_12x8/state_abydos_pyramid_entrance_2x_r1c3
+	name = "abydos_pyramid_entrance_2x_r1c3"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_2x_12x8.dmi'
+	icon_state = "abydos_pyramid_entrance_2x_r1c3"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_2x_12x8/state_abydos_pyramid_entrance_2x_r1c4
+	name = "abydos_pyramid_entrance_2x_r1c4"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_2x_12x8.dmi'
+	icon_state = "abydos_pyramid_entrance_2x_r1c4"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_2x_12x8/state_abydos_pyramid_entrance_2x_r1c5
+	name = "abydos_pyramid_entrance_2x_r1c5"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_2x_12x8.dmi'
+	icon_state = "abydos_pyramid_entrance_2x_r1c5"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_2x_12x8/state_abydos_pyramid_entrance_2x_r1c6
+	name = "abydos_pyramid_entrance_2x_r1c6"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_2x_12x8.dmi'
+	icon_state = "abydos_pyramid_entrance_2x_r1c6"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_2x_12x8/state_abydos_pyramid_entrance_2x_r1c7
+	name = "abydos_pyramid_entrance_2x_r1c7"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_2x_12x8.dmi'
+	icon_state = "abydos_pyramid_entrance_2x_r1c7"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_2x_12x8/state_abydos_pyramid_entrance_2x_r1c8
+	name = "abydos_pyramid_entrance_2x_r1c8"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_2x_12x8.dmi'
+	icon_state = "abydos_pyramid_entrance_2x_r1c8"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_2x_12x8/state_abydos_pyramid_entrance_2x_r1c9
+	name = "abydos_pyramid_entrance_2x_r1c9"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_2x_12x8.dmi'
+	icon_state = "abydos_pyramid_entrance_2x_r1c9"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_2x_12x8/state_abydos_pyramid_entrance_2x_r1c10
+	name = "abydos_pyramid_entrance_2x_r1c10"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_2x_12x8.dmi'
+	icon_state = "abydos_pyramid_entrance_2x_r1c10"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_2x_12x8/state_abydos_pyramid_entrance_2x_r1c11
+	name = "abydos_pyramid_entrance_2x_r1c11"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_2x_12x8.dmi'
+	icon_state = "abydos_pyramid_entrance_2x_r1c11"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_2x_12x8/state_abydos_pyramid_entrance_2x_r1c12
+	name = "abydos_pyramid_entrance_2x_r1c12"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_2x_12x8.dmi'
+	icon_state = "abydos_pyramid_entrance_2x_r1c12"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_2x_12x8/state_abydos_pyramid_entrance_2x_r2c1
+	name = "abydos_pyramid_entrance_2x_r2c1"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_2x_12x8.dmi'
+	icon_state = "abydos_pyramid_entrance_2x_r2c1"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_2x_12x8/state_abydos_pyramid_entrance_2x_r2c2
+	name = "abydos_pyramid_entrance_2x_r2c2"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_2x_12x8.dmi'
+	icon_state = "abydos_pyramid_entrance_2x_r2c2"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_2x_12x8/state_abydos_pyramid_entrance_2x_r2c3
+	name = "abydos_pyramid_entrance_2x_r2c3"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_2x_12x8.dmi'
+	icon_state = "abydos_pyramid_entrance_2x_r2c3"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_2x_12x8/state_abydos_pyramid_entrance_2x_r2c4
+	name = "abydos_pyramid_entrance_2x_r2c4"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_2x_12x8.dmi'
+	icon_state = "abydos_pyramid_entrance_2x_r2c4"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_2x_12x8/state_abydos_pyramid_entrance_2x_r2c5
+	name = "abydos_pyramid_entrance_2x_r2c5"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_2x_12x8.dmi'
+	icon_state = "abydos_pyramid_entrance_2x_r2c5"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_2x_12x8/state_abydos_pyramid_entrance_2x_r2c6
+	name = "abydos_pyramid_entrance_2x_r2c6"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_2x_12x8.dmi'
+	icon_state = "abydos_pyramid_entrance_2x_r2c6"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_2x_12x8/state_abydos_pyramid_entrance_2x_r2c7
+	name = "abydos_pyramid_entrance_2x_r2c7"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_2x_12x8.dmi'
+	icon_state = "abydos_pyramid_entrance_2x_r2c7"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_2x_12x8/state_abydos_pyramid_entrance_2x_r2c8
+	name = "abydos_pyramid_entrance_2x_r2c8"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_2x_12x8.dmi'
+	icon_state = "abydos_pyramid_entrance_2x_r2c8"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_2x_12x8/state_abydos_pyramid_entrance_2x_r2c9
+	name = "abydos_pyramid_entrance_2x_r2c9"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_2x_12x8.dmi'
+	icon_state = "abydos_pyramid_entrance_2x_r2c9"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_2x_12x8/state_abydos_pyramid_entrance_2x_r2c10
+	name = "abydos_pyramid_entrance_2x_r2c10"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_2x_12x8.dmi'
+	icon_state = "abydos_pyramid_entrance_2x_r2c10"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_2x_12x8/state_abydos_pyramid_entrance_2x_r2c11
+	name = "abydos_pyramid_entrance_2x_r2c11"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_2x_12x8.dmi'
+	icon_state = "abydos_pyramid_entrance_2x_r2c11"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_2x_12x8/state_abydos_pyramid_entrance_2x_r2c12
+	name = "abydos_pyramid_entrance_2x_r2c12"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_2x_12x8.dmi'
+	icon_state = "abydos_pyramid_entrance_2x_r2c12"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_2x_12x8/state_abydos_pyramid_entrance_2x_r3c1
+	name = "abydos_pyramid_entrance_2x_r3c1"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_2x_12x8.dmi'
+	icon_state = "abydos_pyramid_entrance_2x_r3c1"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_2x_12x8/state_abydos_pyramid_entrance_2x_r3c2
+	name = "abydos_pyramid_entrance_2x_r3c2"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_2x_12x8.dmi'
+	icon_state = "abydos_pyramid_entrance_2x_r3c2"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_2x_12x8/state_abydos_pyramid_entrance_2x_r3c3
+	name = "abydos_pyramid_entrance_2x_r3c3"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_2x_12x8.dmi'
+	icon_state = "abydos_pyramid_entrance_2x_r3c3"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_2x_12x8/state_abydos_pyramid_entrance_2x_r3c4
+	name = "abydos_pyramid_entrance_2x_r3c4"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_2x_12x8.dmi'
+	icon_state = "abydos_pyramid_entrance_2x_r3c4"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_2x_12x8/state_abydos_pyramid_entrance_2x_r3c5
+	name = "abydos_pyramid_entrance_2x_r3c5"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_2x_12x8.dmi'
+	icon_state = "abydos_pyramid_entrance_2x_r3c5"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_2x_12x8/state_abydos_pyramid_entrance_2x_r3c6
+	name = "abydos_pyramid_entrance_2x_r3c6"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_2x_12x8.dmi'
+	icon_state = "abydos_pyramid_entrance_2x_r3c6"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_2x_12x8/state_abydos_pyramid_entrance_2x_r3c7
+	name = "abydos_pyramid_entrance_2x_r3c7"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_2x_12x8.dmi'
+	icon_state = "abydos_pyramid_entrance_2x_r3c7"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_2x_12x8/state_abydos_pyramid_entrance_2x_r3c8
+	name = "abydos_pyramid_entrance_2x_r3c8"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_2x_12x8.dmi'
+	icon_state = "abydos_pyramid_entrance_2x_r3c8"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_2x_12x8/state_abydos_pyramid_entrance_2x_r3c9
+	name = "abydos_pyramid_entrance_2x_r3c9"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_2x_12x8.dmi'
+	icon_state = "abydos_pyramid_entrance_2x_r3c9"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_2x_12x8/state_abydos_pyramid_entrance_2x_r3c10
+	name = "abydos_pyramid_entrance_2x_r3c10"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_2x_12x8.dmi'
+	icon_state = "abydos_pyramid_entrance_2x_r3c10"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_2x_12x8/state_abydos_pyramid_entrance_2x_r3c11
+	name = "abydos_pyramid_entrance_2x_r3c11"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_2x_12x8.dmi'
+	icon_state = "abydos_pyramid_entrance_2x_r3c11"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_2x_12x8/state_abydos_pyramid_entrance_2x_r3c12
+	name = "abydos_pyramid_entrance_2x_r3c12"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_2x_12x8.dmi'
+	icon_state = "abydos_pyramid_entrance_2x_r3c12"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_2x_12x8/state_abydos_pyramid_entrance_2x_r4c1
+	name = "abydos_pyramid_entrance_2x_r4c1"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_2x_12x8.dmi'
+	icon_state = "abydos_pyramid_entrance_2x_r4c1"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_2x_12x8/state_abydos_pyramid_entrance_2x_r4c2
+	name = "abydos_pyramid_entrance_2x_r4c2"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_2x_12x8.dmi'
+	icon_state = "abydos_pyramid_entrance_2x_r4c2"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_2x_12x8/state_abydos_pyramid_entrance_2x_r4c3
+	name = "abydos_pyramid_entrance_2x_r4c3"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_2x_12x8.dmi'
+	icon_state = "abydos_pyramid_entrance_2x_r4c3"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_2x_12x8/state_abydos_pyramid_entrance_2x_r4c4
+	name = "abydos_pyramid_entrance_2x_r4c4"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_2x_12x8.dmi'
+	icon_state = "abydos_pyramid_entrance_2x_r4c4"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_2x_12x8/state_abydos_pyramid_entrance_2x_r4c5
+	name = "abydos_pyramid_entrance_2x_r4c5"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_2x_12x8.dmi'
+	icon_state = "abydos_pyramid_entrance_2x_r4c5"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_2x_12x8/state_abydos_pyramid_entrance_2x_r4c6
+	name = "abydos_pyramid_entrance_2x_r4c6"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_2x_12x8.dmi'
+	icon_state = "abydos_pyramid_entrance_2x_r4c6"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_2x_12x8/state_abydos_pyramid_entrance_2x_r4c7
+	name = "abydos_pyramid_entrance_2x_r4c7"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_2x_12x8.dmi'
+	icon_state = "abydos_pyramid_entrance_2x_r4c7"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_2x_12x8/state_abydos_pyramid_entrance_2x_r4c8
+	name = "abydos_pyramid_entrance_2x_r4c8"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_2x_12x8.dmi'
+	icon_state = "abydos_pyramid_entrance_2x_r4c8"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_2x_12x8/state_abydos_pyramid_entrance_2x_r4c9
+	name = "abydos_pyramid_entrance_2x_r4c9"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_2x_12x8.dmi'
+	icon_state = "abydos_pyramid_entrance_2x_r4c9"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_2x_12x8/state_abydos_pyramid_entrance_2x_r4c10
+	name = "abydos_pyramid_entrance_2x_r4c10"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_2x_12x8.dmi'
+	icon_state = "abydos_pyramid_entrance_2x_r4c10"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_2x_12x8/state_abydos_pyramid_entrance_2x_r4c11
+	name = "abydos_pyramid_entrance_2x_r4c11"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_2x_12x8.dmi'
+	icon_state = "abydos_pyramid_entrance_2x_r4c11"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_2x_12x8/state_abydos_pyramid_entrance_2x_r4c12
+	name = "abydos_pyramid_entrance_2x_r4c12"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_2x_12x8.dmi'
+	icon_state = "abydos_pyramid_entrance_2x_r4c12"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_2x_12x8/state_abydos_pyramid_entrance_2x_r5c1
+	name = "abydos_pyramid_entrance_2x_r5c1"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_2x_12x8.dmi'
+	icon_state = "abydos_pyramid_entrance_2x_r5c1"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_2x_12x8/state_abydos_pyramid_entrance_2x_r5c2
+	name = "abydos_pyramid_entrance_2x_r5c2"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_2x_12x8.dmi'
+	icon_state = "abydos_pyramid_entrance_2x_r5c2"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_2x_12x8/state_abydos_pyramid_entrance_2x_r5c3
+	name = "abydos_pyramid_entrance_2x_r5c3"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_2x_12x8.dmi'
+	icon_state = "abydos_pyramid_entrance_2x_r5c3"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_2x_12x8/state_abydos_pyramid_entrance_2x_r5c4
+	name = "abydos_pyramid_entrance_2x_r5c4"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_2x_12x8.dmi'
+	icon_state = "abydos_pyramid_entrance_2x_r5c4"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_2x_12x8/state_abydos_pyramid_entrance_2x_r5c5
+	name = "abydos_pyramid_entrance_2x_r5c5"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_2x_12x8.dmi'
+	icon_state = "abydos_pyramid_entrance_2x_r5c5"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_2x_12x8/state_abydos_pyramid_entrance_2x_r5c6
+	name = "abydos_pyramid_entrance_2x_r5c6"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_2x_12x8.dmi'
+	icon_state = "abydos_pyramid_entrance_2x_r5c6"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_2x_12x8/state_abydos_pyramid_entrance_2x_r5c7
+	name = "abydos_pyramid_entrance_2x_r5c7"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_2x_12x8.dmi'
+	icon_state = "abydos_pyramid_entrance_2x_r5c7"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_2x_12x8/state_abydos_pyramid_entrance_2x_r5c8
+	name = "abydos_pyramid_entrance_2x_r5c8"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_2x_12x8.dmi'
+	icon_state = "abydos_pyramid_entrance_2x_r5c8"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_2x_12x8/state_abydos_pyramid_entrance_2x_r5c9
+	name = "abydos_pyramid_entrance_2x_r5c9"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_2x_12x8.dmi'
+	icon_state = "abydos_pyramid_entrance_2x_r5c9"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_2x_12x8/state_abydos_pyramid_entrance_2x_r5c10
+	name = "abydos_pyramid_entrance_2x_r5c10"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_2x_12x8.dmi'
+	icon_state = "abydos_pyramid_entrance_2x_r5c10"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_2x_12x8/state_abydos_pyramid_entrance_2x_r5c11
+	name = "abydos_pyramid_entrance_2x_r5c11"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_2x_12x8.dmi'
+	icon_state = "abydos_pyramid_entrance_2x_r5c11"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_2x_12x8/state_abydos_pyramid_entrance_2x_r5c12
+	name = "abydos_pyramid_entrance_2x_r5c12"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_2x_12x8.dmi'
+	icon_state = "abydos_pyramid_entrance_2x_r5c12"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_2x_12x8/state_abydos_pyramid_entrance_2x_r6c1
+	name = "abydos_pyramid_entrance_2x_r6c1"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_2x_12x8.dmi'
+	icon_state = "abydos_pyramid_entrance_2x_r6c1"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_2x_12x8/state_abydos_pyramid_entrance_2x_r6c2
+	name = "abydos_pyramid_entrance_2x_r6c2"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_2x_12x8.dmi'
+	icon_state = "abydos_pyramid_entrance_2x_r6c2"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_2x_12x8/state_abydos_pyramid_entrance_2x_r6c3
+	name = "abydos_pyramid_entrance_2x_r6c3"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_2x_12x8.dmi'
+	icon_state = "abydos_pyramid_entrance_2x_r6c3"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_2x_12x8/state_abydos_pyramid_entrance_2x_r6c4
+	name = "abydos_pyramid_entrance_2x_r6c4"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_2x_12x8.dmi'
+	icon_state = "abydos_pyramid_entrance_2x_r6c4"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_2x_12x8/state_abydos_pyramid_entrance_2x_r6c5
+	name = "abydos_pyramid_entrance_2x_r6c5"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_2x_12x8.dmi'
+	icon_state = "abydos_pyramid_entrance_2x_r6c5"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_2x_12x8/state_abydos_pyramid_entrance_2x_r6c6
+	name = "abydos_pyramid_entrance_2x_r6c6"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_2x_12x8.dmi'
+	icon_state = "abydos_pyramid_entrance_2x_r6c6"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_2x_12x8/state_abydos_pyramid_entrance_2x_r6c7
+	name = "abydos_pyramid_entrance_2x_r6c7"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_2x_12x8.dmi'
+	icon_state = "abydos_pyramid_entrance_2x_r6c7"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_2x_12x8/state_abydos_pyramid_entrance_2x_r6c8
+	name = "abydos_pyramid_entrance_2x_r6c8"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_2x_12x8.dmi'
+	icon_state = "abydos_pyramid_entrance_2x_r6c8"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_2x_12x8/state_abydos_pyramid_entrance_2x_r6c9
+	name = "abydos_pyramid_entrance_2x_r6c9"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_2x_12x8.dmi'
+	icon_state = "abydos_pyramid_entrance_2x_r6c9"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_2x_12x8/state_abydos_pyramid_entrance_2x_r6c10
+	name = "abydos_pyramid_entrance_2x_r6c10"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_2x_12x8.dmi'
+	icon_state = "abydos_pyramid_entrance_2x_r6c10"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_2x_12x8/state_abydos_pyramid_entrance_2x_r6c11
+	name = "abydos_pyramid_entrance_2x_r6c11"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_2x_12x8.dmi'
+	icon_state = "abydos_pyramid_entrance_2x_r6c11"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_2x_12x8/state_abydos_pyramid_entrance_2x_r6c12
+	name = "abydos_pyramid_entrance_2x_r6c12"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_2x_12x8.dmi'
+	icon_state = "abydos_pyramid_entrance_2x_r6c12"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_2x_12x8/state_abydos_pyramid_entrance_2x_r7c1
+	name = "abydos_pyramid_entrance_2x_r7c1"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_2x_12x8.dmi'
+	icon_state = "abydos_pyramid_entrance_2x_r7c1"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_2x_12x8/state_abydos_pyramid_entrance_2x_r7c2
+	name = "abydos_pyramid_entrance_2x_r7c2"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_2x_12x8.dmi'
+	icon_state = "abydos_pyramid_entrance_2x_r7c2"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_2x_12x8/state_abydos_pyramid_entrance_2x_r7c3
+	name = "abydos_pyramid_entrance_2x_r7c3"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_2x_12x8.dmi'
+	icon_state = "abydos_pyramid_entrance_2x_r7c3"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_2x_12x8/state_abydos_pyramid_entrance_2x_r7c4
+	name = "abydos_pyramid_entrance_2x_r7c4"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_2x_12x8.dmi'
+	icon_state = "abydos_pyramid_entrance_2x_r7c4"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_2x_12x8/state_abydos_pyramid_entrance_2x_r7c5
+	name = "abydos_pyramid_entrance_2x_r7c5"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_2x_12x8.dmi'
+	icon_state = "abydos_pyramid_entrance_2x_r7c5"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_2x_12x8/state_abydos_pyramid_entrance_2x_r7c6
+	name = "abydos_pyramid_entrance_2x_r7c6"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_2x_12x8.dmi'
+	icon_state = "abydos_pyramid_entrance_2x_r7c6"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_2x_12x8/state_abydos_pyramid_entrance_2x_r7c7
+	name = "abydos_pyramid_entrance_2x_r7c7"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_2x_12x8.dmi'
+	icon_state = "abydos_pyramid_entrance_2x_r7c7"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_2x_12x8/state_abydos_pyramid_entrance_2x_r7c8
+	name = "abydos_pyramid_entrance_2x_r7c8"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_2x_12x8.dmi'
+	icon_state = "abydos_pyramid_entrance_2x_r7c8"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_2x_12x8/state_abydos_pyramid_entrance_2x_r7c9
+	name = "abydos_pyramid_entrance_2x_r7c9"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_2x_12x8.dmi'
+	icon_state = "abydos_pyramid_entrance_2x_r7c9"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_2x_12x8/state_abydos_pyramid_entrance_2x_r7c10
+	name = "abydos_pyramid_entrance_2x_r7c10"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_2x_12x8.dmi'
+	icon_state = "abydos_pyramid_entrance_2x_r7c10"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_2x_12x8/state_abydos_pyramid_entrance_2x_r7c11
+	name = "abydos_pyramid_entrance_2x_r7c11"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_2x_12x8.dmi'
+	icon_state = "abydos_pyramid_entrance_2x_r7c11"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_2x_12x8/state_abydos_pyramid_entrance_2x_r7c12
+	name = "abydos_pyramid_entrance_2x_r7c12"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_2x_12x8.dmi'
+	icon_state = "abydos_pyramid_entrance_2x_r7c12"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_2x_12x8/state_abydos_pyramid_entrance_2x_r8c1
+	name = "abydos_pyramid_entrance_2x_r8c1"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_2x_12x8.dmi'
+	icon_state = "abydos_pyramid_entrance_2x_r8c1"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_2x_12x8/state_abydos_pyramid_entrance_2x_r8c2
+	name = "abydos_pyramid_entrance_2x_r8c2"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_2x_12x8.dmi'
+	icon_state = "abydos_pyramid_entrance_2x_r8c2"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_2x_12x8/state_abydos_pyramid_entrance_2x_r8c3
+	name = "abydos_pyramid_entrance_2x_r8c3"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_2x_12x8.dmi'
+	icon_state = "abydos_pyramid_entrance_2x_r8c3"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_2x_12x8/state_abydos_pyramid_entrance_2x_r8c4
+	name = "abydos_pyramid_entrance_2x_r8c4"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_2x_12x8.dmi'
+	icon_state = "abydos_pyramid_entrance_2x_r8c4"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_2x_12x8/state_abydos_pyramid_entrance_2x_r8c5
+	name = "abydos_pyramid_entrance_2x_r8c5"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_2x_12x8.dmi'
+	icon_state = "abydos_pyramid_entrance_2x_r8c5"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_2x_12x8/state_abydos_pyramid_entrance_2x_r8c6
+	name = "abydos_pyramid_entrance_2x_r8c6"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_2x_12x8.dmi'
+	icon_state = "abydos_pyramid_entrance_2x_r8c6"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_2x_12x8/state_abydos_pyramid_entrance_2x_r8c7
+	name = "abydos_pyramid_entrance_2x_r8c7"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_2x_12x8.dmi'
+	icon_state = "abydos_pyramid_entrance_2x_r8c7"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_2x_12x8/state_abydos_pyramid_entrance_2x_r8c8
+	name = "abydos_pyramid_entrance_2x_r8c8"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_2x_12x8.dmi'
+	icon_state = "abydos_pyramid_entrance_2x_r8c8"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_2x_12x8/state_abydos_pyramid_entrance_2x_r8c9
+	name = "abydos_pyramid_entrance_2x_r8c9"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_2x_12x8.dmi'
+	icon_state = "abydos_pyramid_entrance_2x_r8c9"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_2x_12x8/state_abydos_pyramid_entrance_2x_r8c10
+	name = "abydos_pyramid_entrance_2x_r8c10"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_2x_12x8.dmi'
+	icon_state = "abydos_pyramid_entrance_2x_r8c10"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_2x_12x8/state_abydos_pyramid_entrance_2x_r8c11
+	name = "abydos_pyramid_entrance_2x_r8c11"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_2x_12x8.dmi'
+	icon_state = "abydos_pyramid_entrance_2x_r8c11"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_2x_12x8/state_abydos_pyramid_entrance_2x_r8c12
+	name = "abydos_pyramid_entrance_2x_r8c12"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_2x_12x8.dmi'
+	icon_state = "abydos_pyramid_entrance_2x_r8c12"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_3x_18x12
+	name = "SGA Abydos Pyramid Entrance 3x 18x12"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_3x_18x12.dmi'
+	icon_state = "abydos_pyramid_entrance_3x_r1c1"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_3x_18x12/state_abydos_pyramid_entrance_3x_r1c1
+	name = "abydos_pyramid_entrance_3x_r1c1"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_3x_18x12.dmi'
+	icon_state = "abydos_pyramid_entrance_3x_r1c1"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_3x_18x12/state_abydos_pyramid_entrance_3x_r1c2
+	name = "abydos_pyramid_entrance_3x_r1c2"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_3x_18x12.dmi'
+	icon_state = "abydos_pyramid_entrance_3x_r1c2"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_3x_18x12/state_abydos_pyramid_entrance_3x_r1c3
+	name = "abydos_pyramid_entrance_3x_r1c3"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_3x_18x12.dmi'
+	icon_state = "abydos_pyramid_entrance_3x_r1c3"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_3x_18x12/state_abydos_pyramid_entrance_3x_r1c4
+	name = "abydos_pyramid_entrance_3x_r1c4"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_3x_18x12.dmi'
+	icon_state = "abydos_pyramid_entrance_3x_r1c4"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_3x_18x12/state_abydos_pyramid_entrance_3x_r1c5
+	name = "abydos_pyramid_entrance_3x_r1c5"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_3x_18x12.dmi'
+	icon_state = "abydos_pyramid_entrance_3x_r1c5"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_3x_18x12/state_abydos_pyramid_entrance_3x_r1c6
+	name = "abydos_pyramid_entrance_3x_r1c6"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_3x_18x12.dmi'
+	icon_state = "abydos_pyramid_entrance_3x_r1c6"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_3x_18x12/state_abydos_pyramid_entrance_3x_r1c7
+	name = "abydos_pyramid_entrance_3x_r1c7"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_3x_18x12.dmi'
+	icon_state = "abydos_pyramid_entrance_3x_r1c7"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_3x_18x12/state_abydos_pyramid_entrance_3x_r1c8
+	name = "abydos_pyramid_entrance_3x_r1c8"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_3x_18x12.dmi'
+	icon_state = "abydos_pyramid_entrance_3x_r1c8"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_3x_18x12/state_abydos_pyramid_entrance_3x_r1c9
+	name = "abydos_pyramid_entrance_3x_r1c9"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_3x_18x12.dmi'
+	icon_state = "abydos_pyramid_entrance_3x_r1c9"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_3x_18x12/state_abydos_pyramid_entrance_3x_r1c10
+	name = "abydos_pyramid_entrance_3x_r1c10"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_3x_18x12.dmi'
+	icon_state = "abydos_pyramid_entrance_3x_r1c10"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_3x_18x12/state_abydos_pyramid_entrance_3x_r1c11
+	name = "abydos_pyramid_entrance_3x_r1c11"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_3x_18x12.dmi'
+	icon_state = "abydos_pyramid_entrance_3x_r1c11"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_3x_18x12/state_abydos_pyramid_entrance_3x_r1c12
+	name = "abydos_pyramid_entrance_3x_r1c12"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_3x_18x12.dmi'
+	icon_state = "abydos_pyramid_entrance_3x_r1c12"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_3x_18x12/state_abydos_pyramid_entrance_3x_r1c13
+	name = "abydos_pyramid_entrance_3x_r1c13"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_3x_18x12.dmi'
+	icon_state = "abydos_pyramid_entrance_3x_r1c13"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_3x_18x12/state_abydos_pyramid_entrance_3x_r1c14
+	name = "abydos_pyramid_entrance_3x_r1c14"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_3x_18x12.dmi'
+	icon_state = "abydos_pyramid_entrance_3x_r1c14"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_3x_18x12/state_abydos_pyramid_entrance_3x_r1c15
+	name = "abydos_pyramid_entrance_3x_r1c15"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_3x_18x12.dmi'
+	icon_state = "abydos_pyramid_entrance_3x_r1c15"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_3x_18x12/state_abydos_pyramid_entrance_3x_r1c16
+	name = "abydos_pyramid_entrance_3x_r1c16"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_3x_18x12.dmi'
+	icon_state = "abydos_pyramid_entrance_3x_r1c16"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_3x_18x12/state_abydos_pyramid_entrance_3x_r1c17
+	name = "abydos_pyramid_entrance_3x_r1c17"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_3x_18x12.dmi'
+	icon_state = "abydos_pyramid_entrance_3x_r1c17"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_3x_18x12/state_abydos_pyramid_entrance_3x_r1c18
+	name = "abydos_pyramid_entrance_3x_r1c18"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_3x_18x12.dmi'
+	icon_state = "abydos_pyramid_entrance_3x_r1c18"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_3x_18x12/state_abydos_pyramid_entrance_3x_r2c1
+	name = "abydos_pyramid_entrance_3x_r2c1"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_3x_18x12.dmi'
+	icon_state = "abydos_pyramid_entrance_3x_r2c1"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_3x_18x12/state_abydos_pyramid_entrance_3x_r2c2
+	name = "abydos_pyramid_entrance_3x_r2c2"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_3x_18x12.dmi'
+	icon_state = "abydos_pyramid_entrance_3x_r2c2"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_3x_18x12/state_abydos_pyramid_entrance_3x_r2c3
+	name = "abydos_pyramid_entrance_3x_r2c3"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_3x_18x12.dmi'
+	icon_state = "abydos_pyramid_entrance_3x_r2c3"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_3x_18x12/state_abydos_pyramid_entrance_3x_r2c4
+	name = "abydos_pyramid_entrance_3x_r2c4"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_3x_18x12.dmi'
+	icon_state = "abydos_pyramid_entrance_3x_r2c4"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_3x_18x12/state_abydos_pyramid_entrance_3x_r2c5
+	name = "abydos_pyramid_entrance_3x_r2c5"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_3x_18x12.dmi'
+	icon_state = "abydos_pyramid_entrance_3x_r2c5"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_3x_18x12/state_abydos_pyramid_entrance_3x_r2c6
+	name = "abydos_pyramid_entrance_3x_r2c6"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_3x_18x12.dmi'
+	icon_state = "abydos_pyramid_entrance_3x_r2c6"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_3x_18x12/state_abydos_pyramid_entrance_3x_r2c7
+	name = "abydos_pyramid_entrance_3x_r2c7"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_3x_18x12.dmi'
+	icon_state = "abydos_pyramid_entrance_3x_r2c7"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_3x_18x12/state_abydos_pyramid_entrance_3x_r2c8
+	name = "abydos_pyramid_entrance_3x_r2c8"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_3x_18x12.dmi'
+	icon_state = "abydos_pyramid_entrance_3x_r2c8"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_3x_18x12/state_abydos_pyramid_entrance_3x_r2c9
+	name = "abydos_pyramid_entrance_3x_r2c9"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_3x_18x12.dmi'
+	icon_state = "abydos_pyramid_entrance_3x_r2c9"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_3x_18x12/state_abydos_pyramid_entrance_3x_r2c10
+	name = "abydos_pyramid_entrance_3x_r2c10"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_3x_18x12.dmi'
+	icon_state = "abydos_pyramid_entrance_3x_r2c10"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_3x_18x12/state_abydos_pyramid_entrance_3x_r2c11
+	name = "abydos_pyramid_entrance_3x_r2c11"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_3x_18x12.dmi'
+	icon_state = "abydos_pyramid_entrance_3x_r2c11"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_3x_18x12/state_abydos_pyramid_entrance_3x_r2c12
+	name = "abydos_pyramid_entrance_3x_r2c12"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_3x_18x12.dmi'
+	icon_state = "abydos_pyramid_entrance_3x_r2c12"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_3x_18x12/state_abydos_pyramid_entrance_3x_r2c13
+	name = "abydos_pyramid_entrance_3x_r2c13"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_3x_18x12.dmi'
+	icon_state = "abydos_pyramid_entrance_3x_r2c13"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_3x_18x12/state_abydos_pyramid_entrance_3x_r2c14
+	name = "abydos_pyramid_entrance_3x_r2c14"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_3x_18x12.dmi'
+	icon_state = "abydos_pyramid_entrance_3x_r2c14"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_3x_18x12/state_abydos_pyramid_entrance_3x_r2c15
+	name = "abydos_pyramid_entrance_3x_r2c15"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_3x_18x12.dmi'
+	icon_state = "abydos_pyramid_entrance_3x_r2c15"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_3x_18x12/state_abydos_pyramid_entrance_3x_r2c16
+	name = "abydos_pyramid_entrance_3x_r2c16"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_3x_18x12.dmi'
+	icon_state = "abydos_pyramid_entrance_3x_r2c16"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_3x_18x12/state_abydos_pyramid_entrance_3x_r2c17
+	name = "abydos_pyramid_entrance_3x_r2c17"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_3x_18x12.dmi'
+	icon_state = "abydos_pyramid_entrance_3x_r2c17"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_3x_18x12/state_abydos_pyramid_entrance_3x_r2c18
+	name = "abydos_pyramid_entrance_3x_r2c18"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_3x_18x12.dmi'
+	icon_state = "abydos_pyramid_entrance_3x_r2c18"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_3x_18x12/state_abydos_pyramid_entrance_3x_r3c1
+	name = "abydos_pyramid_entrance_3x_r3c1"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_3x_18x12.dmi'
+	icon_state = "abydos_pyramid_entrance_3x_r3c1"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_3x_18x12/state_abydos_pyramid_entrance_3x_r3c2
+	name = "abydos_pyramid_entrance_3x_r3c2"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_3x_18x12.dmi'
+	icon_state = "abydos_pyramid_entrance_3x_r3c2"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_3x_18x12/state_abydos_pyramid_entrance_3x_r3c3
+	name = "abydos_pyramid_entrance_3x_r3c3"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_3x_18x12.dmi'
+	icon_state = "abydos_pyramid_entrance_3x_r3c3"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_3x_18x12/state_abydos_pyramid_entrance_3x_r3c4
+	name = "abydos_pyramid_entrance_3x_r3c4"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_3x_18x12.dmi'
+	icon_state = "abydos_pyramid_entrance_3x_r3c4"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_3x_18x12/state_abydos_pyramid_entrance_3x_r3c5
+	name = "abydos_pyramid_entrance_3x_r3c5"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_3x_18x12.dmi'
+	icon_state = "abydos_pyramid_entrance_3x_r3c5"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_3x_18x12/state_abydos_pyramid_entrance_3x_r3c6
+	name = "abydos_pyramid_entrance_3x_r3c6"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_3x_18x12.dmi'
+	icon_state = "abydos_pyramid_entrance_3x_r3c6"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_3x_18x12/state_abydos_pyramid_entrance_3x_r3c7
+	name = "abydos_pyramid_entrance_3x_r3c7"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_3x_18x12.dmi'
+	icon_state = "abydos_pyramid_entrance_3x_r3c7"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_3x_18x12/state_abydos_pyramid_entrance_3x_r3c8
+	name = "abydos_pyramid_entrance_3x_r3c8"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_3x_18x12.dmi'
+	icon_state = "abydos_pyramid_entrance_3x_r3c8"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_3x_18x12/state_abydos_pyramid_entrance_3x_r3c9
+	name = "abydos_pyramid_entrance_3x_r3c9"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_3x_18x12.dmi'
+	icon_state = "abydos_pyramid_entrance_3x_r3c9"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_3x_18x12/state_abydos_pyramid_entrance_3x_r3c10
+	name = "abydos_pyramid_entrance_3x_r3c10"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_3x_18x12.dmi'
+	icon_state = "abydos_pyramid_entrance_3x_r3c10"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_3x_18x12/state_abydos_pyramid_entrance_3x_r3c11
+	name = "abydos_pyramid_entrance_3x_r3c11"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_3x_18x12.dmi'
+	icon_state = "abydos_pyramid_entrance_3x_r3c11"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_3x_18x12/state_abydos_pyramid_entrance_3x_r3c12
+	name = "abydos_pyramid_entrance_3x_r3c12"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_3x_18x12.dmi'
+	icon_state = "abydos_pyramid_entrance_3x_r3c12"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_3x_18x12/state_abydos_pyramid_entrance_3x_r3c13
+	name = "abydos_pyramid_entrance_3x_r3c13"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_3x_18x12.dmi'
+	icon_state = "abydos_pyramid_entrance_3x_r3c13"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_3x_18x12/state_abydos_pyramid_entrance_3x_r3c14
+	name = "abydos_pyramid_entrance_3x_r3c14"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_3x_18x12.dmi'
+	icon_state = "abydos_pyramid_entrance_3x_r3c14"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_3x_18x12/state_abydos_pyramid_entrance_3x_r3c15
+	name = "abydos_pyramid_entrance_3x_r3c15"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_3x_18x12.dmi'
+	icon_state = "abydos_pyramid_entrance_3x_r3c15"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_3x_18x12/state_abydos_pyramid_entrance_3x_r3c16
+	name = "abydos_pyramid_entrance_3x_r3c16"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_3x_18x12.dmi'
+	icon_state = "abydos_pyramid_entrance_3x_r3c16"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_3x_18x12/state_abydos_pyramid_entrance_3x_r3c17
+	name = "abydos_pyramid_entrance_3x_r3c17"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_3x_18x12.dmi'
+	icon_state = "abydos_pyramid_entrance_3x_r3c17"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_3x_18x12/state_abydos_pyramid_entrance_3x_r3c18
+	name = "abydos_pyramid_entrance_3x_r3c18"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_3x_18x12.dmi'
+	icon_state = "abydos_pyramid_entrance_3x_r3c18"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_3x_18x12/state_abydos_pyramid_entrance_3x_r4c1
+	name = "abydos_pyramid_entrance_3x_r4c1"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_3x_18x12.dmi'
+	icon_state = "abydos_pyramid_entrance_3x_r4c1"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_3x_18x12/state_abydos_pyramid_entrance_3x_r4c2
+	name = "abydos_pyramid_entrance_3x_r4c2"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_3x_18x12.dmi'
+	icon_state = "abydos_pyramid_entrance_3x_r4c2"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_3x_18x12/state_abydos_pyramid_entrance_3x_r4c3
+	name = "abydos_pyramid_entrance_3x_r4c3"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_3x_18x12.dmi'
+	icon_state = "abydos_pyramid_entrance_3x_r4c3"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_3x_18x12/state_abydos_pyramid_entrance_3x_r4c4
+	name = "abydos_pyramid_entrance_3x_r4c4"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_3x_18x12.dmi'
+	icon_state = "abydos_pyramid_entrance_3x_r4c4"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_3x_18x12/state_abydos_pyramid_entrance_3x_r4c5
+	name = "abydos_pyramid_entrance_3x_r4c5"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_3x_18x12.dmi'
+	icon_state = "abydos_pyramid_entrance_3x_r4c5"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_3x_18x12/state_abydos_pyramid_entrance_3x_r4c6
+	name = "abydos_pyramid_entrance_3x_r4c6"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_3x_18x12.dmi'
+	icon_state = "abydos_pyramid_entrance_3x_r4c6"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_3x_18x12/state_abydos_pyramid_entrance_3x_r4c7
+	name = "abydos_pyramid_entrance_3x_r4c7"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_3x_18x12.dmi'
+	icon_state = "abydos_pyramid_entrance_3x_r4c7"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_3x_18x12/state_abydos_pyramid_entrance_3x_r4c8
+	name = "abydos_pyramid_entrance_3x_r4c8"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_3x_18x12.dmi'
+	icon_state = "abydos_pyramid_entrance_3x_r4c8"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_3x_18x12/state_abydos_pyramid_entrance_3x_r4c9
+	name = "abydos_pyramid_entrance_3x_r4c9"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_3x_18x12.dmi'
+	icon_state = "abydos_pyramid_entrance_3x_r4c9"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_3x_18x12/state_abydos_pyramid_entrance_3x_r4c10
+	name = "abydos_pyramid_entrance_3x_r4c10"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_3x_18x12.dmi'
+	icon_state = "abydos_pyramid_entrance_3x_r4c10"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_3x_18x12/state_abydos_pyramid_entrance_3x_r4c11
+	name = "abydos_pyramid_entrance_3x_r4c11"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_3x_18x12.dmi'
+	icon_state = "abydos_pyramid_entrance_3x_r4c11"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_3x_18x12/state_abydos_pyramid_entrance_3x_r4c12
+	name = "abydos_pyramid_entrance_3x_r4c12"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_3x_18x12.dmi'
+	icon_state = "abydos_pyramid_entrance_3x_r4c12"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_3x_18x12/state_abydos_pyramid_entrance_3x_r4c13
+	name = "abydos_pyramid_entrance_3x_r4c13"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_3x_18x12.dmi'
+	icon_state = "abydos_pyramid_entrance_3x_r4c13"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_3x_18x12/state_abydos_pyramid_entrance_3x_r4c14
+	name = "abydos_pyramid_entrance_3x_r4c14"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_3x_18x12.dmi'
+	icon_state = "abydos_pyramid_entrance_3x_r4c14"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_3x_18x12/state_abydos_pyramid_entrance_3x_r4c15
+	name = "abydos_pyramid_entrance_3x_r4c15"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_3x_18x12.dmi'
+	icon_state = "abydos_pyramid_entrance_3x_r4c15"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_3x_18x12/state_abydos_pyramid_entrance_3x_r4c16
+	name = "abydos_pyramid_entrance_3x_r4c16"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_3x_18x12.dmi'
+	icon_state = "abydos_pyramid_entrance_3x_r4c16"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_3x_18x12/state_abydos_pyramid_entrance_3x_r4c17
+	name = "abydos_pyramid_entrance_3x_r4c17"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_3x_18x12.dmi'
+	icon_state = "abydos_pyramid_entrance_3x_r4c17"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_3x_18x12/state_abydos_pyramid_entrance_3x_r4c18
+	name = "abydos_pyramid_entrance_3x_r4c18"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_3x_18x12.dmi'
+	icon_state = "abydos_pyramid_entrance_3x_r4c18"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_3x_18x12/state_abydos_pyramid_entrance_3x_r5c1
+	name = "abydos_pyramid_entrance_3x_r5c1"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_3x_18x12.dmi'
+	icon_state = "abydos_pyramid_entrance_3x_r5c1"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_3x_18x12/state_abydos_pyramid_entrance_3x_r5c2
+	name = "abydos_pyramid_entrance_3x_r5c2"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_3x_18x12.dmi'
+	icon_state = "abydos_pyramid_entrance_3x_r5c2"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_3x_18x12/state_abydos_pyramid_entrance_3x_r5c3
+	name = "abydos_pyramid_entrance_3x_r5c3"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_3x_18x12.dmi'
+	icon_state = "abydos_pyramid_entrance_3x_r5c3"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_3x_18x12/state_abydos_pyramid_entrance_3x_r5c4
+	name = "abydos_pyramid_entrance_3x_r5c4"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_3x_18x12.dmi'
+	icon_state = "abydos_pyramid_entrance_3x_r5c4"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_3x_18x12/state_abydos_pyramid_entrance_3x_r5c5
+	name = "abydos_pyramid_entrance_3x_r5c5"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_3x_18x12.dmi'
+	icon_state = "abydos_pyramid_entrance_3x_r5c5"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_3x_18x12/state_abydos_pyramid_entrance_3x_r5c6
+	name = "abydos_pyramid_entrance_3x_r5c6"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_3x_18x12.dmi'
+	icon_state = "abydos_pyramid_entrance_3x_r5c6"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_3x_18x12/state_abydos_pyramid_entrance_3x_r5c7
+	name = "abydos_pyramid_entrance_3x_r5c7"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_3x_18x12.dmi'
+	icon_state = "abydos_pyramid_entrance_3x_r5c7"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_3x_18x12/state_abydos_pyramid_entrance_3x_r5c8
+	name = "abydos_pyramid_entrance_3x_r5c8"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_3x_18x12.dmi'
+	icon_state = "abydos_pyramid_entrance_3x_r5c8"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_3x_18x12/state_abydos_pyramid_entrance_3x_r5c9
+	name = "abydos_pyramid_entrance_3x_r5c9"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_3x_18x12.dmi'
+	icon_state = "abydos_pyramid_entrance_3x_r5c9"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_3x_18x12/state_abydos_pyramid_entrance_3x_r5c10
+	name = "abydos_pyramid_entrance_3x_r5c10"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_3x_18x12.dmi'
+	icon_state = "abydos_pyramid_entrance_3x_r5c10"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_3x_18x12/state_abydos_pyramid_entrance_3x_r5c11
+	name = "abydos_pyramid_entrance_3x_r5c11"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_3x_18x12.dmi'
+	icon_state = "abydos_pyramid_entrance_3x_r5c11"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_3x_18x12/state_abydos_pyramid_entrance_3x_r5c12
+	name = "abydos_pyramid_entrance_3x_r5c12"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_3x_18x12.dmi'
+	icon_state = "abydos_pyramid_entrance_3x_r5c12"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_3x_18x12/state_abydos_pyramid_entrance_3x_r5c13
+	name = "abydos_pyramid_entrance_3x_r5c13"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_3x_18x12.dmi'
+	icon_state = "abydos_pyramid_entrance_3x_r5c13"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_3x_18x12/state_abydos_pyramid_entrance_3x_r5c14
+	name = "abydos_pyramid_entrance_3x_r5c14"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_3x_18x12.dmi'
+	icon_state = "abydos_pyramid_entrance_3x_r5c14"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_3x_18x12/state_abydos_pyramid_entrance_3x_r5c15
+	name = "abydos_pyramid_entrance_3x_r5c15"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_3x_18x12.dmi'
+	icon_state = "abydos_pyramid_entrance_3x_r5c15"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_3x_18x12/state_abydos_pyramid_entrance_3x_r5c16
+	name = "abydos_pyramid_entrance_3x_r5c16"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_3x_18x12.dmi'
+	icon_state = "abydos_pyramid_entrance_3x_r5c16"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_3x_18x12/state_abydos_pyramid_entrance_3x_r5c17
+	name = "abydos_pyramid_entrance_3x_r5c17"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_3x_18x12.dmi'
+	icon_state = "abydos_pyramid_entrance_3x_r5c17"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_3x_18x12/state_abydos_pyramid_entrance_3x_r5c18
+	name = "abydos_pyramid_entrance_3x_r5c18"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_3x_18x12.dmi'
+	icon_state = "abydos_pyramid_entrance_3x_r5c18"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_3x_18x12/state_abydos_pyramid_entrance_3x_r6c1
+	name = "abydos_pyramid_entrance_3x_r6c1"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_3x_18x12.dmi'
+	icon_state = "abydos_pyramid_entrance_3x_r6c1"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_3x_18x12/state_abydos_pyramid_entrance_3x_r6c2
+	name = "abydos_pyramid_entrance_3x_r6c2"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_3x_18x12.dmi'
+	icon_state = "abydos_pyramid_entrance_3x_r6c2"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_3x_18x12/state_abydos_pyramid_entrance_3x_r6c3
+	name = "abydos_pyramid_entrance_3x_r6c3"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_3x_18x12.dmi'
+	icon_state = "abydos_pyramid_entrance_3x_r6c3"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_3x_18x12/state_abydos_pyramid_entrance_3x_r6c4
+	name = "abydos_pyramid_entrance_3x_r6c4"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_3x_18x12.dmi'
+	icon_state = "abydos_pyramid_entrance_3x_r6c4"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_3x_18x12/state_abydos_pyramid_entrance_3x_r6c5
+	name = "abydos_pyramid_entrance_3x_r6c5"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_3x_18x12.dmi'
+	icon_state = "abydos_pyramid_entrance_3x_r6c5"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_3x_18x12/state_abydos_pyramid_entrance_3x_r6c6
+	name = "abydos_pyramid_entrance_3x_r6c6"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_3x_18x12.dmi'
+	icon_state = "abydos_pyramid_entrance_3x_r6c6"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_3x_18x12/state_abydos_pyramid_entrance_3x_r6c7
+	name = "abydos_pyramid_entrance_3x_r6c7"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_3x_18x12.dmi'
+	icon_state = "abydos_pyramid_entrance_3x_r6c7"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_3x_18x12/state_abydos_pyramid_entrance_3x_r6c8
+	name = "abydos_pyramid_entrance_3x_r6c8"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_3x_18x12.dmi'
+	icon_state = "abydos_pyramid_entrance_3x_r6c8"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_3x_18x12/state_abydos_pyramid_entrance_3x_r6c9
+	name = "abydos_pyramid_entrance_3x_r6c9"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_3x_18x12.dmi'
+	icon_state = "abydos_pyramid_entrance_3x_r6c9"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_3x_18x12/state_abydos_pyramid_entrance_3x_r6c10
+	name = "abydos_pyramid_entrance_3x_r6c10"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_3x_18x12.dmi'
+	icon_state = "abydos_pyramid_entrance_3x_r6c10"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_3x_18x12/state_abydos_pyramid_entrance_3x_r6c11
+	name = "abydos_pyramid_entrance_3x_r6c11"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_3x_18x12.dmi'
+	icon_state = "abydos_pyramid_entrance_3x_r6c11"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_3x_18x12/state_abydos_pyramid_entrance_3x_r6c12
+	name = "abydos_pyramid_entrance_3x_r6c12"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_3x_18x12.dmi'
+	icon_state = "abydos_pyramid_entrance_3x_r6c12"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_3x_18x12/state_abydos_pyramid_entrance_3x_r6c13
+	name = "abydos_pyramid_entrance_3x_r6c13"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_3x_18x12.dmi'
+	icon_state = "abydos_pyramid_entrance_3x_r6c13"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_3x_18x12/state_abydos_pyramid_entrance_3x_r6c14
+	name = "abydos_pyramid_entrance_3x_r6c14"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_3x_18x12.dmi'
+	icon_state = "abydos_pyramid_entrance_3x_r6c14"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_3x_18x12/state_abydos_pyramid_entrance_3x_r6c15
+	name = "abydos_pyramid_entrance_3x_r6c15"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_3x_18x12.dmi'
+	icon_state = "abydos_pyramid_entrance_3x_r6c15"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_3x_18x12/state_abydos_pyramid_entrance_3x_r6c16
+	name = "abydos_pyramid_entrance_3x_r6c16"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_3x_18x12.dmi'
+	icon_state = "abydos_pyramid_entrance_3x_r6c16"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_3x_18x12/state_abydos_pyramid_entrance_3x_r6c17
+	name = "abydos_pyramid_entrance_3x_r6c17"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_3x_18x12.dmi'
+	icon_state = "abydos_pyramid_entrance_3x_r6c17"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_3x_18x12/state_abydos_pyramid_entrance_3x_r6c18
+	name = "abydos_pyramid_entrance_3x_r6c18"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_3x_18x12.dmi'
+	icon_state = "abydos_pyramid_entrance_3x_r6c18"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_3x_18x12/state_abydos_pyramid_entrance_3x_r7c1
+	name = "abydos_pyramid_entrance_3x_r7c1"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_3x_18x12.dmi'
+	icon_state = "abydos_pyramid_entrance_3x_r7c1"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_3x_18x12/state_abydos_pyramid_entrance_3x_r7c2
+	name = "abydos_pyramid_entrance_3x_r7c2"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_3x_18x12.dmi'
+	icon_state = "abydos_pyramid_entrance_3x_r7c2"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_3x_18x12/state_abydos_pyramid_entrance_3x_r7c3
+	name = "abydos_pyramid_entrance_3x_r7c3"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_3x_18x12.dmi'
+	icon_state = "abydos_pyramid_entrance_3x_r7c3"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_3x_18x12/state_abydos_pyramid_entrance_3x_r7c4
+	name = "abydos_pyramid_entrance_3x_r7c4"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_3x_18x12.dmi'
+	icon_state = "abydos_pyramid_entrance_3x_r7c4"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_3x_18x12/state_abydos_pyramid_entrance_3x_r7c5
+	name = "abydos_pyramid_entrance_3x_r7c5"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_3x_18x12.dmi'
+	icon_state = "abydos_pyramid_entrance_3x_r7c5"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_3x_18x12/state_abydos_pyramid_entrance_3x_r7c6
+	name = "abydos_pyramid_entrance_3x_r7c6"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_3x_18x12.dmi'
+	icon_state = "abydos_pyramid_entrance_3x_r7c6"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_3x_18x12/state_abydos_pyramid_entrance_3x_r7c7
+	name = "abydos_pyramid_entrance_3x_r7c7"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_3x_18x12.dmi'
+	icon_state = "abydos_pyramid_entrance_3x_r7c7"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_3x_18x12/state_abydos_pyramid_entrance_3x_r7c8
+	name = "abydos_pyramid_entrance_3x_r7c8"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_3x_18x12.dmi'
+	icon_state = "abydos_pyramid_entrance_3x_r7c8"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_3x_18x12/state_abydos_pyramid_entrance_3x_r7c9
+	name = "abydos_pyramid_entrance_3x_r7c9"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_3x_18x12.dmi'
+	icon_state = "abydos_pyramid_entrance_3x_r7c9"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_3x_18x12/state_abydos_pyramid_entrance_3x_r7c10
+	name = "abydos_pyramid_entrance_3x_r7c10"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_3x_18x12.dmi'
+	icon_state = "abydos_pyramid_entrance_3x_r7c10"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_3x_18x12/state_abydos_pyramid_entrance_3x_r7c11
+	name = "abydos_pyramid_entrance_3x_r7c11"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_3x_18x12.dmi'
+	icon_state = "abydos_pyramid_entrance_3x_r7c11"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_3x_18x12/state_abydos_pyramid_entrance_3x_r7c12
+	name = "abydos_pyramid_entrance_3x_r7c12"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_3x_18x12.dmi'
+	icon_state = "abydos_pyramid_entrance_3x_r7c12"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_3x_18x12/state_abydos_pyramid_entrance_3x_r7c13
+	name = "abydos_pyramid_entrance_3x_r7c13"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_3x_18x12.dmi'
+	icon_state = "abydos_pyramid_entrance_3x_r7c13"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_3x_18x12/state_abydos_pyramid_entrance_3x_r7c14
+	name = "abydos_pyramid_entrance_3x_r7c14"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_3x_18x12.dmi'
+	icon_state = "abydos_pyramid_entrance_3x_r7c14"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_3x_18x12/state_abydos_pyramid_entrance_3x_r7c15
+	name = "abydos_pyramid_entrance_3x_r7c15"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_3x_18x12.dmi'
+	icon_state = "abydos_pyramid_entrance_3x_r7c15"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_3x_18x12/state_abydos_pyramid_entrance_3x_r7c16
+	name = "abydos_pyramid_entrance_3x_r7c16"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_3x_18x12.dmi'
+	icon_state = "abydos_pyramid_entrance_3x_r7c16"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_3x_18x12/state_abydos_pyramid_entrance_3x_r7c17
+	name = "abydos_pyramid_entrance_3x_r7c17"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_3x_18x12.dmi'
+	icon_state = "abydos_pyramid_entrance_3x_r7c17"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_3x_18x12/state_abydos_pyramid_entrance_3x_r7c18
+	name = "abydos_pyramid_entrance_3x_r7c18"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_3x_18x12.dmi'
+	icon_state = "abydos_pyramid_entrance_3x_r7c18"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_3x_18x12/state_abydos_pyramid_entrance_3x_r8c1
+	name = "abydos_pyramid_entrance_3x_r8c1"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_3x_18x12.dmi'
+	icon_state = "abydos_pyramid_entrance_3x_r8c1"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_3x_18x12/state_abydos_pyramid_entrance_3x_r8c2
+	name = "abydos_pyramid_entrance_3x_r8c2"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_3x_18x12.dmi'
+	icon_state = "abydos_pyramid_entrance_3x_r8c2"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_3x_18x12/state_abydos_pyramid_entrance_3x_r8c3
+	name = "abydos_pyramid_entrance_3x_r8c3"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_3x_18x12.dmi'
+	icon_state = "abydos_pyramid_entrance_3x_r8c3"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_3x_18x12/state_abydos_pyramid_entrance_3x_r8c4
+	name = "abydos_pyramid_entrance_3x_r8c4"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_3x_18x12.dmi'
+	icon_state = "abydos_pyramid_entrance_3x_r8c4"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_3x_18x12/state_abydos_pyramid_entrance_3x_r8c5
+	name = "abydos_pyramid_entrance_3x_r8c5"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_3x_18x12.dmi'
+	icon_state = "abydos_pyramid_entrance_3x_r8c5"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_3x_18x12/state_abydos_pyramid_entrance_3x_r8c6
+	name = "abydos_pyramid_entrance_3x_r8c6"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_3x_18x12.dmi'
+	icon_state = "abydos_pyramid_entrance_3x_r8c6"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_3x_18x12/state_abydos_pyramid_entrance_3x_r8c7
+	name = "abydos_pyramid_entrance_3x_r8c7"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_3x_18x12.dmi'
+	icon_state = "abydos_pyramid_entrance_3x_r8c7"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_3x_18x12/state_abydos_pyramid_entrance_3x_r8c8
+	name = "abydos_pyramid_entrance_3x_r8c8"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_3x_18x12.dmi'
+	icon_state = "abydos_pyramid_entrance_3x_r8c8"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_3x_18x12/state_abydos_pyramid_entrance_3x_r8c9
+	name = "abydos_pyramid_entrance_3x_r8c9"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_3x_18x12.dmi'
+	icon_state = "abydos_pyramid_entrance_3x_r8c9"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_3x_18x12/state_abydos_pyramid_entrance_3x_r8c10
+	name = "abydos_pyramid_entrance_3x_r8c10"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_3x_18x12.dmi'
+	icon_state = "abydos_pyramid_entrance_3x_r8c10"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_3x_18x12/state_abydos_pyramid_entrance_3x_r8c11
+	name = "abydos_pyramid_entrance_3x_r8c11"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_3x_18x12.dmi'
+	icon_state = "abydos_pyramid_entrance_3x_r8c11"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_3x_18x12/state_abydos_pyramid_entrance_3x_r8c12
+	name = "abydos_pyramid_entrance_3x_r8c12"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_3x_18x12.dmi'
+	icon_state = "abydos_pyramid_entrance_3x_r8c12"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_3x_18x12/state_abydos_pyramid_entrance_3x_r8c13
+	name = "abydos_pyramid_entrance_3x_r8c13"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_3x_18x12.dmi'
+	icon_state = "abydos_pyramid_entrance_3x_r8c13"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_3x_18x12/state_abydos_pyramid_entrance_3x_r8c14
+	name = "abydos_pyramid_entrance_3x_r8c14"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_3x_18x12.dmi'
+	icon_state = "abydos_pyramid_entrance_3x_r8c14"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_3x_18x12/state_abydos_pyramid_entrance_3x_r8c15
+	name = "abydos_pyramid_entrance_3x_r8c15"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_3x_18x12.dmi'
+	icon_state = "abydos_pyramid_entrance_3x_r8c15"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_3x_18x12/state_abydos_pyramid_entrance_3x_r8c16
+	name = "abydos_pyramid_entrance_3x_r8c16"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_3x_18x12.dmi'
+	icon_state = "abydos_pyramid_entrance_3x_r8c16"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_3x_18x12/state_abydos_pyramid_entrance_3x_r8c17
+	name = "abydos_pyramid_entrance_3x_r8c17"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_3x_18x12.dmi'
+	icon_state = "abydos_pyramid_entrance_3x_r8c17"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_3x_18x12/state_abydos_pyramid_entrance_3x_r8c18
+	name = "abydos_pyramid_entrance_3x_r8c18"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_3x_18x12.dmi'
+	icon_state = "abydos_pyramid_entrance_3x_r8c18"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_3x_18x12/state_abydos_pyramid_entrance_3x_r9c1
+	name = "abydos_pyramid_entrance_3x_r9c1"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_3x_18x12.dmi'
+	icon_state = "abydos_pyramid_entrance_3x_r9c1"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_3x_18x12/state_abydos_pyramid_entrance_3x_r9c2
+	name = "abydos_pyramid_entrance_3x_r9c2"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_3x_18x12.dmi'
+	icon_state = "abydos_pyramid_entrance_3x_r9c2"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_3x_18x12/state_abydos_pyramid_entrance_3x_r9c3
+	name = "abydos_pyramid_entrance_3x_r9c3"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_3x_18x12.dmi'
+	icon_state = "abydos_pyramid_entrance_3x_r9c3"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_3x_18x12/state_abydos_pyramid_entrance_3x_r9c4
+	name = "abydos_pyramid_entrance_3x_r9c4"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_3x_18x12.dmi'
+	icon_state = "abydos_pyramid_entrance_3x_r9c4"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_3x_18x12/state_abydos_pyramid_entrance_3x_r9c5
+	name = "abydos_pyramid_entrance_3x_r9c5"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_3x_18x12.dmi'
+	icon_state = "abydos_pyramid_entrance_3x_r9c5"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_3x_18x12/state_abydos_pyramid_entrance_3x_r9c6
+	name = "abydos_pyramid_entrance_3x_r9c6"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_3x_18x12.dmi'
+	icon_state = "abydos_pyramid_entrance_3x_r9c6"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_3x_18x12/state_abydos_pyramid_entrance_3x_r9c7
+	name = "abydos_pyramid_entrance_3x_r9c7"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_3x_18x12.dmi'
+	icon_state = "abydos_pyramid_entrance_3x_r9c7"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_3x_18x12/state_abydos_pyramid_entrance_3x_r9c8
+	name = "abydos_pyramid_entrance_3x_r9c8"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_3x_18x12.dmi'
+	icon_state = "abydos_pyramid_entrance_3x_r9c8"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_3x_18x12/state_abydos_pyramid_entrance_3x_r9c9
+	name = "abydos_pyramid_entrance_3x_r9c9"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_3x_18x12.dmi'
+	icon_state = "abydos_pyramid_entrance_3x_r9c9"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_3x_18x12/state_abydos_pyramid_entrance_3x_r9c10
+	name = "abydos_pyramid_entrance_3x_r9c10"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_3x_18x12.dmi'
+	icon_state = "abydos_pyramid_entrance_3x_r9c10"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_3x_18x12/state_abydos_pyramid_entrance_3x_r9c11
+	name = "abydos_pyramid_entrance_3x_r9c11"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_3x_18x12.dmi'
+	icon_state = "abydos_pyramid_entrance_3x_r9c11"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_3x_18x12/state_abydos_pyramid_entrance_3x_r9c12
+	name = "abydos_pyramid_entrance_3x_r9c12"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_3x_18x12.dmi'
+	icon_state = "abydos_pyramid_entrance_3x_r9c12"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_3x_18x12/state_abydos_pyramid_entrance_3x_r9c13
+	name = "abydos_pyramid_entrance_3x_r9c13"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_3x_18x12.dmi'
+	icon_state = "abydos_pyramid_entrance_3x_r9c13"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_3x_18x12/state_abydos_pyramid_entrance_3x_r9c14
+	name = "abydos_pyramid_entrance_3x_r9c14"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_3x_18x12.dmi'
+	icon_state = "abydos_pyramid_entrance_3x_r9c14"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_3x_18x12/state_abydos_pyramid_entrance_3x_r9c15
+	name = "abydos_pyramid_entrance_3x_r9c15"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_3x_18x12.dmi'
+	icon_state = "abydos_pyramid_entrance_3x_r9c15"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_3x_18x12/state_abydos_pyramid_entrance_3x_r9c16
+	name = "abydos_pyramid_entrance_3x_r9c16"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_3x_18x12.dmi'
+	icon_state = "abydos_pyramid_entrance_3x_r9c16"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_3x_18x12/state_abydos_pyramid_entrance_3x_r9c17
+	name = "abydos_pyramid_entrance_3x_r9c17"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_3x_18x12.dmi'
+	icon_state = "abydos_pyramid_entrance_3x_r9c17"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_3x_18x12/state_abydos_pyramid_entrance_3x_r9c18
+	name = "abydos_pyramid_entrance_3x_r9c18"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_3x_18x12.dmi'
+	icon_state = "abydos_pyramid_entrance_3x_r9c18"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_3x_18x12/state_abydos_pyramid_entrance_3x_r10c1
+	name = "abydos_pyramid_entrance_3x_r10c1"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_3x_18x12.dmi'
+	icon_state = "abydos_pyramid_entrance_3x_r10c1"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_3x_18x12/state_abydos_pyramid_entrance_3x_r10c2
+	name = "abydos_pyramid_entrance_3x_r10c2"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_3x_18x12.dmi'
+	icon_state = "abydos_pyramid_entrance_3x_r10c2"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_3x_18x12/state_abydos_pyramid_entrance_3x_r10c3
+	name = "abydos_pyramid_entrance_3x_r10c3"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_3x_18x12.dmi'
+	icon_state = "abydos_pyramid_entrance_3x_r10c3"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_3x_18x12/state_abydos_pyramid_entrance_3x_r10c4
+	name = "abydos_pyramid_entrance_3x_r10c4"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_3x_18x12.dmi'
+	icon_state = "abydos_pyramid_entrance_3x_r10c4"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_3x_18x12/state_abydos_pyramid_entrance_3x_r10c5
+	name = "abydos_pyramid_entrance_3x_r10c5"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_3x_18x12.dmi'
+	icon_state = "abydos_pyramid_entrance_3x_r10c5"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_3x_18x12/state_abydos_pyramid_entrance_3x_r10c6
+	name = "abydos_pyramid_entrance_3x_r10c6"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_3x_18x12.dmi'
+	icon_state = "abydos_pyramid_entrance_3x_r10c6"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_3x_18x12/state_abydos_pyramid_entrance_3x_r10c7
+	name = "abydos_pyramid_entrance_3x_r10c7"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_3x_18x12.dmi'
+	icon_state = "abydos_pyramid_entrance_3x_r10c7"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_3x_18x12/state_abydos_pyramid_entrance_3x_r10c8
+	name = "abydos_pyramid_entrance_3x_r10c8"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_3x_18x12.dmi'
+	icon_state = "abydos_pyramid_entrance_3x_r10c8"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_3x_18x12/state_abydos_pyramid_entrance_3x_r10c9
+	name = "abydos_pyramid_entrance_3x_r10c9"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_3x_18x12.dmi'
+	icon_state = "abydos_pyramid_entrance_3x_r10c9"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_3x_18x12/state_abydos_pyramid_entrance_3x_r10c10
+	name = "abydos_pyramid_entrance_3x_r10c10"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_3x_18x12.dmi'
+	icon_state = "abydos_pyramid_entrance_3x_r10c10"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_3x_18x12/state_abydos_pyramid_entrance_3x_r10c11
+	name = "abydos_pyramid_entrance_3x_r10c11"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_3x_18x12.dmi'
+	icon_state = "abydos_pyramid_entrance_3x_r10c11"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_3x_18x12/state_abydos_pyramid_entrance_3x_r10c12
+	name = "abydos_pyramid_entrance_3x_r10c12"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_3x_18x12.dmi'
+	icon_state = "abydos_pyramid_entrance_3x_r10c12"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_3x_18x12/state_abydos_pyramid_entrance_3x_r10c13
+	name = "abydos_pyramid_entrance_3x_r10c13"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_3x_18x12.dmi'
+	icon_state = "abydos_pyramid_entrance_3x_r10c13"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_3x_18x12/state_abydos_pyramid_entrance_3x_r10c14
+	name = "abydos_pyramid_entrance_3x_r10c14"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_3x_18x12.dmi'
+	icon_state = "abydos_pyramid_entrance_3x_r10c14"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_3x_18x12/state_abydos_pyramid_entrance_3x_r10c15
+	name = "abydos_pyramid_entrance_3x_r10c15"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_3x_18x12.dmi'
+	icon_state = "abydos_pyramid_entrance_3x_r10c15"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_3x_18x12/state_abydos_pyramid_entrance_3x_r10c16
+	name = "abydos_pyramid_entrance_3x_r10c16"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_3x_18x12.dmi'
+	icon_state = "abydos_pyramid_entrance_3x_r10c16"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_3x_18x12/state_abydos_pyramid_entrance_3x_r10c17
+	name = "abydos_pyramid_entrance_3x_r10c17"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_3x_18x12.dmi'
+	icon_state = "abydos_pyramid_entrance_3x_r10c17"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_3x_18x12/state_abydos_pyramid_entrance_3x_r10c18
+	name = "abydos_pyramid_entrance_3x_r10c18"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_3x_18x12.dmi'
+	icon_state = "abydos_pyramid_entrance_3x_r10c18"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_3x_18x12/state_abydos_pyramid_entrance_3x_r11c1
+	name = "abydos_pyramid_entrance_3x_r11c1"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_3x_18x12.dmi'
+	icon_state = "abydos_pyramid_entrance_3x_r11c1"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_3x_18x12/state_abydos_pyramid_entrance_3x_r11c2
+	name = "abydos_pyramid_entrance_3x_r11c2"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_3x_18x12.dmi'
+	icon_state = "abydos_pyramid_entrance_3x_r11c2"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_3x_18x12/state_abydos_pyramid_entrance_3x_r11c3
+	name = "abydos_pyramid_entrance_3x_r11c3"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_3x_18x12.dmi'
+	icon_state = "abydos_pyramid_entrance_3x_r11c3"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_3x_18x12/state_abydos_pyramid_entrance_3x_r11c4
+	name = "abydos_pyramid_entrance_3x_r11c4"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_3x_18x12.dmi'
+	icon_state = "abydos_pyramid_entrance_3x_r11c4"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_3x_18x12/state_abydos_pyramid_entrance_3x_r11c5
+	name = "abydos_pyramid_entrance_3x_r11c5"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_3x_18x12.dmi'
+	icon_state = "abydos_pyramid_entrance_3x_r11c5"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_3x_18x12/state_abydos_pyramid_entrance_3x_r11c6
+	name = "abydos_pyramid_entrance_3x_r11c6"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_3x_18x12.dmi'
+	icon_state = "abydos_pyramid_entrance_3x_r11c6"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_3x_18x12/state_abydos_pyramid_entrance_3x_r11c7
+	name = "abydos_pyramid_entrance_3x_r11c7"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_3x_18x12.dmi'
+	icon_state = "abydos_pyramid_entrance_3x_r11c7"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_3x_18x12/state_abydos_pyramid_entrance_3x_r11c8
+	name = "abydos_pyramid_entrance_3x_r11c8"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_3x_18x12.dmi'
+	icon_state = "abydos_pyramid_entrance_3x_r11c8"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_3x_18x12/state_abydos_pyramid_entrance_3x_r11c9
+	name = "abydos_pyramid_entrance_3x_r11c9"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_3x_18x12.dmi'
+	icon_state = "abydos_pyramid_entrance_3x_r11c9"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_3x_18x12/state_abydos_pyramid_entrance_3x_r11c10
+	name = "abydos_pyramid_entrance_3x_r11c10"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_3x_18x12.dmi'
+	icon_state = "abydos_pyramid_entrance_3x_r11c10"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_3x_18x12/state_abydos_pyramid_entrance_3x_r11c11
+	name = "abydos_pyramid_entrance_3x_r11c11"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_3x_18x12.dmi'
+	icon_state = "abydos_pyramid_entrance_3x_r11c11"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_3x_18x12/state_abydos_pyramid_entrance_3x_r11c12
+	name = "abydos_pyramid_entrance_3x_r11c12"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_3x_18x12.dmi'
+	icon_state = "abydos_pyramid_entrance_3x_r11c12"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_3x_18x12/state_abydos_pyramid_entrance_3x_r11c13
+	name = "abydos_pyramid_entrance_3x_r11c13"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_3x_18x12.dmi'
+	icon_state = "abydos_pyramid_entrance_3x_r11c13"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_3x_18x12/state_abydos_pyramid_entrance_3x_r11c14
+	name = "abydos_pyramid_entrance_3x_r11c14"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_3x_18x12.dmi'
+	icon_state = "abydos_pyramid_entrance_3x_r11c14"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_3x_18x12/state_abydos_pyramid_entrance_3x_r11c15
+	name = "abydos_pyramid_entrance_3x_r11c15"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_3x_18x12.dmi'
+	icon_state = "abydos_pyramid_entrance_3x_r11c15"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_3x_18x12/state_abydos_pyramid_entrance_3x_r11c16
+	name = "abydos_pyramid_entrance_3x_r11c16"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_3x_18x12.dmi'
+	icon_state = "abydos_pyramid_entrance_3x_r11c16"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_3x_18x12/state_abydos_pyramid_entrance_3x_r11c17
+	name = "abydos_pyramid_entrance_3x_r11c17"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_3x_18x12.dmi'
+	icon_state = "abydos_pyramid_entrance_3x_r11c17"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_3x_18x12/state_abydos_pyramid_entrance_3x_r11c18
+	name = "abydos_pyramid_entrance_3x_r11c18"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_3x_18x12.dmi'
+	icon_state = "abydos_pyramid_entrance_3x_r11c18"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_3x_18x12/state_abydos_pyramid_entrance_3x_r12c1
+	name = "abydos_pyramid_entrance_3x_r12c1"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_3x_18x12.dmi'
+	icon_state = "abydos_pyramid_entrance_3x_r12c1"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_3x_18x12/state_abydos_pyramid_entrance_3x_r12c2
+	name = "abydos_pyramid_entrance_3x_r12c2"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_3x_18x12.dmi'
+	icon_state = "abydos_pyramid_entrance_3x_r12c2"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_3x_18x12/state_abydos_pyramid_entrance_3x_r12c3
+	name = "abydos_pyramid_entrance_3x_r12c3"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_3x_18x12.dmi'
+	icon_state = "abydos_pyramid_entrance_3x_r12c3"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_3x_18x12/state_abydos_pyramid_entrance_3x_r12c4
+	name = "abydos_pyramid_entrance_3x_r12c4"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_3x_18x12.dmi'
+	icon_state = "abydos_pyramid_entrance_3x_r12c4"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_3x_18x12/state_abydos_pyramid_entrance_3x_r12c5
+	name = "abydos_pyramid_entrance_3x_r12c5"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_3x_18x12.dmi'
+	icon_state = "abydos_pyramid_entrance_3x_r12c5"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_3x_18x12/state_abydos_pyramid_entrance_3x_r12c6
+	name = "abydos_pyramid_entrance_3x_r12c6"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_3x_18x12.dmi'
+	icon_state = "abydos_pyramid_entrance_3x_r12c6"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_3x_18x12/state_abydos_pyramid_entrance_3x_r12c7
+	name = "abydos_pyramid_entrance_3x_r12c7"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_3x_18x12.dmi'
+	icon_state = "abydos_pyramid_entrance_3x_r12c7"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_3x_18x12/state_abydos_pyramid_entrance_3x_r12c8
+	name = "abydos_pyramid_entrance_3x_r12c8"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_3x_18x12.dmi'
+	icon_state = "abydos_pyramid_entrance_3x_r12c8"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_3x_18x12/state_abydos_pyramid_entrance_3x_r12c9
+	name = "abydos_pyramid_entrance_3x_r12c9"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_3x_18x12.dmi'
+	icon_state = "abydos_pyramid_entrance_3x_r12c9"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_3x_18x12/state_abydos_pyramid_entrance_3x_r12c10
+	name = "abydos_pyramid_entrance_3x_r12c10"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_3x_18x12.dmi'
+	icon_state = "abydos_pyramid_entrance_3x_r12c10"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_3x_18x12/state_abydos_pyramid_entrance_3x_r12c11
+	name = "abydos_pyramid_entrance_3x_r12c11"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_3x_18x12.dmi'
+	icon_state = "abydos_pyramid_entrance_3x_r12c11"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_3x_18x12/state_abydos_pyramid_entrance_3x_r12c12
+	name = "abydos_pyramid_entrance_3x_r12c12"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_3x_18x12.dmi'
+	icon_state = "abydos_pyramid_entrance_3x_r12c12"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_3x_18x12/state_abydos_pyramid_entrance_3x_r12c13
+	name = "abydos_pyramid_entrance_3x_r12c13"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_3x_18x12.dmi'
+	icon_state = "abydos_pyramid_entrance_3x_r12c13"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_3x_18x12/state_abydos_pyramid_entrance_3x_r12c14
+	name = "abydos_pyramid_entrance_3x_r12c14"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_3x_18x12.dmi'
+	icon_state = "abydos_pyramid_entrance_3x_r12c14"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_3x_18x12/state_abydos_pyramid_entrance_3x_r12c15
+	name = "abydos_pyramid_entrance_3x_r12c15"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_3x_18x12.dmi'
+	icon_state = "abydos_pyramid_entrance_3x_r12c15"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_3x_18x12/state_abydos_pyramid_entrance_3x_r12c16
+	name = "abydos_pyramid_entrance_3x_r12c16"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_3x_18x12.dmi'
+	icon_state = "abydos_pyramid_entrance_3x_r12c16"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_3x_18x12/state_abydos_pyramid_entrance_3x_r12c17
+	name = "abydos_pyramid_entrance_3x_r12c17"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_3x_18x12.dmi'
+	icon_state = "abydos_pyramid_entrance_3x_r12c17"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_3x_18x12/state_abydos_pyramid_entrance_3x_r12c18
+	name = "abydos_pyramid_entrance_3x_r12c18"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_3x_18x12.dmi'
+	icon_state = "abydos_pyramid_entrance_3x_r12c18"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16
+	name = "SGA Abydos Pyramid Entrance 4x 24x16"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r1c1"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r1c1
+	name = "abydos_pyramid_entrance_4x_r1c1"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r1c1"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r1c2
+	name = "abydos_pyramid_entrance_4x_r1c2"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r1c2"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r1c3
+	name = "abydos_pyramid_entrance_4x_r1c3"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r1c3"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r1c4
+	name = "abydos_pyramid_entrance_4x_r1c4"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r1c4"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r1c5
+	name = "abydos_pyramid_entrance_4x_r1c5"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r1c5"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r1c6
+	name = "abydos_pyramid_entrance_4x_r1c6"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r1c6"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r1c7
+	name = "abydos_pyramid_entrance_4x_r1c7"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r1c7"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r1c8
+	name = "abydos_pyramid_entrance_4x_r1c8"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r1c8"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r1c9
+	name = "abydos_pyramid_entrance_4x_r1c9"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r1c9"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r1c10
+	name = "abydos_pyramid_entrance_4x_r1c10"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r1c10"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r1c11
+	name = "abydos_pyramid_entrance_4x_r1c11"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r1c11"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r1c12
+	name = "abydos_pyramid_entrance_4x_r1c12"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r1c12"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r1c13
+	name = "abydos_pyramid_entrance_4x_r1c13"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r1c13"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r1c14
+	name = "abydos_pyramid_entrance_4x_r1c14"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r1c14"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r1c15
+	name = "abydos_pyramid_entrance_4x_r1c15"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r1c15"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r1c16
+	name = "abydos_pyramid_entrance_4x_r1c16"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r1c16"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r1c17
+	name = "abydos_pyramid_entrance_4x_r1c17"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r1c17"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r1c18
+	name = "abydos_pyramid_entrance_4x_r1c18"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r1c18"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r1c19
+	name = "abydos_pyramid_entrance_4x_r1c19"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r1c19"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r1c20
+	name = "abydos_pyramid_entrance_4x_r1c20"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r1c20"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r1c21
+	name = "abydos_pyramid_entrance_4x_r1c21"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r1c21"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r1c22
+	name = "abydos_pyramid_entrance_4x_r1c22"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r1c22"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r1c23
+	name = "abydos_pyramid_entrance_4x_r1c23"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r1c23"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r1c24
+	name = "abydos_pyramid_entrance_4x_r1c24"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r1c24"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r2c1
+	name = "abydos_pyramid_entrance_4x_r2c1"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r2c1"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r2c2
+	name = "abydos_pyramid_entrance_4x_r2c2"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r2c2"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r2c3
+	name = "abydos_pyramid_entrance_4x_r2c3"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r2c3"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r2c4
+	name = "abydos_pyramid_entrance_4x_r2c4"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r2c4"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r2c5
+	name = "abydos_pyramid_entrance_4x_r2c5"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r2c5"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r2c6
+	name = "abydos_pyramid_entrance_4x_r2c6"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r2c6"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r2c7
+	name = "abydos_pyramid_entrance_4x_r2c7"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r2c7"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r2c8
+	name = "abydos_pyramid_entrance_4x_r2c8"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r2c8"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r2c9
+	name = "abydos_pyramid_entrance_4x_r2c9"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r2c9"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r2c10
+	name = "abydos_pyramid_entrance_4x_r2c10"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r2c10"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r2c11
+	name = "abydos_pyramid_entrance_4x_r2c11"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r2c11"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r2c12
+	name = "abydos_pyramid_entrance_4x_r2c12"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r2c12"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r2c13
+	name = "abydos_pyramid_entrance_4x_r2c13"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r2c13"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r2c14
+	name = "abydos_pyramid_entrance_4x_r2c14"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r2c14"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r2c15
+	name = "abydos_pyramid_entrance_4x_r2c15"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r2c15"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r2c16
+	name = "abydos_pyramid_entrance_4x_r2c16"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r2c16"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r2c17
+	name = "abydos_pyramid_entrance_4x_r2c17"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r2c17"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r2c18
+	name = "abydos_pyramid_entrance_4x_r2c18"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r2c18"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r2c19
+	name = "abydos_pyramid_entrance_4x_r2c19"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r2c19"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r2c20
+	name = "abydos_pyramid_entrance_4x_r2c20"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r2c20"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r2c21
+	name = "abydos_pyramid_entrance_4x_r2c21"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r2c21"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r2c22
+	name = "abydos_pyramid_entrance_4x_r2c22"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r2c22"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r2c23
+	name = "abydos_pyramid_entrance_4x_r2c23"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r2c23"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r2c24
+	name = "abydos_pyramid_entrance_4x_r2c24"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r2c24"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r3c1
+	name = "abydos_pyramid_entrance_4x_r3c1"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r3c1"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r3c2
+	name = "abydos_pyramid_entrance_4x_r3c2"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r3c2"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r3c3
+	name = "abydos_pyramid_entrance_4x_r3c3"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r3c3"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r3c4
+	name = "abydos_pyramid_entrance_4x_r3c4"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r3c4"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r3c5
+	name = "abydos_pyramid_entrance_4x_r3c5"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r3c5"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r3c6
+	name = "abydos_pyramid_entrance_4x_r3c6"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r3c6"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r3c7
+	name = "abydos_pyramid_entrance_4x_r3c7"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r3c7"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r3c8
+	name = "abydos_pyramid_entrance_4x_r3c8"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r3c8"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r3c9
+	name = "abydos_pyramid_entrance_4x_r3c9"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r3c9"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r3c10
+	name = "abydos_pyramid_entrance_4x_r3c10"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r3c10"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r3c11
+	name = "abydos_pyramid_entrance_4x_r3c11"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r3c11"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r3c12
+	name = "abydos_pyramid_entrance_4x_r3c12"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r3c12"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r3c13
+	name = "abydos_pyramid_entrance_4x_r3c13"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r3c13"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r3c14
+	name = "abydos_pyramid_entrance_4x_r3c14"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r3c14"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r3c15
+	name = "abydos_pyramid_entrance_4x_r3c15"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r3c15"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r3c16
+	name = "abydos_pyramid_entrance_4x_r3c16"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r3c16"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r3c17
+	name = "abydos_pyramid_entrance_4x_r3c17"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r3c17"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r3c18
+	name = "abydos_pyramid_entrance_4x_r3c18"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r3c18"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r3c19
+	name = "abydos_pyramid_entrance_4x_r3c19"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r3c19"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r3c20
+	name = "abydos_pyramid_entrance_4x_r3c20"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r3c20"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r3c21
+	name = "abydos_pyramid_entrance_4x_r3c21"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r3c21"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r3c22
+	name = "abydos_pyramid_entrance_4x_r3c22"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r3c22"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r3c23
+	name = "abydos_pyramid_entrance_4x_r3c23"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r3c23"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r3c24
+	name = "abydos_pyramid_entrance_4x_r3c24"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r3c24"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r4c1
+	name = "abydos_pyramid_entrance_4x_r4c1"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r4c1"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r4c2
+	name = "abydos_pyramid_entrance_4x_r4c2"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r4c2"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r4c3
+	name = "abydos_pyramid_entrance_4x_r4c3"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r4c3"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r4c4
+	name = "abydos_pyramid_entrance_4x_r4c4"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r4c4"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r4c5
+	name = "abydos_pyramid_entrance_4x_r4c5"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r4c5"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r4c6
+	name = "abydos_pyramid_entrance_4x_r4c6"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r4c6"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r4c7
+	name = "abydos_pyramid_entrance_4x_r4c7"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r4c7"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r4c8
+	name = "abydos_pyramid_entrance_4x_r4c8"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r4c8"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r4c9
+	name = "abydos_pyramid_entrance_4x_r4c9"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r4c9"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r4c10
+	name = "abydos_pyramid_entrance_4x_r4c10"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r4c10"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r4c11
+	name = "abydos_pyramid_entrance_4x_r4c11"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r4c11"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r4c12
+	name = "abydos_pyramid_entrance_4x_r4c12"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r4c12"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r4c13
+	name = "abydos_pyramid_entrance_4x_r4c13"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r4c13"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r4c14
+	name = "abydos_pyramid_entrance_4x_r4c14"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r4c14"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r4c15
+	name = "abydos_pyramid_entrance_4x_r4c15"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r4c15"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r4c16
+	name = "abydos_pyramid_entrance_4x_r4c16"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r4c16"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r4c17
+	name = "abydos_pyramid_entrance_4x_r4c17"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r4c17"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r4c18
+	name = "abydos_pyramid_entrance_4x_r4c18"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r4c18"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r4c19
+	name = "abydos_pyramid_entrance_4x_r4c19"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r4c19"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r4c20
+	name = "abydos_pyramid_entrance_4x_r4c20"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r4c20"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r4c21
+	name = "abydos_pyramid_entrance_4x_r4c21"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r4c21"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r4c22
+	name = "abydos_pyramid_entrance_4x_r4c22"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r4c22"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r4c23
+	name = "abydos_pyramid_entrance_4x_r4c23"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r4c23"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r4c24
+	name = "abydos_pyramid_entrance_4x_r4c24"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r4c24"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r5c1
+	name = "abydos_pyramid_entrance_4x_r5c1"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r5c1"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r5c2
+	name = "abydos_pyramid_entrance_4x_r5c2"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r5c2"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r5c3
+	name = "abydos_pyramid_entrance_4x_r5c3"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r5c3"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r5c4
+	name = "abydos_pyramid_entrance_4x_r5c4"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r5c4"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r5c5
+	name = "abydos_pyramid_entrance_4x_r5c5"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r5c5"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r5c6
+	name = "abydos_pyramid_entrance_4x_r5c6"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r5c6"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r5c7
+	name = "abydos_pyramid_entrance_4x_r5c7"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r5c7"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r5c8
+	name = "abydos_pyramid_entrance_4x_r5c8"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r5c8"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r5c9
+	name = "abydos_pyramid_entrance_4x_r5c9"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r5c9"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r5c10
+	name = "abydos_pyramid_entrance_4x_r5c10"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r5c10"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r5c11
+	name = "abydos_pyramid_entrance_4x_r5c11"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r5c11"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r5c12
+	name = "abydos_pyramid_entrance_4x_r5c12"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r5c12"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r5c13
+	name = "abydos_pyramid_entrance_4x_r5c13"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r5c13"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r5c14
+	name = "abydos_pyramid_entrance_4x_r5c14"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r5c14"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r5c15
+	name = "abydos_pyramid_entrance_4x_r5c15"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r5c15"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r5c16
+	name = "abydos_pyramid_entrance_4x_r5c16"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r5c16"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r5c17
+	name = "abydos_pyramid_entrance_4x_r5c17"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r5c17"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r5c18
+	name = "abydos_pyramid_entrance_4x_r5c18"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r5c18"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r5c19
+	name = "abydos_pyramid_entrance_4x_r5c19"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r5c19"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r5c20
+	name = "abydos_pyramid_entrance_4x_r5c20"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r5c20"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r5c21
+	name = "abydos_pyramid_entrance_4x_r5c21"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r5c21"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r5c22
+	name = "abydos_pyramid_entrance_4x_r5c22"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r5c22"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r5c23
+	name = "abydos_pyramid_entrance_4x_r5c23"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r5c23"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r5c24
+	name = "abydos_pyramid_entrance_4x_r5c24"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r5c24"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r6c1
+	name = "abydos_pyramid_entrance_4x_r6c1"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r6c1"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r6c2
+	name = "abydos_pyramid_entrance_4x_r6c2"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r6c2"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r6c3
+	name = "abydos_pyramid_entrance_4x_r6c3"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r6c3"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r6c4
+	name = "abydos_pyramid_entrance_4x_r6c4"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r6c4"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r6c5
+	name = "abydos_pyramid_entrance_4x_r6c5"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r6c5"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r6c6
+	name = "abydos_pyramid_entrance_4x_r6c6"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r6c6"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r6c7
+	name = "abydos_pyramid_entrance_4x_r6c7"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r6c7"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r6c8
+	name = "abydos_pyramid_entrance_4x_r6c8"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r6c8"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r6c9
+	name = "abydos_pyramid_entrance_4x_r6c9"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r6c9"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r6c10
+	name = "abydos_pyramid_entrance_4x_r6c10"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r6c10"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r6c11
+	name = "abydos_pyramid_entrance_4x_r6c11"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r6c11"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r6c12
+	name = "abydos_pyramid_entrance_4x_r6c12"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r6c12"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r6c13
+	name = "abydos_pyramid_entrance_4x_r6c13"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r6c13"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r6c14
+	name = "abydos_pyramid_entrance_4x_r6c14"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r6c14"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r6c15
+	name = "abydos_pyramid_entrance_4x_r6c15"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r6c15"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r6c16
+	name = "abydos_pyramid_entrance_4x_r6c16"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r6c16"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r6c17
+	name = "abydos_pyramid_entrance_4x_r6c17"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r6c17"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r6c18
+	name = "abydos_pyramid_entrance_4x_r6c18"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r6c18"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r6c19
+	name = "abydos_pyramid_entrance_4x_r6c19"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r6c19"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r6c20
+	name = "abydos_pyramid_entrance_4x_r6c20"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r6c20"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r6c21
+	name = "abydos_pyramid_entrance_4x_r6c21"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r6c21"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r6c22
+	name = "abydos_pyramid_entrance_4x_r6c22"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r6c22"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r6c23
+	name = "abydos_pyramid_entrance_4x_r6c23"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r6c23"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r6c24
+	name = "abydos_pyramid_entrance_4x_r6c24"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r6c24"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r7c1
+	name = "abydos_pyramid_entrance_4x_r7c1"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r7c1"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r7c2
+	name = "abydos_pyramid_entrance_4x_r7c2"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r7c2"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r7c3
+	name = "abydos_pyramid_entrance_4x_r7c3"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r7c3"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r7c4
+	name = "abydos_pyramid_entrance_4x_r7c4"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r7c4"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r7c5
+	name = "abydos_pyramid_entrance_4x_r7c5"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r7c5"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r7c6
+	name = "abydos_pyramid_entrance_4x_r7c6"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r7c6"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r7c7
+	name = "abydos_pyramid_entrance_4x_r7c7"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r7c7"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r7c8
+	name = "abydos_pyramid_entrance_4x_r7c8"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r7c8"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r7c9
+	name = "abydos_pyramid_entrance_4x_r7c9"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r7c9"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r7c10
+	name = "abydos_pyramid_entrance_4x_r7c10"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r7c10"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r7c11
+	name = "abydos_pyramid_entrance_4x_r7c11"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r7c11"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r7c12
+	name = "abydos_pyramid_entrance_4x_r7c12"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r7c12"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r7c13
+	name = "abydos_pyramid_entrance_4x_r7c13"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r7c13"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r7c14
+	name = "abydos_pyramid_entrance_4x_r7c14"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r7c14"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r7c15
+	name = "abydos_pyramid_entrance_4x_r7c15"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r7c15"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r7c16
+	name = "abydos_pyramid_entrance_4x_r7c16"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r7c16"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r7c17
+	name = "abydos_pyramid_entrance_4x_r7c17"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r7c17"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r7c18
+	name = "abydos_pyramid_entrance_4x_r7c18"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r7c18"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r7c19
+	name = "abydos_pyramid_entrance_4x_r7c19"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r7c19"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r7c20
+	name = "abydos_pyramid_entrance_4x_r7c20"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r7c20"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r7c21
+	name = "abydos_pyramid_entrance_4x_r7c21"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r7c21"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r7c22
+	name = "abydos_pyramid_entrance_4x_r7c22"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r7c22"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r7c23
+	name = "abydos_pyramid_entrance_4x_r7c23"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r7c23"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r7c24
+	name = "abydos_pyramid_entrance_4x_r7c24"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r7c24"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r8c1
+	name = "abydos_pyramid_entrance_4x_r8c1"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r8c1"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r8c2
+	name = "abydos_pyramid_entrance_4x_r8c2"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r8c2"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r8c3
+	name = "abydos_pyramid_entrance_4x_r8c3"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r8c3"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r8c4
+	name = "abydos_pyramid_entrance_4x_r8c4"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r8c4"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r8c5
+	name = "abydos_pyramid_entrance_4x_r8c5"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r8c5"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r8c6
+	name = "abydos_pyramid_entrance_4x_r8c6"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r8c6"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r8c7
+	name = "abydos_pyramid_entrance_4x_r8c7"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r8c7"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r8c8
+	name = "abydos_pyramid_entrance_4x_r8c8"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r8c8"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r8c9
+	name = "abydos_pyramid_entrance_4x_r8c9"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r8c9"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r8c10
+	name = "abydos_pyramid_entrance_4x_r8c10"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r8c10"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r8c11
+	name = "abydos_pyramid_entrance_4x_r8c11"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r8c11"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r8c12
+	name = "abydos_pyramid_entrance_4x_r8c12"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r8c12"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r8c13
+	name = "abydos_pyramid_entrance_4x_r8c13"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r8c13"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r8c14
+	name = "abydos_pyramid_entrance_4x_r8c14"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r8c14"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r8c15
+	name = "abydos_pyramid_entrance_4x_r8c15"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r8c15"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r8c16
+	name = "abydos_pyramid_entrance_4x_r8c16"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r8c16"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r8c17
+	name = "abydos_pyramid_entrance_4x_r8c17"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r8c17"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r8c18
+	name = "abydos_pyramid_entrance_4x_r8c18"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r8c18"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r8c19
+	name = "abydos_pyramid_entrance_4x_r8c19"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r8c19"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r8c20
+	name = "abydos_pyramid_entrance_4x_r8c20"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r8c20"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r8c21
+	name = "abydos_pyramid_entrance_4x_r8c21"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r8c21"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r8c22
+	name = "abydos_pyramid_entrance_4x_r8c22"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r8c22"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r8c23
+	name = "abydos_pyramid_entrance_4x_r8c23"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r8c23"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r8c24
+	name = "abydos_pyramid_entrance_4x_r8c24"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r8c24"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r9c1
+	name = "abydos_pyramid_entrance_4x_r9c1"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r9c1"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r9c2
+	name = "abydos_pyramid_entrance_4x_r9c2"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r9c2"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r9c3
+	name = "abydos_pyramid_entrance_4x_r9c3"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r9c3"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r9c4
+	name = "abydos_pyramid_entrance_4x_r9c4"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r9c4"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r9c5
+	name = "abydos_pyramid_entrance_4x_r9c5"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r9c5"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r9c6
+	name = "abydos_pyramid_entrance_4x_r9c6"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r9c6"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r9c7
+	name = "abydos_pyramid_entrance_4x_r9c7"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r9c7"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r9c8
+	name = "abydos_pyramid_entrance_4x_r9c8"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r9c8"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r9c9
+	name = "abydos_pyramid_entrance_4x_r9c9"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r9c9"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r9c10
+	name = "abydos_pyramid_entrance_4x_r9c10"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r9c10"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r9c11
+	name = "abydos_pyramid_entrance_4x_r9c11"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r9c11"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r9c12
+	name = "abydos_pyramid_entrance_4x_r9c12"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r9c12"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r9c13
+	name = "abydos_pyramid_entrance_4x_r9c13"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r9c13"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r9c14
+	name = "abydos_pyramid_entrance_4x_r9c14"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r9c14"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r9c15
+	name = "abydos_pyramid_entrance_4x_r9c15"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r9c15"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r9c16
+	name = "abydos_pyramid_entrance_4x_r9c16"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r9c16"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r9c17
+	name = "abydos_pyramid_entrance_4x_r9c17"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r9c17"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r9c18
+	name = "abydos_pyramid_entrance_4x_r9c18"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r9c18"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r9c19
+	name = "abydos_pyramid_entrance_4x_r9c19"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r9c19"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r9c20
+	name = "abydos_pyramid_entrance_4x_r9c20"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r9c20"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r9c21
+	name = "abydos_pyramid_entrance_4x_r9c21"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r9c21"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r9c22
+	name = "abydos_pyramid_entrance_4x_r9c22"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r9c22"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r9c23
+	name = "abydos_pyramid_entrance_4x_r9c23"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r9c23"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r9c24
+	name = "abydos_pyramid_entrance_4x_r9c24"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r9c24"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r10c1
+	name = "abydos_pyramid_entrance_4x_r10c1"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r10c1"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r10c2
+	name = "abydos_pyramid_entrance_4x_r10c2"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r10c2"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r10c3
+	name = "abydos_pyramid_entrance_4x_r10c3"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r10c3"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r10c4
+	name = "abydos_pyramid_entrance_4x_r10c4"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r10c4"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r10c5
+	name = "abydos_pyramid_entrance_4x_r10c5"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r10c5"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r10c6
+	name = "abydos_pyramid_entrance_4x_r10c6"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r10c6"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r10c7
+	name = "abydos_pyramid_entrance_4x_r10c7"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r10c7"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r10c8
+	name = "abydos_pyramid_entrance_4x_r10c8"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r10c8"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r10c9
+	name = "abydos_pyramid_entrance_4x_r10c9"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r10c9"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r10c10
+	name = "abydos_pyramid_entrance_4x_r10c10"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r10c10"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r10c11
+	name = "abydos_pyramid_entrance_4x_r10c11"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r10c11"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r10c12
+	name = "abydos_pyramid_entrance_4x_r10c12"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r10c12"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r10c13
+	name = "abydos_pyramid_entrance_4x_r10c13"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r10c13"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r10c14
+	name = "abydos_pyramid_entrance_4x_r10c14"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r10c14"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r10c15
+	name = "abydos_pyramid_entrance_4x_r10c15"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r10c15"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r10c16
+	name = "abydos_pyramid_entrance_4x_r10c16"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r10c16"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r10c17
+	name = "abydos_pyramid_entrance_4x_r10c17"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r10c17"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r10c18
+	name = "abydos_pyramid_entrance_4x_r10c18"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r10c18"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r10c19
+	name = "abydos_pyramid_entrance_4x_r10c19"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r10c19"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r10c20
+	name = "abydos_pyramid_entrance_4x_r10c20"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r10c20"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r10c21
+	name = "abydos_pyramid_entrance_4x_r10c21"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r10c21"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r10c22
+	name = "abydos_pyramid_entrance_4x_r10c22"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r10c22"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r10c23
+	name = "abydos_pyramid_entrance_4x_r10c23"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r10c23"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r10c24
+	name = "abydos_pyramid_entrance_4x_r10c24"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r10c24"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r11c1
+	name = "abydos_pyramid_entrance_4x_r11c1"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r11c1"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r11c2
+	name = "abydos_pyramid_entrance_4x_r11c2"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r11c2"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r11c3
+	name = "abydos_pyramid_entrance_4x_r11c3"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r11c3"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r11c4
+	name = "abydos_pyramid_entrance_4x_r11c4"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r11c4"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r11c5
+	name = "abydos_pyramid_entrance_4x_r11c5"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r11c5"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r11c6
+	name = "abydos_pyramid_entrance_4x_r11c6"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r11c6"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r11c7
+	name = "abydos_pyramid_entrance_4x_r11c7"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r11c7"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r11c8
+	name = "abydos_pyramid_entrance_4x_r11c8"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r11c8"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r11c9
+	name = "abydos_pyramid_entrance_4x_r11c9"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r11c9"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r11c10
+	name = "abydos_pyramid_entrance_4x_r11c10"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r11c10"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r11c11
+	name = "abydos_pyramid_entrance_4x_r11c11"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r11c11"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r11c12
+	name = "abydos_pyramid_entrance_4x_r11c12"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r11c12"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r11c13
+	name = "abydos_pyramid_entrance_4x_r11c13"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r11c13"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r11c14
+	name = "abydos_pyramid_entrance_4x_r11c14"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r11c14"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r11c15
+	name = "abydos_pyramid_entrance_4x_r11c15"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r11c15"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r11c16
+	name = "abydos_pyramid_entrance_4x_r11c16"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r11c16"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r11c17
+	name = "abydos_pyramid_entrance_4x_r11c17"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r11c17"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r11c18
+	name = "abydos_pyramid_entrance_4x_r11c18"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r11c18"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r11c19
+	name = "abydos_pyramid_entrance_4x_r11c19"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r11c19"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r11c20
+	name = "abydos_pyramid_entrance_4x_r11c20"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r11c20"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r11c21
+	name = "abydos_pyramid_entrance_4x_r11c21"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r11c21"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r11c22
+	name = "abydos_pyramid_entrance_4x_r11c22"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r11c22"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r11c23
+	name = "abydos_pyramid_entrance_4x_r11c23"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r11c23"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r11c24
+	name = "abydos_pyramid_entrance_4x_r11c24"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r11c24"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r12c1
+	name = "abydos_pyramid_entrance_4x_r12c1"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r12c1"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r12c2
+	name = "abydos_pyramid_entrance_4x_r12c2"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r12c2"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r12c3
+	name = "abydos_pyramid_entrance_4x_r12c3"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r12c3"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r12c4
+	name = "abydos_pyramid_entrance_4x_r12c4"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r12c4"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r12c5
+	name = "abydos_pyramid_entrance_4x_r12c5"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r12c5"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r12c6
+	name = "abydos_pyramid_entrance_4x_r12c6"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r12c6"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r12c7
+	name = "abydos_pyramid_entrance_4x_r12c7"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r12c7"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r12c8
+	name = "abydos_pyramid_entrance_4x_r12c8"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r12c8"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r12c9
+	name = "abydos_pyramid_entrance_4x_r12c9"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r12c9"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r12c10
+	name = "abydos_pyramid_entrance_4x_r12c10"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r12c10"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r12c11
+	name = "abydos_pyramid_entrance_4x_r12c11"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r12c11"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r12c12
+	name = "abydos_pyramid_entrance_4x_r12c12"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r12c12"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r12c13
+	name = "abydos_pyramid_entrance_4x_r12c13"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r12c13"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r12c14
+	name = "abydos_pyramid_entrance_4x_r12c14"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r12c14"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r12c15
+	name = "abydos_pyramid_entrance_4x_r12c15"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r12c15"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r12c16
+	name = "abydos_pyramid_entrance_4x_r12c16"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r12c16"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r12c17
+	name = "abydos_pyramid_entrance_4x_r12c17"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r12c17"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r12c18
+	name = "abydos_pyramid_entrance_4x_r12c18"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r12c18"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r12c19
+	name = "abydos_pyramid_entrance_4x_r12c19"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r12c19"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r12c20
+	name = "abydos_pyramid_entrance_4x_r12c20"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r12c20"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r12c21
+	name = "abydos_pyramid_entrance_4x_r12c21"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r12c21"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r12c22
+	name = "abydos_pyramid_entrance_4x_r12c22"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r12c22"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r12c23
+	name = "abydos_pyramid_entrance_4x_r12c23"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r12c23"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r12c24
+	name = "abydos_pyramid_entrance_4x_r12c24"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r12c24"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r13c1
+	name = "abydos_pyramid_entrance_4x_r13c1"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r13c1"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r13c2
+	name = "abydos_pyramid_entrance_4x_r13c2"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r13c2"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r13c3
+	name = "abydos_pyramid_entrance_4x_r13c3"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r13c3"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r13c4
+	name = "abydos_pyramid_entrance_4x_r13c4"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r13c4"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r13c5
+	name = "abydos_pyramid_entrance_4x_r13c5"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r13c5"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r13c6
+	name = "abydos_pyramid_entrance_4x_r13c6"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r13c6"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r13c7
+	name = "abydos_pyramid_entrance_4x_r13c7"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r13c7"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r13c8
+	name = "abydos_pyramid_entrance_4x_r13c8"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r13c8"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r13c9
+	name = "abydos_pyramid_entrance_4x_r13c9"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r13c9"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r13c10
+	name = "abydos_pyramid_entrance_4x_r13c10"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r13c10"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r13c11
+	name = "abydos_pyramid_entrance_4x_r13c11"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r13c11"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r13c12
+	name = "abydos_pyramid_entrance_4x_r13c12"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r13c12"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r13c13
+	name = "abydos_pyramid_entrance_4x_r13c13"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r13c13"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r13c14
+	name = "abydos_pyramid_entrance_4x_r13c14"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r13c14"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r13c15
+	name = "abydos_pyramid_entrance_4x_r13c15"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r13c15"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r13c16
+	name = "abydos_pyramid_entrance_4x_r13c16"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r13c16"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r13c17
+	name = "abydos_pyramid_entrance_4x_r13c17"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r13c17"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r13c18
+	name = "abydos_pyramid_entrance_4x_r13c18"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r13c18"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r13c19
+	name = "abydos_pyramid_entrance_4x_r13c19"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r13c19"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r13c20
+	name = "abydos_pyramid_entrance_4x_r13c20"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r13c20"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r13c21
+	name = "abydos_pyramid_entrance_4x_r13c21"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r13c21"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r13c22
+	name = "abydos_pyramid_entrance_4x_r13c22"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r13c22"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r13c23
+	name = "abydos_pyramid_entrance_4x_r13c23"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r13c23"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r13c24
+	name = "abydos_pyramid_entrance_4x_r13c24"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r13c24"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r14c1
+	name = "abydos_pyramid_entrance_4x_r14c1"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r14c1"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r14c2
+	name = "abydos_pyramid_entrance_4x_r14c2"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r14c2"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r14c3
+	name = "abydos_pyramid_entrance_4x_r14c3"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r14c3"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r14c4
+	name = "abydos_pyramid_entrance_4x_r14c4"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r14c4"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r14c5
+	name = "abydos_pyramid_entrance_4x_r14c5"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r14c5"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r14c6
+	name = "abydos_pyramid_entrance_4x_r14c6"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r14c6"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r14c7
+	name = "abydos_pyramid_entrance_4x_r14c7"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r14c7"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r14c8
+	name = "abydos_pyramid_entrance_4x_r14c8"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r14c8"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r14c9
+	name = "abydos_pyramid_entrance_4x_r14c9"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r14c9"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r14c10
+	name = "abydos_pyramid_entrance_4x_r14c10"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r14c10"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r14c11
+	name = "abydos_pyramid_entrance_4x_r14c11"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r14c11"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r14c12
+	name = "abydos_pyramid_entrance_4x_r14c12"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r14c12"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r14c13
+	name = "abydos_pyramid_entrance_4x_r14c13"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r14c13"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r14c14
+	name = "abydos_pyramid_entrance_4x_r14c14"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r14c14"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r14c15
+	name = "abydos_pyramid_entrance_4x_r14c15"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r14c15"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r14c16
+	name = "abydos_pyramid_entrance_4x_r14c16"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r14c16"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r14c17
+	name = "abydos_pyramid_entrance_4x_r14c17"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r14c17"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r14c18
+	name = "abydos_pyramid_entrance_4x_r14c18"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r14c18"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r14c19
+	name = "abydos_pyramid_entrance_4x_r14c19"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r14c19"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r14c20
+	name = "abydos_pyramid_entrance_4x_r14c20"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r14c20"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r14c21
+	name = "abydos_pyramid_entrance_4x_r14c21"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r14c21"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r14c22
+	name = "abydos_pyramid_entrance_4x_r14c22"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r14c22"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r14c23
+	name = "abydos_pyramid_entrance_4x_r14c23"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r14c23"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r14c24
+	name = "abydos_pyramid_entrance_4x_r14c24"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r14c24"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r15c1
+	name = "abydos_pyramid_entrance_4x_r15c1"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r15c1"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r15c2
+	name = "abydos_pyramid_entrance_4x_r15c2"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r15c2"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r15c3
+	name = "abydos_pyramid_entrance_4x_r15c3"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r15c3"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r15c4
+	name = "abydos_pyramid_entrance_4x_r15c4"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r15c4"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r15c5
+	name = "abydos_pyramid_entrance_4x_r15c5"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r15c5"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r15c6
+	name = "abydos_pyramid_entrance_4x_r15c6"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r15c6"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r15c7
+	name = "abydos_pyramid_entrance_4x_r15c7"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r15c7"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r15c8
+	name = "abydos_pyramid_entrance_4x_r15c8"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r15c8"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r15c9
+	name = "abydos_pyramid_entrance_4x_r15c9"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r15c9"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r15c10
+	name = "abydos_pyramid_entrance_4x_r15c10"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r15c10"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r15c11
+	name = "abydos_pyramid_entrance_4x_r15c11"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r15c11"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r15c12
+	name = "abydos_pyramid_entrance_4x_r15c12"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r15c12"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r15c13
+	name = "abydos_pyramid_entrance_4x_r15c13"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r15c13"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r15c14
+	name = "abydos_pyramid_entrance_4x_r15c14"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r15c14"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r15c15
+	name = "abydos_pyramid_entrance_4x_r15c15"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r15c15"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r15c16
+	name = "abydos_pyramid_entrance_4x_r15c16"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r15c16"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r15c17
+	name = "abydos_pyramid_entrance_4x_r15c17"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r15c17"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r15c18
+	name = "abydos_pyramid_entrance_4x_r15c18"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r15c18"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r15c19
+	name = "abydos_pyramid_entrance_4x_r15c19"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r15c19"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r15c20
+	name = "abydos_pyramid_entrance_4x_r15c20"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r15c20"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r15c21
+	name = "abydos_pyramid_entrance_4x_r15c21"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r15c21"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r15c22
+	name = "abydos_pyramid_entrance_4x_r15c22"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r15c22"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r15c23
+	name = "abydos_pyramid_entrance_4x_r15c23"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r15c23"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r15c24
+	name = "abydos_pyramid_entrance_4x_r15c24"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r15c24"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r16c1
+	name = "abydos_pyramid_entrance_4x_r16c1"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r16c1"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r16c2
+	name = "abydos_pyramid_entrance_4x_r16c2"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r16c2"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r16c3
+	name = "abydos_pyramid_entrance_4x_r16c3"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r16c3"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r16c4
+	name = "abydos_pyramid_entrance_4x_r16c4"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r16c4"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r16c5
+	name = "abydos_pyramid_entrance_4x_r16c5"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r16c5"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r16c6
+	name = "abydos_pyramid_entrance_4x_r16c6"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r16c6"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r16c7
+	name = "abydos_pyramid_entrance_4x_r16c7"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r16c7"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r16c8
+	name = "abydos_pyramid_entrance_4x_r16c8"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r16c8"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r16c9
+	name = "abydos_pyramid_entrance_4x_r16c9"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r16c9"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r16c10
+	name = "abydos_pyramid_entrance_4x_r16c10"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r16c10"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r16c11
+	name = "abydos_pyramid_entrance_4x_r16c11"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r16c11"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r16c12
+	name = "abydos_pyramid_entrance_4x_r16c12"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r16c12"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r16c13
+	name = "abydos_pyramid_entrance_4x_r16c13"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r16c13"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r16c14
+	name = "abydos_pyramid_entrance_4x_r16c14"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r16c14"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r16c15
+	name = "abydos_pyramid_entrance_4x_r16c15"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r16c15"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r16c16
+	name = "abydos_pyramid_entrance_4x_r16c16"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r16c16"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r16c17
+	name = "abydos_pyramid_entrance_4x_r16c17"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r16c17"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r16c18
+	name = "abydos_pyramid_entrance_4x_r16c18"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r16c18"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r16c19
+	name = "abydos_pyramid_entrance_4x_r16c19"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r16c19"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r16c20
+	name = "abydos_pyramid_entrance_4x_r16c20"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r16c20"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r16c21
+	name = "abydos_pyramid_entrance_4x_r16c21"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r16c21"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r16c22
+	name = "abydos_pyramid_entrance_4x_r16c22"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r16c22"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r16c23
+	name = "abydos_pyramid_entrance_4x_r16c23"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r16c23"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_4x_24x16/state_abydos_pyramid_entrance_4x_r16c24
+	name = "abydos_pyramid_entrance_4x_r16c24"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_4x_24x16.dmi'
+	icon_state = "abydos_pyramid_entrance_4x_r16c24"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20
+	name = "SGA Abydos Pyramid Entrance 5x 30x20"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r1c1"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r1c1
+	name = "abydos_pyramid_entrance_5x_r1c1"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r1c1"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r1c2
+	name = "abydos_pyramid_entrance_5x_r1c2"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r1c2"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r1c3
+	name = "abydos_pyramid_entrance_5x_r1c3"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r1c3"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r1c4
+	name = "abydos_pyramid_entrance_5x_r1c4"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r1c4"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r1c5
+	name = "abydos_pyramid_entrance_5x_r1c5"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r1c5"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r1c6
+	name = "abydos_pyramid_entrance_5x_r1c6"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r1c6"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r1c7
+	name = "abydos_pyramid_entrance_5x_r1c7"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r1c7"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r1c8
+	name = "abydos_pyramid_entrance_5x_r1c8"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r1c8"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r1c9
+	name = "abydos_pyramid_entrance_5x_r1c9"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r1c9"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r1c10
+	name = "abydos_pyramid_entrance_5x_r1c10"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r1c10"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r1c11
+	name = "abydos_pyramid_entrance_5x_r1c11"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r1c11"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r1c12
+	name = "abydos_pyramid_entrance_5x_r1c12"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r1c12"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r1c13
+	name = "abydos_pyramid_entrance_5x_r1c13"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r1c13"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r1c14
+	name = "abydos_pyramid_entrance_5x_r1c14"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r1c14"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r1c15
+	name = "abydos_pyramid_entrance_5x_r1c15"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r1c15"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r1c16
+	name = "abydos_pyramid_entrance_5x_r1c16"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r1c16"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r1c17
+	name = "abydos_pyramid_entrance_5x_r1c17"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r1c17"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r1c18
+	name = "abydos_pyramid_entrance_5x_r1c18"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r1c18"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r1c19
+	name = "abydos_pyramid_entrance_5x_r1c19"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r1c19"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r1c20
+	name = "abydos_pyramid_entrance_5x_r1c20"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r1c20"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r1c21
+	name = "abydos_pyramid_entrance_5x_r1c21"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r1c21"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r1c22
+	name = "abydos_pyramid_entrance_5x_r1c22"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r1c22"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r1c23
+	name = "abydos_pyramid_entrance_5x_r1c23"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r1c23"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r1c24
+	name = "abydos_pyramid_entrance_5x_r1c24"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r1c24"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r1c25
+	name = "abydos_pyramid_entrance_5x_r1c25"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r1c25"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r1c26
+	name = "abydos_pyramid_entrance_5x_r1c26"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r1c26"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r1c27
+	name = "abydos_pyramid_entrance_5x_r1c27"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r1c27"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r1c28
+	name = "abydos_pyramid_entrance_5x_r1c28"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r1c28"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r1c29
+	name = "abydos_pyramid_entrance_5x_r1c29"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r1c29"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r1c30
+	name = "abydos_pyramid_entrance_5x_r1c30"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r1c30"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r2c1
+	name = "abydos_pyramid_entrance_5x_r2c1"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r2c1"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r2c2
+	name = "abydos_pyramid_entrance_5x_r2c2"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r2c2"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r2c3
+	name = "abydos_pyramid_entrance_5x_r2c3"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r2c3"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r2c4
+	name = "abydos_pyramid_entrance_5x_r2c4"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r2c4"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r2c5
+	name = "abydos_pyramid_entrance_5x_r2c5"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r2c5"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r2c6
+	name = "abydos_pyramid_entrance_5x_r2c6"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r2c6"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r2c7
+	name = "abydos_pyramid_entrance_5x_r2c7"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r2c7"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r2c8
+	name = "abydos_pyramid_entrance_5x_r2c8"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r2c8"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r2c9
+	name = "abydos_pyramid_entrance_5x_r2c9"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r2c9"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r2c10
+	name = "abydos_pyramid_entrance_5x_r2c10"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r2c10"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r2c11
+	name = "abydos_pyramid_entrance_5x_r2c11"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r2c11"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r2c12
+	name = "abydos_pyramid_entrance_5x_r2c12"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r2c12"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r2c13
+	name = "abydos_pyramid_entrance_5x_r2c13"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r2c13"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r2c14
+	name = "abydos_pyramid_entrance_5x_r2c14"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r2c14"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r2c15
+	name = "abydos_pyramid_entrance_5x_r2c15"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r2c15"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r2c16
+	name = "abydos_pyramid_entrance_5x_r2c16"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r2c16"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r2c17
+	name = "abydos_pyramid_entrance_5x_r2c17"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r2c17"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r2c18
+	name = "abydos_pyramid_entrance_5x_r2c18"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r2c18"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r2c19
+	name = "abydos_pyramid_entrance_5x_r2c19"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r2c19"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r2c20
+	name = "abydos_pyramid_entrance_5x_r2c20"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r2c20"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r2c21
+	name = "abydos_pyramid_entrance_5x_r2c21"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r2c21"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r2c22
+	name = "abydos_pyramid_entrance_5x_r2c22"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r2c22"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r2c23
+	name = "abydos_pyramid_entrance_5x_r2c23"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r2c23"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r2c24
+	name = "abydos_pyramid_entrance_5x_r2c24"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r2c24"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r2c25
+	name = "abydos_pyramid_entrance_5x_r2c25"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r2c25"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r2c26
+	name = "abydos_pyramid_entrance_5x_r2c26"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r2c26"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r2c27
+	name = "abydos_pyramid_entrance_5x_r2c27"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r2c27"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r2c28
+	name = "abydos_pyramid_entrance_5x_r2c28"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r2c28"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r2c29
+	name = "abydos_pyramid_entrance_5x_r2c29"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r2c29"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r2c30
+	name = "abydos_pyramid_entrance_5x_r2c30"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r2c30"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r3c1
+	name = "abydos_pyramid_entrance_5x_r3c1"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r3c1"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r3c2
+	name = "abydos_pyramid_entrance_5x_r3c2"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r3c2"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r3c3
+	name = "abydos_pyramid_entrance_5x_r3c3"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r3c3"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r3c4
+	name = "abydos_pyramid_entrance_5x_r3c4"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r3c4"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r3c5
+	name = "abydos_pyramid_entrance_5x_r3c5"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r3c5"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r3c6
+	name = "abydos_pyramid_entrance_5x_r3c6"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r3c6"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r3c7
+	name = "abydos_pyramid_entrance_5x_r3c7"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r3c7"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r3c8
+	name = "abydos_pyramid_entrance_5x_r3c8"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r3c8"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r3c9
+	name = "abydos_pyramid_entrance_5x_r3c9"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r3c9"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r3c10
+	name = "abydos_pyramid_entrance_5x_r3c10"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r3c10"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r3c11
+	name = "abydos_pyramid_entrance_5x_r3c11"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r3c11"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r3c12
+	name = "abydos_pyramid_entrance_5x_r3c12"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r3c12"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r3c13
+	name = "abydos_pyramid_entrance_5x_r3c13"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r3c13"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r3c14
+	name = "abydos_pyramid_entrance_5x_r3c14"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r3c14"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r3c15
+	name = "abydos_pyramid_entrance_5x_r3c15"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r3c15"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r3c16
+	name = "abydos_pyramid_entrance_5x_r3c16"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r3c16"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r3c17
+	name = "abydos_pyramid_entrance_5x_r3c17"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r3c17"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r3c18
+	name = "abydos_pyramid_entrance_5x_r3c18"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r3c18"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r3c19
+	name = "abydos_pyramid_entrance_5x_r3c19"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r3c19"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r3c20
+	name = "abydos_pyramid_entrance_5x_r3c20"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r3c20"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r3c21
+	name = "abydos_pyramid_entrance_5x_r3c21"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r3c21"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r3c22
+	name = "abydos_pyramid_entrance_5x_r3c22"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r3c22"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r3c23
+	name = "abydos_pyramid_entrance_5x_r3c23"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r3c23"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r3c24
+	name = "abydos_pyramid_entrance_5x_r3c24"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r3c24"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r3c25
+	name = "abydos_pyramid_entrance_5x_r3c25"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r3c25"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r3c26
+	name = "abydos_pyramid_entrance_5x_r3c26"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r3c26"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r3c27
+	name = "abydos_pyramid_entrance_5x_r3c27"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r3c27"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r3c28
+	name = "abydos_pyramid_entrance_5x_r3c28"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r3c28"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r3c29
+	name = "abydos_pyramid_entrance_5x_r3c29"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r3c29"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r3c30
+	name = "abydos_pyramid_entrance_5x_r3c30"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r3c30"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r4c1
+	name = "abydos_pyramid_entrance_5x_r4c1"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r4c1"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r4c2
+	name = "abydos_pyramid_entrance_5x_r4c2"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r4c2"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r4c3
+	name = "abydos_pyramid_entrance_5x_r4c3"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r4c3"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r4c4
+	name = "abydos_pyramid_entrance_5x_r4c4"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r4c4"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r4c5
+	name = "abydos_pyramid_entrance_5x_r4c5"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r4c5"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r4c6
+	name = "abydos_pyramid_entrance_5x_r4c6"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r4c6"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r4c7
+	name = "abydos_pyramid_entrance_5x_r4c7"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r4c7"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r4c8
+	name = "abydos_pyramid_entrance_5x_r4c8"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r4c8"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r4c9
+	name = "abydos_pyramid_entrance_5x_r4c9"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r4c9"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r4c10
+	name = "abydos_pyramid_entrance_5x_r4c10"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r4c10"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r4c11
+	name = "abydos_pyramid_entrance_5x_r4c11"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r4c11"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r4c12
+	name = "abydos_pyramid_entrance_5x_r4c12"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r4c12"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r4c13
+	name = "abydos_pyramid_entrance_5x_r4c13"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r4c13"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r4c14
+	name = "abydos_pyramid_entrance_5x_r4c14"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r4c14"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r4c15
+	name = "abydos_pyramid_entrance_5x_r4c15"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r4c15"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r4c16
+	name = "abydos_pyramid_entrance_5x_r4c16"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r4c16"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r4c17
+	name = "abydos_pyramid_entrance_5x_r4c17"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r4c17"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r4c18
+	name = "abydos_pyramid_entrance_5x_r4c18"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r4c18"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r4c19
+	name = "abydos_pyramid_entrance_5x_r4c19"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r4c19"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r4c20
+	name = "abydos_pyramid_entrance_5x_r4c20"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r4c20"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r4c21
+	name = "abydos_pyramid_entrance_5x_r4c21"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r4c21"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r4c22
+	name = "abydos_pyramid_entrance_5x_r4c22"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r4c22"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r4c23
+	name = "abydos_pyramid_entrance_5x_r4c23"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r4c23"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r4c24
+	name = "abydos_pyramid_entrance_5x_r4c24"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r4c24"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r4c25
+	name = "abydos_pyramid_entrance_5x_r4c25"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r4c25"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r4c26
+	name = "abydos_pyramid_entrance_5x_r4c26"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r4c26"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r4c27
+	name = "abydos_pyramid_entrance_5x_r4c27"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r4c27"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r4c28
+	name = "abydos_pyramid_entrance_5x_r4c28"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r4c28"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r4c29
+	name = "abydos_pyramid_entrance_5x_r4c29"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r4c29"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r4c30
+	name = "abydos_pyramid_entrance_5x_r4c30"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r4c30"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r5c1
+	name = "abydos_pyramid_entrance_5x_r5c1"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r5c1"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r5c2
+	name = "abydos_pyramid_entrance_5x_r5c2"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r5c2"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r5c3
+	name = "abydos_pyramid_entrance_5x_r5c3"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r5c3"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r5c4
+	name = "abydos_pyramid_entrance_5x_r5c4"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r5c4"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r5c5
+	name = "abydos_pyramid_entrance_5x_r5c5"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r5c5"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r5c6
+	name = "abydos_pyramid_entrance_5x_r5c6"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r5c6"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r5c7
+	name = "abydos_pyramid_entrance_5x_r5c7"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r5c7"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r5c8
+	name = "abydos_pyramid_entrance_5x_r5c8"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r5c8"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r5c9
+	name = "abydos_pyramid_entrance_5x_r5c9"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r5c9"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r5c10
+	name = "abydos_pyramid_entrance_5x_r5c10"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r5c10"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r5c11
+	name = "abydos_pyramid_entrance_5x_r5c11"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r5c11"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r5c12
+	name = "abydos_pyramid_entrance_5x_r5c12"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r5c12"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r5c13
+	name = "abydos_pyramid_entrance_5x_r5c13"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r5c13"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r5c14
+	name = "abydos_pyramid_entrance_5x_r5c14"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r5c14"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r5c15
+	name = "abydos_pyramid_entrance_5x_r5c15"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r5c15"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r5c16
+	name = "abydos_pyramid_entrance_5x_r5c16"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r5c16"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r5c17
+	name = "abydos_pyramid_entrance_5x_r5c17"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r5c17"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r5c18
+	name = "abydos_pyramid_entrance_5x_r5c18"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r5c18"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r5c19
+	name = "abydos_pyramid_entrance_5x_r5c19"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r5c19"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r5c20
+	name = "abydos_pyramid_entrance_5x_r5c20"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r5c20"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r5c21
+	name = "abydos_pyramid_entrance_5x_r5c21"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r5c21"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r5c22
+	name = "abydos_pyramid_entrance_5x_r5c22"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r5c22"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r5c23
+	name = "abydos_pyramid_entrance_5x_r5c23"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r5c23"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r5c24
+	name = "abydos_pyramid_entrance_5x_r5c24"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r5c24"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r5c25
+	name = "abydos_pyramid_entrance_5x_r5c25"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r5c25"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r5c26
+	name = "abydos_pyramid_entrance_5x_r5c26"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r5c26"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r5c27
+	name = "abydos_pyramid_entrance_5x_r5c27"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r5c27"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r5c28
+	name = "abydos_pyramid_entrance_5x_r5c28"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r5c28"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r5c29
+	name = "abydos_pyramid_entrance_5x_r5c29"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r5c29"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r5c30
+	name = "abydos_pyramid_entrance_5x_r5c30"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r5c30"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r6c1
+	name = "abydos_pyramid_entrance_5x_r6c1"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r6c1"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r6c2
+	name = "abydos_pyramid_entrance_5x_r6c2"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r6c2"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r6c3
+	name = "abydos_pyramid_entrance_5x_r6c3"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r6c3"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r6c4
+	name = "abydos_pyramid_entrance_5x_r6c4"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r6c4"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r6c5
+	name = "abydos_pyramid_entrance_5x_r6c5"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r6c5"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r6c6
+	name = "abydos_pyramid_entrance_5x_r6c6"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r6c6"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r6c7
+	name = "abydos_pyramid_entrance_5x_r6c7"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r6c7"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r6c8
+	name = "abydos_pyramid_entrance_5x_r6c8"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r6c8"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r6c9
+	name = "abydos_pyramid_entrance_5x_r6c9"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r6c9"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r6c10
+	name = "abydos_pyramid_entrance_5x_r6c10"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r6c10"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r6c11
+	name = "abydos_pyramid_entrance_5x_r6c11"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r6c11"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r6c12
+	name = "abydos_pyramid_entrance_5x_r6c12"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r6c12"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r6c13
+	name = "abydos_pyramid_entrance_5x_r6c13"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r6c13"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r6c14
+	name = "abydos_pyramid_entrance_5x_r6c14"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r6c14"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r6c15
+	name = "abydos_pyramid_entrance_5x_r6c15"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r6c15"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r6c16
+	name = "abydos_pyramid_entrance_5x_r6c16"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r6c16"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r6c17
+	name = "abydos_pyramid_entrance_5x_r6c17"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r6c17"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r6c18
+	name = "abydos_pyramid_entrance_5x_r6c18"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r6c18"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r6c19
+	name = "abydos_pyramid_entrance_5x_r6c19"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r6c19"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r6c20
+	name = "abydos_pyramid_entrance_5x_r6c20"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r6c20"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r6c21
+	name = "abydos_pyramid_entrance_5x_r6c21"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r6c21"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r6c22
+	name = "abydos_pyramid_entrance_5x_r6c22"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r6c22"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r6c23
+	name = "abydos_pyramid_entrance_5x_r6c23"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r6c23"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r6c24
+	name = "abydos_pyramid_entrance_5x_r6c24"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r6c24"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r6c25
+	name = "abydos_pyramid_entrance_5x_r6c25"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r6c25"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r6c26
+	name = "abydos_pyramid_entrance_5x_r6c26"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r6c26"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r6c27
+	name = "abydos_pyramid_entrance_5x_r6c27"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r6c27"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r6c28
+	name = "abydos_pyramid_entrance_5x_r6c28"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r6c28"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r6c29
+	name = "abydos_pyramid_entrance_5x_r6c29"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r6c29"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r6c30
+	name = "abydos_pyramid_entrance_5x_r6c30"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r6c30"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r7c1
+	name = "abydos_pyramid_entrance_5x_r7c1"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r7c1"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r7c2
+	name = "abydos_pyramid_entrance_5x_r7c2"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r7c2"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r7c3
+	name = "abydos_pyramid_entrance_5x_r7c3"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r7c3"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r7c4
+	name = "abydos_pyramid_entrance_5x_r7c4"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r7c4"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r7c5
+	name = "abydos_pyramid_entrance_5x_r7c5"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r7c5"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r7c6
+	name = "abydos_pyramid_entrance_5x_r7c6"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r7c6"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r7c7
+	name = "abydos_pyramid_entrance_5x_r7c7"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r7c7"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r7c8
+	name = "abydos_pyramid_entrance_5x_r7c8"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r7c8"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r7c9
+	name = "abydos_pyramid_entrance_5x_r7c9"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r7c9"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r7c10
+	name = "abydos_pyramid_entrance_5x_r7c10"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r7c10"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r7c11
+	name = "abydos_pyramid_entrance_5x_r7c11"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r7c11"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r7c12
+	name = "abydos_pyramid_entrance_5x_r7c12"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r7c12"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r7c13
+	name = "abydos_pyramid_entrance_5x_r7c13"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r7c13"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r7c14
+	name = "abydos_pyramid_entrance_5x_r7c14"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r7c14"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r7c15
+	name = "abydos_pyramid_entrance_5x_r7c15"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r7c15"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r7c16
+	name = "abydos_pyramid_entrance_5x_r7c16"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r7c16"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r7c17
+	name = "abydos_pyramid_entrance_5x_r7c17"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r7c17"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r7c18
+	name = "abydos_pyramid_entrance_5x_r7c18"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r7c18"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r7c19
+	name = "abydos_pyramid_entrance_5x_r7c19"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r7c19"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r7c20
+	name = "abydos_pyramid_entrance_5x_r7c20"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r7c20"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r7c21
+	name = "abydos_pyramid_entrance_5x_r7c21"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r7c21"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r7c22
+	name = "abydos_pyramid_entrance_5x_r7c22"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r7c22"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r7c23
+	name = "abydos_pyramid_entrance_5x_r7c23"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r7c23"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r7c24
+	name = "abydos_pyramid_entrance_5x_r7c24"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r7c24"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r7c25
+	name = "abydos_pyramid_entrance_5x_r7c25"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r7c25"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r7c26
+	name = "abydos_pyramid_entrance_5x_r7c26"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r7c26"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r7c27
+	name = "abydos_pyramid_entrance_5x_r7c27"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r7c27"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r7c28
+	name = "abydos_pyramid_entrance_5x_r7c28"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r7c28"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r7c29
+	name = "abydos_pyramid_entrance_5x_r7c29"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r7c29"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r7c30
+	name = "abydos_pyramid_entrance_5x_r7c30"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r7c30"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r8c1
+	name = "abydos_pyramid_entrance_5x_r8c1"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r8c1"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r8c2
+	name = "abydos_pyramid_entrance_5x_r8c2"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r8c2"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r8c3
+	name = "abydos_pyramid_entrance_5x_r8c3"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r8c3"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r8c4
+	name = "abydos_pyramid_entrance_5x_r8c4"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r8c4"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r8c5
+	name = "abydos_pyramid_entrance_5x_r8c5"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r8c5"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r8c6
+	name = "abydos_pyramid_entrance_5x_r8c6"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r8c6"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r8c7
+	name = "abydos_pyramid_entrance_5x_r8c7"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r8c7"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r8c8
+	name = "abydos_pyramid_entrance_5x_r8c8"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r8c8"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r8c9
+	name = "abydos_pyramid_entrance_5x_r8c9"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r8c9"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r8c10
+	name = "abydos_pyramid_entrance_5x_r8c10"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r8c10"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r8c11
+	name = "abydos_pyramid_entrance_5x_r8c11"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r8c11"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r8c12
+	name = "abydos_pyramid_entrance_5x_r8c12"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r8c12"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r8c13
+	name = "abydos_pyramid_entrance_5x_r8c13"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r8c13"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r8c14
+	name = "abydos_pyramid_entrance_5x_r8c14"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r8c14"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r8c15
+	name = "abydos_pyramid_entrance_5x_r8c15"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r8c15"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r8c16
+	name = "abydos_pyramid_entrance_5x_r8c16"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r8c16"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r8c17
+	name = "abydos_pyramid_entrance_5x_r8c17"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r8c17"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r8c18
+	name = "abydos_pyramid_entrance_5x_r8c18"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r8c18"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r8c19
+	name = "abydos_pyramid_entrance_5x_r8c19"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r8c19"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r8c20
+	name = "abydos_pyramid_entrance_5x_r8c20"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r8c20"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r8c21
+	name = "abydos_pyramid_entrance_5x_r8c21"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r8c21"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r8c22
+	name = "abydos_pyramid_entrance_5x_r8c22"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r8c22"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r8c23
+	name = "abydos_pyramid_entrance_5x_r8c23"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r8c23"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r8c24
+	name = "abydos_pyramid_entrance_5x_r8c24"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r8c24"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r8c25
+	name = "abydos_pyramid_entrance_5x_r8c25"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r8c25"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r8c26
+	name = "abydos_pyramid_entrance_5x_r8c26"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r8c26"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r8c27
+	name = "abydos_pyramid_entrance_5x_r8c27"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r8c27"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r8c28
+	name = "abydos_pyramid_entrance_5x_r8c28"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r8c28"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r8c29
+	name = "abydos_pyramid_entrance_5x_r8c29"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r8c29"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r8c30
+	name = "abydos_pyramid_entrance_5x_r8c30"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r8c30"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r9c1
+	name = "abydos_pyramid_entrance_5x_r9c1"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r9c1"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r9c2
+	name = "abydos_pyramid_entrance_5x_r9c2"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r9c2"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r9c3
+	name = "abydos_pyramid_entrance_5x_r9c3"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r9c3"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r9c4
+	name = "abydos_pyramid_entrance_5x_r9c4"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r9c4"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r9c5
+	name = "abydos_pyramid_entrance_5x_r9c5"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r9c5"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r9c6
+	name = "abydos_pyramid_entrance_5x_r9c6"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r9c6"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r9c7
+	name = "abydos_pyramid_entrance_5x_r9c7"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r9c7"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r9c8
+	name = "abydos_pyramid_entrance_5x_r9c8"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r9c8"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r9c9
+	name = "abydos_pyramid_entrance_5x_r9c9"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r9c9"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r9c10
+	name = "abydos_pyramid_entrance_5x_r9c10"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r9c10"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r9c11
+	name = "abydos_pyramid_entrance_5x_r9c11"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r9c11"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r9c12
+	name = "abydos_pyramid_entrance_5x_r9c12"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r9c12"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r9c13
+	name = "abydos_pyramid_entrance_5x_r9c13"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r9c13"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r9c14
+	name = "abydos_pyramid_entrance_5x_r9c14"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r9c14"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r9c15
+	name = "abydos_pyramid_entrance_5x_r9c15"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r9c15"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r9c16
+	name = "abydos_pyramid_entrance_5x_r9c16"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r9c16"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r9c17
+	name = "abydos_pyramid_entrance_5x_r9c17"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r9c17"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r9c18
+	name = "abydos_pyramid_entrance_5x_r9c18"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r9c18"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r9c19
+	name = "abydos_pyramid_entrance_5x_r9c19"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r9c19"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r9c20
+	name = "abydos_pyramid_entrance_5x_r9c20"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r9c20"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r9c21
+	name = "abydos_pyramid_entrance_5x_r9c21"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r9c21"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r9c22
+	name = "abydos_pyramid_entrance_5x_r9c22"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r9c22"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r9c23
+	name = "abydos_pyramid_entrance_5x_r9c23"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r9c23"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r9c24
+	name = "abydos_pyramid_entrance_5x_r9c24"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r9c24"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r9c25
+	name = "abydos_pyramid_entrance_5x_r9c25"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r9c25"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r9c26
+	name = "abydos_pyramid_entrance_5x_r9c26"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r9c26"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r9c27
+	name = "abydos_pyramid_entrance_5x_r9c27"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r9c27"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r9c28
+	name = "abydos_pyramid_entrance_5x_r9c28"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r9c28"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r9c29
+	name = "abydos_pyramid_entrance_5x_r9c29"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r9c29"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r9c30
+	name = "abydos_pyramid_entrance_5x_r9c30"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r9c30"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r10c1
+	name = "abydos_pyramid_entrance_5x_r10c1"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r10c1"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r10c2
+	name = "abydos_pyramid_entrance_5x_r10c2"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r10c2"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r10c3
+	name = "abydos_pyramid_entrance_5x_r10c3"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r10c3"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r10c4
+	name = "abydos_pyramid_entrance_5x_r10c4"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r10c4"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r10c5
+	name = "abydos_pyramid_entrance_5x_r10c5"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r10c5"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r10c6
+	name = "abydos_pyramid_entrance_5x_r10c6"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r10c6"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r10c7
+	name = "abydos_pyramid_entrance_5x_r10c7"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r10c7"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r10c8
+	name = "abydos_pyramid_entrance_5x_r10c8"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r10c8"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r10c9
+	name = "abydos_pyramid_entrance_5x_r10c9"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r10c9"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r10c10
+	name = "abydos_pyramid_entrance_5x_r10c10"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r10c10"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r10c11
+	name = "abydos_pyramid_entrance_5x_r10c11"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r10c11"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r10c12
+	name = "abydos_pyramid_entrance_5x_r10c12"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r10c12"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r10c13
+	name = "abydos_pyramid_entrance_5x_r10c13"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r10c13"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r10c14
+	name = "abydos_pyramid_entrance_5x_r10c14"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r10c14"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r10c15
+	name = "abydos_pyramid_entrance_5x_r10c15"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r10c15"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r10c16
+	name = "abydos_pyramid_entrance_5x_r10c16"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r10c16"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r10c17
+	name = "abydos_pyramid_entrance_5x_r10c17"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r10c17"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r10c18
+	name = "abydos_pyramid_entrance_5x_r10c18"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r10c18"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r10c19
+	name = "abydos_pyramid_entrance_5x_r10c19"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r10c19"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r10c20
+	name = "abydos_pyramid_entrance_5x_r10c20"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r10c20"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r10c21
+	name = "abydos_pyramid_entrance_5x_r10c21"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r10c21"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r10c22
+	name = "abydos_pyramid_entrance_5x_r10c22"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r10c22"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r10c23
+	name = "abydos_pyramid_entrance_5x_r10c23"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r10c23"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r10c24
+	name = "abydos_pyramid_entrance_5x_r10c24"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r10c24"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r10c25
+	name = "abydos_pyramid_entrance_5x_r10c25"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r10c25"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r10c26
+	name = "abydos_pyramid_entrance_5x_r10c26"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r10c26"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r10c27
+	name = "abydos_pyramid_entrance_5x_r10c27"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r10c27"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r10c28
+	name = "abydos_pyramid_entrance_5x_r10c28"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r10c28"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r10c29
+	name = "abydos_pyramid_entrance_5x_r10c29"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r10c29"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r10c30
+	name = "abydos_pyramid_entrance_5x_r10c30"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r10c30"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r11c1
+	name = "abydos_pyramid_entrance_5x_r11c1"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r11c1"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r11c2
+	name = "abydos_pyramid_entrance_5x_r11c2"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r11c2"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r11c3
+	name = "abydos_pyramid_entrance_5x_r11c3"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r11c3"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r11c4
+	name = "abydos_pyramid_entrance_5x_r11c4"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r11c4"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r11c5
+	name = "abydos_pyramid_entrance_5x_r11c5"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r11c5"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r11c6
+	name = "abydos_pyramid_entrance_5x_r11c6"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r11c6"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r11c7
+	name = "abydos_pyramid_entrance_5x_r11c7"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r11c7"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r11c8
+	name = "abydos_pyramid_entrance_5x_r11c8"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r11c8"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r11c9
+	name = "abydos_pyramid_entrance_5x_r11c9"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r11c9"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r11c10
+	name = "abydos_pyramid_entrance_5x_r11c10"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r11c10"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r11c11
+	name = "abydos_pyramid_entrance_5x_r11c11"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r11c11"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r11c12
+	name = "abydos_pyramid_entrance_5x_r11c12"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r11c12"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r11c13
+	name = "abydos_pyramid_entrance_5x_r11c13"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r11c13"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r11c14
+	name = "abydos_pyramid_entrance_5x_r11c14"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r11c14"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r11c15
+	name = "abydos_pyramid_entrance_5x_r11c15"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r11c15"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r11c16
+	name = "abydos_pyramid_entrance_5x_r11c16"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r11c16"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r11c17
+	name = "abydos_pyramid_entrance_5x_r11c17"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r11c17"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r11c18
+	name = "abydos_pyramid_entrance_5x_r11c18"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r11c18"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r11c19
+	name = "abydos_pyramid_entrance_5x_r11c19"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r11c19"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r11c20
+	name = "abydos_pyramid_entrance_5x_r11c20"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r11c20"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r11c21
+	name = "abydos_pyramid_entrance_5x_r11c21"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r11c21"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r11c22
+	name = "abydos_pyramid_entrance_5x_r11c22"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r11c22"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r11c23
+	name = "abydos_pyramid_entrance_5x_r11c23"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r11c23"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r11c24
+	name = "abydos_pyramid_entrance_5x_r11c24"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r11c24"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r11c25
+	name = "abydos_pyramid_entrance_5x_r11c25"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r11c25"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r11c26
+	name = "abydos_pyramid_entrance_5x_r11c26"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r11c26"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r11c27
+	name = "abydos_pyramid_entrance_5x_r11c27"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r11c27"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r11c28
+	name = "abydos_pyramid_entrance_5x_r11c28"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r11c28"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r11c29
+	name = "abydos_pyramid_entrance_5x_r11c29"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r11c29"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r11c30
+	name = "abydos_pyramid_entrance_5x_r11c30"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r11c30"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r12c1
+	name = "abydos_pyramid_entrance_5x_r12c1"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r12c1"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r12c2
+	name = "abydos_pyramid_entrance_5x_r12c2"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r12c2"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r12c3
+	name = "abydos_pyramid_entrance_5x_r12c3"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r12c3"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r12c4
+	name = "abydos_pyramid_entrance_5x_r12c4"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r12c4"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r12c5
+	name = "abydos_pyramid_entrance_5x_r12c5"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r12c5"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r12c6
+	name = "abydos_pyramid_entrance_5x_r12c6"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r12c6"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r12c7
+	name = "abydos_pyramid_entrance_5x_r12c7"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r12c7"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r12c8
+	name = "abydos_pyramid_entrance_5x_r12c8"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r12c8"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r12c9
+	name = "abydos_pyramid_entrance_5x_r12c9"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r12c9"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r12c10
+	name = "abydos_pyramid_entrance_5x_r12c10"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r12c10"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r12c11
+	name = "abydos_pyramid_entrance_5x_r12c11"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r12c11"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r12c12
+	name = "abydos_pyramid_entrance_5x_r12c12"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r12c12"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r12c13
+	name = "abydos_pyramid_entrance_5x_r12c13"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r12c13"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r12c14
+	name = "abydos_pyramid_entrance_5x_r12c14"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r12c14"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r12c15
+	name = "abydos_pyramid_entrance_5x_r12c15"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r12c15"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r12c16
+	name = "abydos_pyramid_entrance_5x_r12c16"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r12c16"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r12c17
+	name = "abydos_pyramid_entrance_5x_r12c17"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r12c17"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r12c18
+	name = "abydos_pyramid_entrance_5x_r12c18"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r12c18"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r12c19
+	name = "abydos_pyramid_entrance_5x_r12c19"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r12c19"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r12c20
+	name = "abydos_pyramid_entrance_5x_r12c20"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r12c20"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r12c21
+	name = "abydos_pyramid_entrance_5x_r12c21"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r12c21"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r12c22
+	name = "abydos_pyramid_entrance_5x_r12c22"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r12c22"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r12c23
+	name = "abydos_pyramid_entrance_5x_r12c23"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r12c23"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r12c24
+	name = "abydos_pyramid_entrance_5x_r12c24"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r12c24"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r12c25
+	name = "abydos_pyramid_entrance_5x_r12c25"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r12c25"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r12c26
+	name = "abydos_pyramid_entrance_5x_r12c26"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r12c26"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r12c27
+	name = "abydos_pyramid_entrance_5x_r12c27"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r12c27"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r12c28
+	name = "abydos_pyramid_entrance_5x_r12c28"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r12c28"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r12c29
+	name = "abydos_pyramid_entrance_5x_r12c29"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r12c29"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r12c30
+	name = "abydos_pyramid_entrance_5x_r12c30"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r12c30"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r13c1
+	name = "abydos_pyramid_entrance_5x_r13c1"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r13c1"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r13c2
+	name = "abydos_pyramid_entrance_5x_r13c2"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r13c2"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r13c3
+	name = "abydos_pyramid_entrance_5x_r13c3"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r13c3"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r13c4
+	name = "abydos_pyramid_entrance_5x_r13c4"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r13c4"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r13c5
+	name = "abydos_pyramid_entrance_5x_r13c5"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r13c5"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r13c6
+	name = "abydos_pyramid_entrance_5x_r13c6"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r13c6"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r13c7
+	name = "abydos_pyramid_entrance_5x_r13c7"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r13c7"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r13c8
+	name = "abydos_pyramid_entrance_5x_r13c8"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r13c8"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r13c9
+	name = "abydos_pyramid_entrance_5x_r13c9"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r13c9"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r13c10
+	name = "abydos_pyramid_entrance_5x_r13c10"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r13c10"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r13c11
+	name = "abydos_pyramid_entrance_5x_r13c11"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r13c11"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r13c12
+	name = "abydos_pyramid_entrance_5x_r13c12"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r13c12"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r13c13
+	name = "abydos_pyramid_entrance_5x_r13c13"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r13c13"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r13c14
+	name = "abydos_pyramid_entrance_5x_r13c14"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r13c14"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r13c15
+	name = "abydos_pyramid_entrance_5x_r13c15"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r13c15"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r13c16
+	name = "abydos_pyramid_entrance_5x_r13c16"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r13c16"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r13c17
+	name = "abydos_pyramid_entrance_5x_r13c17"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r13c17"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r13c18
+	name = "abydos_pyramid_entrance_5x_r13c18"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r13c18"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r13c19
+	name = "abydos_pyramid_entrance_5x_r13c19"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r13c19"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r13c20
+	name = "abydos_pyramid_entrance_5x_r13c20"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r13c20"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r13c21
+	name = "abydos_pyramid_entrance_5x_r13c21"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r13c21"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r13c22
+	name = "abydos_pyramid_entrance_5x_r13c22"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r13c22"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r13c23
+	name = "abydos_pyramid_entrance_5x_r13c23"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r13c23"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r13c24
+	name = "abydos_pyramid_entrance_5x_r13c24"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r13c24"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r13c25
+	name = "abydos_pyramid_entrance_5x_r13c25"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r13c25"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r13c26
+	name = "abydos_pyramid_entrance_5x_r13c26"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r13c26"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r13c27
+	name = "abydos_pyramid_entrance_5x_r13c27"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r13c27"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r13c28
+	name = "abydos_pyramid_entrance_5x_r13c28"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r13c28"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r13c29
+	name = "abydos_pyramid_entrance_5x_r13c29"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r13c29"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r13c30
+	name = "abydos_pyramid_entrance_5x_r13c30"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r13c30"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r14c1
+	name = "abydos_pyramid_entrance_5x_r14c1"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r14c1"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r14c2
+	name = "abydos_pyramid_entrance_5x_r14c2"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r14c2"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r14c3
+	name = "abydos_pyramid_entrance_5x_r14c3"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r14c3"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r14c4
+	name = "abydos_pyramid_entrance_5x_r14c4"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r14c4"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r14c5
+	name = "abydos_pyramid_entrance_5x_r14c5"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r14c5"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r14c6
+	name = "abydos_pyramid_entrance_5x_r14c6"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r14c6"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r14c7
+	name = "abydos_pyramid_entrance_5x_r14c7"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r14c7"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r14c8
+	name = "abydos_pyramid_entrance_5x_r14c8"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r14c8"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r14c9
+	name = "abydos_pyramid_entrance_5x_r14c9"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r14c9"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r14c10
+	name = "abydos_pyramid_entrance_5x_r14c10"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r14c10"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r14c11
+	name = "abydos_pyramid_entrance_5x_r14c11"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r14c11"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r14c12
+	name = "abydos_pyramid_entrance_5x_r14c12"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r14c12"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r14c13
+	name = "abydos_pyramid_entrance_5x_r14c13"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r14c13"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r14c14
+	name = "abydos_pyramid_entrance_5x_r14c14"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r14c14"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r14c15
+	name = "abydos_pyramid_entrance_5x_r14c15"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r14c15"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r14c16
+	name = "abydos_pyramid_entrance_5x_r14c16"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r14c16"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r14c17
+	name = "abydos_pyramid_entrance_5x_r14c17"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r14c17"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r14c18
+	name = "abydos_pyramid_entrance_5x_r14c18"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r14c18"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r14c19
+	name = "abydos_pyramid_entrance_5x_r14c19"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r14c19"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r14c20
+	name = "abydos_pyramid_entrance_5x_r14c20"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r14c20"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r14c21
+	name = "abydos_pyramid_entrance_5x_r14c21"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r14c21"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r14c22
+	name = "abydos_pyramid_entrance_5x_r14c22"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r14c22"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r14c23
+	name = "abydos_pyramid_entrance_5x_r14c23"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r14c23"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r14c24
+	name = "abydos_pyramid_entrance_5x_r14c24"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r14c24"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r14c25
+	name = "abydos_pyramid_entrance_5x_r14c25"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r14c25"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r14c26
+	name = "abydos_pyramid_entrance_5x_r14c26"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r14c26"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r14c27
+	name = "abydos_pyramid_entrance_5x_r14c27"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r14c27"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r14c28
+	name = "abydos_pyramid_entrance_5x_r14c28"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r14c28"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r14c29
+	name = "abydos_pyramid_entrance_5x_r14c29"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r14c29"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r14c30
+	name = "abydos_pyramid_entrance_5x_r14c30"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r14c30"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r15c1
+	name = "abydos_pyramid_entrance_5x_r15c1"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r15c1"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r15c2
+	name = "abydos_pyramid_entrance_5x_r15c2"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r15c2"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r15c3
+	name = "abydos_pyramid_entrance_5x_r15c3"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r15c3"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r15c4
+	name = "abydos_pyramid_entrance_5x_r15c4"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r15c4"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r15c5
+	name = "abydos_pyramid_entrance_5x_r15c5"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r15c5"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r15c6
+	name = "abydos_pyramid_entrance_5x_r15c6"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r15c6"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r15c7
+	name = "abydos_pyramid_entrance_5x_r15c7"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r15c7"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r15c8
+	name = "abydos_pyramid_entrance_5x_r15c8"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r15c8"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r15c9
+	name = "abydos_pyramid_entrance_5x_r15c9"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r15c9"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r15c10
+	name = "abydos_pyramid_entrance_5x_r15c10"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r15c10"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r15c11
+	name = "abydos_pyramid_entrance_5x_r15c11"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r15c11"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r15c12
+	name = "abydos_pyramid_entrance_5x_r15c12"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r15c12"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r15c13
+	name = "abydos_pyramid_entrance_5x_r15c13"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r15c13"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r15c14
+	name = "abydos_pyramid_entrance_5x_r15c14"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r15c14"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r15c15
+	name = "abydos_pyramid_entrance_5x_r15c15"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r15c15"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r15c16
+	name = "abydos_pyramid_entrance_5x_r15c16"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r15c16"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r15c17
+	name = "abydos_pyramid_entrance_5x_r15c17"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r15c17"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r15c18
+	name = "abydos_pyramid_entrance_5x_r15c18"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r15c18"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r15c19
+	name = "abydos_pyramid_entrance_5x_r15c19"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r15c19"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r15c20
+	name = "abydos_pyramid_entrance_5x_r15c20"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r15c20"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r15c21
+	name = "abydos_pyramid_entrance_5x_r15c21"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r15c21"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r15c22
+	name = "abydos_pyramid_entrance_5x_r15c22"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r15c22"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r15c23
+	name = "abydos_pyramid_entrance_5x_r15c23"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r15c23"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r15c24
+	name = "abydos_pyramid_entrance_5x_r15c24"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r15c24"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r15c25
+	name = "abydos_pyramid_entrance_5x_r15c25"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r15c25"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r15c26
+	name = "abydos_pyramid_entrance_5x_r15c26"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r15c26"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r15c27
+	name = "abydos_pyramid_entrance_5x_r15c27"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r15c27"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r15c28
+	name = "abydos_pyramid_entrance_5x_r15c28"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r15c28"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r15c29
+	name = "abydos_pyramid_entrance_5x_r15c29"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r15c29"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r15c30
+	name = "abydos_pyramid_entrance_5x_r15c30"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r15c30"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r16c1
+	name = "abydos_pyramid_entrance_5x_r16c1"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r16c1"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r16c2
+	name = "abydos_pyramid_entrance_5x_r16c2"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r16c2"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r16c3
+	name = "abydos_pyramid_entrance_5x_r16c3"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r16c3"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r16c4
+	name = "abydos_pyramid_entrance_5x_r16c4"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r16c4"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r16c5
+	name = "abydos_pyramid_entrance_5x_r16c5"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r16c5"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r16c6
+	name = "abydos_pyramid_entrance_5x_r16c6"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r16c6"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r16c7
+	name = "abydos_pyramid_entrance_5x_r16c7"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r16c7"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r16c8
+	name = "abydos_pyramid_entrance_5x_r16c8"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r16c8"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r16c9
+	name = "abydos_pyramid_entrance_5x_r16c9"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r16c9"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r16c10
+	name = "abydos_pyramid_entrance_5x_r16c10"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r16c10"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r16c11
+	name = "abydos_pyramid_entrance_5x_r16c11"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r16c11"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r16c12
+	name = "abydos_pyramid_entrance_5x_r16c12"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r16c12"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r16c13
+	name = "abydos_pyramid_entrance_5x_r16c13"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r16c13"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r16c14
+	name = "abydos_pyramid_entrance_5x_r16c14"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r16c14"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r16c15
+	name = "abydos_pyramid_entrance_5x_r16c15"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r16c15"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r16c16
+	name = "abydos_pyramid_entrance_5x_r16c16"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r16c16"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r16c17
+	name = "abydos_pyramid_entrance_5x_r16c17"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r16c17"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r16c18
+	name = "abydos_pyramid_entrance_5x_r16c18"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r16c18"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r16c19
+	name = "abydos_pyramid_entrance_5x_r16c19"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r16c19"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r16c20
+	name = "abydos_pyramid_entrance_5x_r16c20"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r16c20"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r16c21
+	name = "abydos_pyramid_entrance_5x_r16c21"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r16c21"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r16c22
+	name = "abydos_pyramid_entrance_5x_r16c22"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r16c22"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r16c23
+	name = "abydos_pyramid_entrance_5x_r16c23"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r16c23"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r16c24
+	name = "abydos_pyramid_entrance_5x_r16c24"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r16c24"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r16c25
+	name = "abydos_pyramid_entrance_5x_r16c25"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r16c25"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r16c26
+	name = "abydos_pyramid_entrance_5x_r16c26"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r16c26"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r16c27
+	name = "abydos_pyramid_entrance_5x_r16c27"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r16c27"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r16c28
+	name = "abydos_pyramid_entrance_5x_r16c28"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r16c28"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r16c29
+	name = "abydos_pyramid_entrance_5x_r16c29"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r16c29"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r16c30
+	name = "abydos_pyramid_entrance_5x_r16c30"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r16c30"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r17c1
+	name = "abydos_pyramid_entrance_5x_r17c1"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r17c1"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r17c2
+	name = "abydos_pyramid_entrance_5x_r17c2"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r17c2"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r17c3
+	name = "abydos_pyramid_entrance_5x_r17c3"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r17c3"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r17c4
+	name = "abydos_pyramid_entrance_5x_r17c4"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r17c4"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r17c5
+	name = "abydos_pyramid_entrance_5x_r17c5"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r17c5"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r17c6
+	name = "abydos_pyramid_entrance_5x_r17c6"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r17c6"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r17c7
+	name = "abydos_pyramid_entrance_5x_r17c7"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r17c7"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r17c8
+	name = "abydos_pyramid_entrance_5x_r17c8"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r17c8"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r17c9
+	name = "abydos_pyramid_entrance_5x_r17c9"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r17c9"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r17c10
+	name = "abydos_pyramid_entrance_5x_r17c10"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r17c10"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r17c11
+	name = "abydos_pyramid_entrance_5x_r17c11"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r17c11"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r17c12
+	name = "abydos_pyramid_entrance_5x_r17c12"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r17c12"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r17c13
+	name = "abydos_pyramid_entrance_5x_r17c13"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r17c13"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r17c14
+	name = "abydos_pyramid_entrance_5x_r17c14"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r17c14"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r17c15
+	name = "abydos_pyramid_entrance_5x_r17c15"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r17c15"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r17c16
+	name = "abydos_pyramid_entrance_5x_r17c16"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r17c16"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r17c17
+	name = "abydos_pyramid_entrance_5x_r17c17"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r17c17"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r17c18
+	name = "abydos_pyramid_entrance_5x_r17c18"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r17c18"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r17c19
+	name = "abydos_pyramid_entrance_5x_r17c19"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r17c19"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r17c20
+	name = "abydos_pyramid_entrance_5x_r17c20"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r17c20"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r17c21
+	name = "abydos_pyramid_entrance_5x_r17c21"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r17c21"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r17c22
+	name = "abydos_pyramid_entrance_5x_r17c22"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r17c22"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r17c23
+	name = "abydos_pyramid_entrance_5x_r17c23"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r17c23"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r17c24
+	name = "abydos_pyramid_entrance_5x_r17c24"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r17c24"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r17c25
+	name = "abydos_pyramid_entrance_5x_r17c25"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r17c25"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r17c26
+	name = "abydos_pyramid_entrance_5x_r17c26"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r17c26"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r17c27
+	name = "abydos_pyramid_entrance_5x_r17c27"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r17c27"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r17c28
+	name = "abydos_pyramid_entrance_5x_r17c28"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r17c28"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r17c29
+	name = "abydos_pyramid_entrance_5x_r17c29"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r17c29"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r17c30
+	name = "abydos_pyramid_entrance_5x_r17c30"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r17c30"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r18c1
+	name = "abydos_pyramid_entrance_5x_r18c1"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r18c1"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r18c2
+	name = "abydos_pyramid_entrance_5x_r18c2"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r18c2"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r18c3
+	name = "abydos_pyramid_entrance_5x_r18c3"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r18c3"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r18c4
+	name = "abydos_pyramid_entrance_5x_r18c4"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r18c4"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r18c5
+	name = "abydos_pyramid_entrance_5x_r18c5"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r18c5"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r18c6
+	name = "abydos_pyramid_entrance_5x_r18c6"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r18c6"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r18c7
+	name = "abydos_pyramid_entrance_5x_r18c7"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r18c7"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r18c8
+	name = "abydos_pyramid_entrance_5x_r18c8"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r18c8"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r18c9
+	name = "abydos_pyramid_entrance_5x_r18c9"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r18c9"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r18c10
+	name = "abydos_pyramid_entrance_5x_r18c10"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r18c10"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r18c11
+	name = "abydos_pyramid_entrance_5x_r18c11"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r18c11"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r18c12
+	name = "abydos_pyramid_entrance_5x_r18c12"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r18c12"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r18c13
+	name = "abydos_pyramid_entrance_5x_r18c13"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r18c13"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r18c14
+	name = "abydos_pyramid_entrance_5x_r18c14"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r18c14"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r18c15
+	name = "abydos_pyramid_entrance_5x_r18c15"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r18c15"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r18c16
+	name = "abydos_pyramid_entrance_5x_r18c16"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r18c16"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r18c17
+	name = "abydos_pyramid_entrance_5x_r18c17"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r18c17"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r18c18
+	name = "abydos_pyramid_entrance_5x_r18c18"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r18c18"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r18c19
+	name = "abydos_pyramid_entrance_5x_r18c19"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r18c19"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r18c20
+	name = "abydos_pyramid_entrance_5x_r18c20"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r18c20"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r18c21
+	name = "abydos_pyramid_entrance_5x_r18c21"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r18c21"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r18c22
+	name = "abydos_pyramid_entrance_5x_r18c22"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r18c22"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r18c23
+	name = "abydos_pyramid_entrance_5x_r18c23"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r18c23"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r18c24
+	name = "abydos_pyramid_entrance_5x_r18c24"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r18c24"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r18c25
+	name = "abydos_pyramid_entrance_5x_r18c25"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r18c25"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r18c26
+	name = "abydos_pyramid_entrance_5x_r18c26"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r18c26"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r18c27
+	name = "abydos_pyramid_entrance_5x_r18c27"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r18c27"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r18c28
+	name = "abydos_pyramid_entrance_5x_r18c28"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r18c28"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r18c29
+	name = "abydos_pyramid_entrance_5x_r18c29"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r18c29"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r18c30
+	name = "abydos_pyramid_entrance_5x_r18c30"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r18c30"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r19c1
+	name = "abydos_pyramid_entrance_5x_r19c1"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r19c1"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r19c2
+	name = "abydos_pyramid_entrance_5x_r19c2"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r19c2"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r19c3
+	name = "abydos_pyramid_entrance_5x_r19c3"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r19c3"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r19c4
+	name = "abydos_pyramid_entrance_5x_r19c4"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r19c4"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r19c5
+	name = "abydos_pyramid_entrance_5x_r19c5"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r19c5"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r19c6
+	name = "abydos_pyramid_entrance_5x_r19c6"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r19c6"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r19c7
+	name = "abydos_pyramid_entrance_5x_r19c7"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r19c7"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r19c8
+	name = "abydos_pyramid_entrance_5x_r19c8"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r19c8"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r19c9
+	name = "abydos_pyramid_entrance_5x_r19c9"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r19c9"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r19c10
+	name = "abydos_pyramid_entrance_5x_r19c10"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r19c10"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r19c11
+	name = "abydos_pyramid_entrance_5x_r19c11"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r19c11"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r19c12
+	name = "abydos_pyramid_entrance_5x_r19c12"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r19c12"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r19c13
+	name = "abydos_pyramid_entrance_5x_r19c13"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r19c13"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r19c14
+	name = "abydos_pyramid_entrance_5x_r19c14"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r19c14"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r19c15
+	name = "abydos_pyramid_entrance_5x_r19c15"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r19c15"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r19c16
+	name = "abydos_pyramid_entrance_5x_r19c16"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r19c16"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r19c17
+	name = "abydos_pyramid_entrance_5x_r19c17"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r19c17"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r19c18
+	name = "abydos_pyramid_entrance_5x_r19c18"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r19c18"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r19c19
+	name = "abydos_pyramid_entrance_5x_r19c19"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r19c19"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r19c20
+	name = "abydos_pyramid_entrance_5x_r19c20"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r19c20"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r19c21
+	name = "abydos_pyramid_entrance_5x_r19c21"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r19c21"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r19c22
+	name = "abydos_pyramid_entrance_5x_r19c22"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r19c22"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r19c23
+	name = "abydos_pyramid_entrance_5x_r19c23"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r19c23"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r19c24
+	name = "abydos_pyramid_entrance_5x_r19c24"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r19c24"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r19c25
+	name = "abydos_pyramid_entrance_5x_r19c25"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r19c25"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r19c26
+	name = "abydos_pyramid_entrance_5x_r19c26"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r19c26"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r19c27
+	name = "abydos_pyramid_entrance_5x_r19c27"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r19c27"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r19c28
+	name = "abydos_pyramid_entrance_5x_r19c28"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r19c28"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r19c29
+	name = "abydos_pyramid_entrance_5x_r19c29"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r19c29"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r19c30
+	name = "abydos_pyramid_entrance_5x_r19c30"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r19c30"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r20c1
+	name = "abydos_pyramid_entrance_5x_r20c1"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r20c1"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r20c2
+	name = "abydos_pyramid_entrance_5x_r20c2"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r20c2"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r20c3
+	name = "abydos_pyramid_entrance_5x_r20c3"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r20c3"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r20c4
+	name = "abydos_pyramid_entrance_5x_r20c4"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r20c4"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r20c5
+	name = "abydos_pyramid_entrance_5x_r20c5"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r20c5"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r20c6
+	name = "abydos_pyramid_entrance_5x_r20c6"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r20c6"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r20c7
+	name = "abydos_pyramid_entrance_5x_r20c7"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r20c7"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r20c8
+	name = "abydos_pyramid_entrance_5x_r20c8"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r20c8"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r20c9
+	name = "abydos_pyramid_entrance_5x_r20c9"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r20c9"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r20c10
+	name = "abydos_pyramid_entrance_5x_r20c10"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r20c10"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r20c11
+	name = "abydos_pyramid_entrance_5x_r20c11"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r20c11"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r20c12
+	name = "abydos_pyramid_entrance_5x_r20c12"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r20c12"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r20c13
+	name = "abydos_pyramid_entrance_5x_r20c13"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r20c13"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r20c14
+	name = "abydos_pyramid_entrance_5x_r20c14"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r20c14"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r20c15
+	name = "abydos_pyramid_entrance_5x_r20c15"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r20c15"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r20c16
+	name = "abydos_pyramid_entrance_5x_r20c16"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r20c16"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r20c17
+	name = "abydos_pyramid_entrance_5x_r20c17"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r20c17"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r20c18
+	name = "abydos_pyramid_entrance_5x_r20c18"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r20c18"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r20c19
+	name = "abydos_pyramid_entrance_5x_r20c19"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r20c19"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r20c20
+	name = "abydos_pyramid_entrance_5x_r20c20"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r20c20"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r20c21
+	name = "abydos_pyramid_entrance_5x_r20c21"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r20c21"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r20c22
+	name = "abydos_pyramid_entrance_5x_r20c22"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r20c22"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r20c23
+	name = "abydos_pyramid_entrance_5x_r20c23"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r20c23"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r20c24
+	name = "abydos_pyramid_entrance_5x_r20c24"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r20c24"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r20c25
+	name = "abydos_pyramid_entrance_5x_r20c25"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r20c25"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r20c26
+	name = "abydos_pyramid_entrance_5x_r20c26"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r20c26"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r20c27
+	name = "abydos_pyramid_entrance_5x_r20c27"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r20c27"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r20c28
+	name = "abydos_pyramid_entrance_5x_r20c28"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r20c28"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r20c29
+	name = "abydos_pyramid_entrance_5x_r20c29"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r20c29"
+
+/turf/sga_map_assets/new_sga_icons/sga_abydos_pyramid_entrance_5x_30x20/state_abydos_pyramid_entrance_5x_r20c30
+	name = "abydos_pyramid_entrance_5x_r20c30"
+	icon = 'Icons/Turfs/New-SGA-Icons/SGA_Abydos_Pyramid_Entrance_5x_30x20.dmi'
+	icon_state = "abydos_pyramid_entrance_5x_r20c30"
